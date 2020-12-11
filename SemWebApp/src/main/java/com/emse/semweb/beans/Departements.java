@@ -42,11 +42,6 @@ public class Departements {
 		QueryExecution qExec = conneg.query(query) ;
 		ResultSet rs = qExec.execSelect() ; 
 		
-		//System.out.print(rs);
-		
-    	//Resource subject = qs.getResource("subject") ;
-    	//System.out.println("Subject: "+subject) ; 
-		
 		List<String> departements = new ArrayList<String>();
 		List<String> code_depts = new ArrayList<String>();
 		Map<String, List<String>> d = new HashMap<String, List<String>>();
@@ -67,9 +62,6 @@ public class Departements {
 		    departements.add(departement.getString());
 		    code_depts.add(num_dept);
 		    
-		    
-		    //Resource subject = qs.getResource("subject") ;
-		    //System.out.println("Subject: "+subject) ;
 		}
 		qExec.close();
 		conneg.close();

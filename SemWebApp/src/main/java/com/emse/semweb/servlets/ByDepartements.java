@@ -10,6 +10,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 import com.emse.semweb.beans.Departements;
+import com.emse.semweb.beans.WebAppUrl;
 
 public class ByDepartements extends HttpServlet {
 	
@@ -29,6 +30,11 @@ public class ByDepartements extends HttpServlet {
 		
 		request.setAttribute("liste_departements", rs.get("departements"));
 		request.setAttribute("code_depts", rs.get("code_dept"));
+		
+		WebAppUrl wa = new WebAppUrl(request);
+		String url = wa.getURL();
+		request.setAttribute("web_app_url", url);
+		
 		this.getServletContext().getRequestDispatcher( "/WEB-INF/ByDepartements.jsp" ).forward( request, response );
 	}
 

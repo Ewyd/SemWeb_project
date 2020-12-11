@@ -7,23 +7,37 @@
 <html>
     <head>
         <meta charset="utf-8" />
-        <title>Tri par département</title>
+        <title>Sort by department</title>
     </head>
 
     <body>
-        <h1> Tri par département : </h1>
-        <ul>
-        <% 
-        	List<Literal> rs = (List<Literal>) request.getAttribute("liste_departements");
-    		List<String> cd = (List<String>) request.getAttribute("code_depts");
-        	//QuerySolution qs = rs.get(0) ;
-        	//Resource subject = qs.getResource("s") ;
-        	//Resource subject = rs.get(0);
-        	//out.println("Subject: "+subject) ;
+        <h1>Sort by department</h1>
+        <h2>Choose the department to access the stations</h2>
+
+        <table>
+        	<tr>
+        		<th>Department_id</th>
+        		<th>Department_name</th>
+        	</tr>
         	
-        	for( int i = 0; i < rs.size(); i++ ){
-                out.println("<li> " + cd.get(i) + " - " + rs.get(i) + "</li>");	
-            }
-        %>
-        </ul>
+        		<% 
+        			List<Literal> rs = (List<Literal>) request.getAttribute("liste_departements");
+    				List<String> cd = (List<String>) request.getAttribute("code_depts");
+
+        	
+        			for( int i = 0; i < rs.size(); i++ ){
+        				out.println("<tr>");
+                		//out.println("<li><a href=/SemWebApp/sect?secteur=dept&id=" + cd.get(i) + ">" + cd.get(i) + " - " + rs.get(i) + "</a></li>");
+            			out.println("<td> " + cd.get(i) + "</td>");
+            			out.println("<td><a href=/SemWebApp/sect?secteur=dept&id=" + cd.get(i) + ">" + rs.get(i) + "</a></td>"); 
+            			out.println("</tr>");
+        			}
+        		%>
+        	
+        	
+        	
+        	
+        
+        </table>
     </body>
+</html>

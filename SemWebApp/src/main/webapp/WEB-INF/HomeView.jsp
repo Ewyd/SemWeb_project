@@ -7,7 +7,7 @@
 <html>
     <head>
         <meta charset="utf-8" />
-        <title>Test</title>
+        <title>Accueil</title>
     </head>
 
     <body>
@@ -16,9 +16,10 @@
 		<ul>
 		
 			<% String url = (String) request.getAttribute("web_app_url");
+			
 			String url_reg = url + "/regions";
 			String url_dept = url + "/departements";
-			String url_all = url + "/all";
+			String url_all = url + "/all-stations";
 			
 			out.println("<li><a href="+ url_reg + ">Tri par régions</a></li>");
 			out.println("<li><a href=" + url_dept + ">Tri par départements</a></li>");

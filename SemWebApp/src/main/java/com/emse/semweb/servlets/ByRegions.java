@@ -15,6 +15,7 @@ import org.apache.jena.rdf.model.Literal;
 import org.apache.jena.rdf.model.Resource;
 
 import com.emse.semweb.beans.Regions;
+import com.emse.semweb.beans.WebAppUrl;
 
 
 
@@ -36,6 +37,11 @@ public class ByRegions extends HttpServlet {
 		
 		request.setAttribute("liste_regions", rs.get("regions"));
 		request.setAttribute("code_regions", rs.get("code_regions"));
+		
+		WebAppUrl wa = new WebAppUrl(request);
+		String url = wa.getURL();
+		request.setAttribute("web_app_url", url);
+		
 		this.getServletContext().getRequestDispatcher( "/WEB-INF/ByRegions.jsp" ).forward( request, response );
 	}
 

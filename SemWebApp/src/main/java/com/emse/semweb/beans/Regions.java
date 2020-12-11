@@ -18,10 +18,8 @@ import org.apache.jena.rdfconnection.RDFConnectionFactory;
 
 public class Regions {
 
-	public List<QuerySolution> regions;
 	
 	public Regions() {
-		this.regions = null;
 	}
 	
 	public Map<String, List<String>> getRegions() {
@@ -40,15 +38,11 @@ public class Regions {
 				+ "  ?code_region <" + o.getHasName() + "> ?region.\r\n"
 				+ "  ?station <" + o.getAddressRegion() + "> ?code_region.\r\n"
 				+ "}\r\n"
+				+ "ORDER BY ASC(?code_region)\r\n"
 				+ "LIMIT 50");
 		
 		QueryExecution qExec = conneg.query(query) ;
 		ResultSet rs = qExec.execSelect() ; 
-		
-		//System.out.print(rs);
-		
-    	//Resource subject = qs.getResource("subject") ;
-    	//System.out.println("Subject: "+subject) ; 
 		
 		List<String> regions = new ArrayList<String>();
 		List<String> code_regions = new ArrayList<String>();
@@ -70,8 +64,6 @@ public class Regions {
 		    regions.add(region.getString());
 		    code_regions.add(num_region);
 		    
-		    //Resource subject = qs.getResource("subject") ;
-		    //System.out.println("Subject: "+subject) ;
 		}
 		qExec.close();
 		conneg.close();

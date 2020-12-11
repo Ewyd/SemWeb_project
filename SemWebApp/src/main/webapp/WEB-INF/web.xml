@@ -19,6 +19,14 @@
   	<servlet-name>ByDepts</servlet-name>
   	<servlet-class>com.emse.semweb.servlets.ByDepartements</servlet-class>
   </servlet>
+  <servlet>
+  	<servlet-name>AllStations</servlet-name>
+  	<servlet-class>com.emse.semweb.servlets.AllStations</servlet-class>
+  </servlet>
+  <servlet>
+  	<servlet-name>Secteur</servlet-name>
+  	<servlet-class>com.emse.semweb.servlets.Secteur</servlet-class>
+  </servlet>
   
   <servlet-mapping>
   	<servlet-name>Home</servlet-name>
@@ -32,7 +40,14 @@
   	<servlet-name>ByDepts</servlet-name>
   	<url-pattern>/departements</url-pattern>
   </servlet-mapping>
-  
+  <servlet-mapping>
+  	<servlet-name>AllStations</servlet-name>
+  	<url-pattern>/all-stations</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+  	<servlet-name>Secteur</servlet-name>
+  	<url-pattern>/sect</url-pattern>
+  </servlet-mapping>
   
   
   
