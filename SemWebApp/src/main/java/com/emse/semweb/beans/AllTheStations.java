@@ -42,6 +42,7 @@ public class AllTheStations {
 				+ "  ?reg_id <" + o.getHasName() + "> ?region.\r\n"
 				+ "  ?dept_id <" + o.getHasName() + "> ?dept.\r\n"
 				+ "}\r\n"
+				+ "ORDER BY ASC(?station)\r\n"
 				+ "LIMIT 1000");
 		
 		QueryExecution qExec = conneg.query(query) ;

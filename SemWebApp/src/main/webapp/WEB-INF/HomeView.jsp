@@ -7,11 +7,12 @@
 <html>
     <head>
         <meta charset="utf-8" />
-        <title>Accueil</title>
+        <title>Semantic Web project Brennan-Cottard</title>
     </head>
 
     <body>
-        <h1>Trouvez la gare la plus proche !</h1>
+        <h1> <dd>TGV stations localisation web app </h1>
+        <h2>Choose the way you want to research your train station</h2>
 
 		<ul>
 		
