@@ -27,7 +27,6 @@ public class Secteur extends HttpServlet {
 
 		String id = (String) request.getParameter("id");
 		String secteur = (String) request.getParameter("secteur");
-		//System.out.print(secteur);
 		StationsSecteur sr= new StationsSecteur(secteur, id);
 		
 		Map<String, List<String>> rs = sr.getStations();

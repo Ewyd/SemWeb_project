@@ -1,6 +1,7 @@
 package com.emse.semweb.servlets;
 
 import java.io.IOException;
+import java.lang.reflect.Field;
 import java.util.Iterator;
 import java.util.List;
 import java.util.Map;
@@ -12,6 +13,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 import com.emse.semweb.beans.AllTheStations;
+import com.emse.semweb.beans.Ontology;
 
 public class AllStations extends HttpServlet {
 
@@ -25,8 +27,8 @@ public class AllStations extends HttpServlet {
 
 	public void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 
-		AllTheStations ats = new AllTheStations();
 		
+		AllTheStations ats = new AllTheStations();
 		Map<String, List<String>> rs = ats.getStations();
 		
 		Set<String> keys = rs.keySet();

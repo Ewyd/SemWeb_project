@@ -32,23 +32,21 @@ public class Ontology{
 		
 		String hasName = Schemas + "name";
 		this.hasName = hasName;
-		String hasLatitude = Schemas + "latitude/";
+		String hasLatitude = Schemas + "latitude";
 		this.hasLatitude = hasLatitude;
-		String hasLongitude = Schemas + "longitude/";
+		String hasLongitude = Schemas + "longitude";
 		this.hasLongitude = hasLongitude;
 		String addressRegion = Schemas + "addressRegion";
 		this.addressRegion = addressRegion;
 		String addressLocality = Schemas + "addressLocality";
 		this.addressLocality = addressLocality;
-		String geoWithin = Schemas + "geoWithin/";
+		String geoWithin = Schemas + "geoWithin";
 		this.geoWithin = geoWithin;
-		String hasId = Schemas + "identifier/";
+		String hasId = Schemas + "identifier";
 		this.hasId = hasId;
 		
-		this.TrainStationsDB = "http://localhost:3030/new_dataset";
+		this.TrainStationsDB = "http://localhost:3030/n_test_dataset";
 	}
-
-
 
 	public String getStations() {
 		return stations;

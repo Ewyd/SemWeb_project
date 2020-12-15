@@ -1,10 +1,10 @@
 <%@ page language="java" contentType="text/html; charset=ISO-8859-1"
     pageEncoding="UTF-8"%>
-<%@ page import="org.apache.jena.rdf.model.Literal, java.util.List, org.apache.jena.rdf.model.Resource"  %>
+<%@ page import="org.apache.jena.rdf.model.Literal, java.util.List, org.apache.jena.rdf.model.Resource, com.emse.semweb.beans.Ontology"  %>
 <!DOCTYPE html>
 
 
-<html>
+<html prefix="xsd: https://www.w3.org/2001/XMLSchema#">
     <head>
         <meta charset="utf-8" />
         <title>All stations</title>
@@ -48,14 +48,22 @@
     		List<String> depts = (List<String>) request.getAttribute("depts");
     		List<String> regions = (List<String>) request.getAttribute("regions");
         	
+    		Ontology o = new Ontology();    		
+    		
+    		
+    		
+    		
     		if ((secteur == null)||(secteur.equals("reg"))){
     			out.println("<tr> <th> Station number </th> <th> Station name </th> <th> Department name </th> <th> Latitude </th> <th> Longitude </th> </tr> ");
         		for( int i = 0; i < stations.size(); i++ ){
-        			out.println("<tr>");
-                	//out.println("<li> Station n°"+ stations_id.get(i) + " - " + stations.get(i) + " - " + depts.get(i) + "</li>");
-                	//out.println("	| Latitude : " + latitudes.get(i) + ", Longitude : " + longitudes.get(i));
-                	out.println("<td> "+ stations_id.get(i) + "</td> <td> " + stations.get(i) + "</td> <td> " + depts.get(i) + "</td>");
-                	out.println("<td> " + latitudes.get(i) + "</td> <td> " + longitudes.get(i) + "</td>");
+        			out.println("<tr about=\"" + stations_uri.get(i) +  "\">");
+        			
+                	out.println("<td rel=\"" + o.getHasId() + "\" datatype=\"xsd:integer\">"+ stations_id.get(i) + "</td>");
+                	out.println("<td property=\"" + o.getHasName() +  "\">" + stations.get(i) + "</td>");
+                	out.println("<td property=\"" + o.getAddressRegion() +  "\">" +  depts.get(i) + "</td>");
+                	out.println("<td property=\"" + o.getHasLatitude() + "\" datatype=\"xsd:float\">" + latitudes.get(i) + "</td>");
+                	out.println("<td property=\"" + o.getHasLongitude() + "\" datatype=\"xsd:float\">" + longitudes.get(i) + "</td>");
+                	
                 	out.println("</tr>");
         		}
         		
@@ -64,10 +72,12 @@
     			out.println("<tr> <th> Station number </th> <th> Station name </th> <th> Latitude </th> <th> Longitude </th> </tr>");
     			for( int i = 0; i < stations.size(); i++ ){
     				out.println("<tr>");
-    				//out.println("<li> Station n°"+ stations_id.get(i) + " - " + stations.get(i) + "</li>");	
-    				//out.println("	| Latitude : " + latitudes.get(i) + ", Longitude : " + longitudes.get(i));
-    				out.println("<td> "+ stations_id.get(i) + "</td> <td> " + stations.get(i) + "</td>");	
-    				out.println("<td> " + latitudes.get(i) + "</td> <td> " + longitudes.get(i) + "</td>");
+
+    				out.println("<td rel=\"" + o.getHasId() + "\" datatype=\"xsd:integer\">"+ stations_id.get(i) + "</td>");
+    				out.println("<td property=\"" + o.getHasName() +  "\">" + stations.get(i) + "</td>");	
+    				out.println("<td property=\"" + o.getHasLatitude() + "\" datatype=\"xsd:float\">" + latitudes.get(i) + "</td>");
+                	out.println("<td property=\"" + o.getHasLongitude() + "\" datatype=\"xsd:float\">" + longitudes.get(i) + "</td>");
+    				
     				out.println("</tr>");
     			}
     		}

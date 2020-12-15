@@ -1,5 +1,6 @@
 package semweb;
 
+import org.apache.jena.datatypes.xsd.XSDDatatype;
 import org.apache.jena.query.Query;
 import org.apache.jena.query.QueryExecution;
 import org.apache.jena.query.QueryFactory;
@@ -29,8 +30,6 @@ public class Main {
 	public static void main(String[] args) throws IOException{
 		
 		Model model = ModelFactory.createDefaultModel();
-		
-		//Use schema, Linked Open Vocabulary
 		
 		Ontology o = new Ontology();
 				
@@ -67,13 +66,15 @@ public class Main {
 			Resource region = model.createResource(regions + next_line[2]);
 			Resource dept = model.createResource(depts + next_line[4]);
 			
-			Literal name_station = model.createLiteral(next_line[1]);
+			Literal name_station = model.createLiteral(next_line[1], "fr");
 			Literal name_region = model.createLiteral(next_line[3]);
 			Literal name_dept = model.createLiteral(next_line[5]);
 			
 			Literal id = model.createLiteral(next_line[0]);
-			Literal lat = model.createLiteral(next_line[6]);
-			Literal lon = model.createLiteral(next_line[7]);
+			//Literal lat = model.createLiteral(next_line[6]);
+			Literal lat = model.createTypedLiteral(next_line[6], XSDDatatype.XSDdouble);
+			//Literal lon = model.createTypedLiteral(next_line[7]);
+			Literal lon = model.createTypedLiteral(next_line[7], XSDDatatype.XSDdouble);
 			
 			model.add(station, RDF.type, TrainStations);
 			model.add(station, hasName, name_station);
@@ -89,9 +90,8 @@ public class Main {
 			
 		}
 		model.write(System.out, "Turtle");
-
-		/*
-		String datasetURL = "http://localhost:3030/database";
+		
+		String datasetURL = o.getTrainStationsDB();
 		String sparqlEndpoint = datasetURL + "/sparql";
 		String sparqlUpdate = datasetURL + "/update";
 		String graphStore = datasetURL + "/data";
@@ -101,7 +101,7 @@ public class Main {
 		System.out.print("Done !");
 		stations_csvreader.close(); 
 		
-		conneg.close(); */
+		conneg.close(); 
 		
 		/*
 		String datasetURL = "http://localhost:3030/test";
