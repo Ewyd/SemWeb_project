@@ -1,0 +1,706 @@
+X;Y;osm_id;type;name;operator;emergency;wheelchair;opening_hours;ref_finess;type_finess;ref_naf;capacity;for_public;ref_siret;phone;com_insee;com_nom
+-0.2410763;44.916302900476;node/1004102097;pharmacy;Pharmacie Gambetta;;;;;330047911;;;;;;;33243;Libourne
+-0.2428027;44.9154365004761;node/1004102269;pharmacy;Pharmacie Centrale;;;;Mo-Sa 09:00-20:00;330047895;;;;;;;33243;Libourne
+-0.709622;44.8966116004778;node/1012791040;dentist;Cabinet dentaire;;;;;;;;;;;;33449;Saint-Médard-en-Jalles
+-0.7041181;44.8999632004775;node/1012800836;doctors;Maison médicale de la Boëtie;;;;;;;;;;;;33449;Saint-Médard-en-Jalles
+-0.7307084;44.8955049004779;node/1013316513;pharmacy;Pharmacie Benito - Camu;;;;;330051590;;;;;;;33449;Saint-Médard-en-Jalles
+-0.7565849;44.8949669004779;node/1016706574;pharmacy;;;;;;330051681;;;;;;;33449;Saint-Médard-en-Jalles
+-0.7448635;44.894074000478;node/1018057501;dentist;;;;;;;;;;;;;33449;Saint-Médard-en-Jalles
+-0.7273004;44.8956853004779;node/1018062740;dentist;;;;;;;;;;;;;33449;Saint-Médard-en-Jalles
+-0.7031163;44.8880261004785;node/1019914234;dentist;;;;;;;;;;;;;33449;Saint-Médard-en-Jalles
+-0.7018266;44.8884940004785;node/1019980317;pharmacy;Pharmacie de la liberté;;;;;330051624;;;;;;+33 5 56 05 04 21;33449;Saint-Médard-en-Jalles
+-0.7005398;44.8878016004786;node/1019983208;doctors;;;;;;;;;;;;;33449;Saint-Médard-en-Jalles
+-0.7086956;44.8912217004783;node/1021086869;doctors;;;;;;;;;;;;;33449;Saint-Médard-en-Jalles
+-0.6991441;44.8820146004791;node/1025572490;pharmacy;Pharmacie Plante;;;;;330051541;;;;;;;33449;Saint-Médard-en-Jalles
+-0.6687288;44.9075013004768;node/1034042212;pharmacy;La Pharmacie du Taillan;;;;;330052291;;;;;;;33519;Le Taillan-Médoc
+-0.6780915;44.8729957004799;node/1035720533;pharmacy;Pharmacie de la Mairie;;;;;330046962;;;;;;;33200;Le Haillan
+-0.6757608;44.87118420048;node/1035744976;pharmacy;Pharmacie Senescal;;;;;330046947;;;;;;;33200;Le Haillan
+-0.7039455;44.8820257004791;node/1035887676;dentist;Cabinet la Longua;;;;;;;;;;;;33449;Saint-Médard-en-Jalles
+-0.2416835;44.9178475004759;node/1136060800;pharmacy;Pharmacie des Allées;;;;;330048125;;;;;;;33243;Libourne
+-0.5157755;44.8427879004825;node/1164443608;pharmacy;Pharmacie du Collège;;;;;330046244;;;;;;;33167;Floirac
+-0.5111304;44.8455365004822;node/1191481476;pharmacy;Pharmacie Benoît;;;;;330046327;;;;;;;33167;Floirac
+-0.2438681;44.9112424004765;node/1194288245;dentist;Dentiste / Nutritionniste;;;;;;;;;;;;33243;Libourne
+-0.634641;44.8840798004789;node/1241182750;doctors;Cabinet médical;;;;;;;;;;;;33162;Eysines
+-0.6837906;44.9115584004764;node/1244657147;pharmacy;Pharmacie de la Boëtie;;;;"Mo-Sa 09:00-12:30,14:30-20:00";330055880;;;;;;;33519;Le Taillan-Médoc
+-0.6351701;44.9294106004748;node/1249196801;pharmacy;Pharmacie de Caychac;;;;;330040064;;;;;;;33056;Blanquefort
+-0.5875034;44.8394071004828;node/1259853059;pharmacy;Pharmacie Saint-Bruno;;;;;330041195;;;;;;;33063;Bordeaux
+-0.3871367;44.9736187004707;node/1265684859;pharmacy;Pharmacie Galand;;;;;330047176;;;;;;;33219;La Lande-de-Fronsac
+-0.5738917;44.8330840004833;node/1309181200;pharmacy;Pharmacie Chiron;;;;;330042011;;;;;;;33063;Bordeaux
+-0.5984248;44.7346972004914;node/1393840240;pharmacy;Pharmacie de Frigères;;;;Mo-Sa 09:00-19:45;330047630;;;;;;+33 5 56 64 01 37;33238;Léognan
+-0.6172766;44.8737564004798;node/1470847850;pharmacy;Pharmacie Bouquet;;;;;330044561;;;;;;;33075;Bruges
+-0.6803354;44.739742900491;node/1476465230;pharmacy;Pharmacie de Cestas;;;yes;"Mo-Fr 08:30-12:45,14:15-20:00; Sa 08:30-12:45,14:30-19:30; Su off";330045626;;;;;;+33 5 56 78 13 12;33122;Cestas
+-0.5666035;44.8586237004811;node/1509361474;pharmacy;Pharmacie Chassaigne Debruyne;;;;;330043381;;;;;;;33063;Bordeaux
+-0.6626689;45.1278551004555;node/1546084157;pharmacy;Pharmacie de l'Alliance;;;;;330040163;620;;;;;+33 5 57 42 01 06;33058;Blaye
+-0.6621271;45.1291456004554;node/1546120108;pharmacy;Pharmacie des Remparts;;;;;330040247;620;;;;;+33 5 57 42 11 79;33058;Blaye
+-0.3337822;44.6318057004992;node/1605668944;pharmacy;Pharmacie Thurin;;;;;330045592;;;;;;;33120;Cérons
+-0.6476618;44.8025117004859;node/1666131163;pharmacy;Pharmacie du Monteil;;;;;330049941;;;;;;;33318;Pessac
+-0.7744769;44.8093175004853;node/1667159169;pharmacy;;;;;;330051244;;;;;;;33422;Saint-Jean-d'Illac
+-0.6057125;44.9760885004705;node/1667428835;doctors;Généraliste;;;;;;;;;;;;33256;Ludon-Médoc
+-0.3928096;44.859804800481;node/1669174974;nursing_home;EHPAD Château Vacquey;;;;;330786385;500;;;senior;32115293600027;+33556729145;33496;Sallebœuf
+-0.4005912;44.8395989004828;node/1669175174;pharmacy;Sajous-Pichon;;;;;330052044;;;;;;;33496;Sallebœuf
+-0.4420276;44.9940869004688;node/1694901197;dentist;Dentiste - SCM Dantadent;;;no;;;;;;;;;33366;Saint-André-de-Cubzac
+-0.6921254;44.883190100479;node/1706355282;pharmacy;;;;;;330056011;;;;;;;33449;Saint-Médard-en-Jalles
+-0.5683565;44.8286740004837;node/1723400628;pharmacy;Pharmacie de l'Yser;;;;;330044074;;;;;;;33063;Bordeaux
+-0.5724706;44.8193599004845;node/1754966933;pharmacy;Pharmacie de la Pyramide;;;;;330043977;;;;;;;33063;Bordeaux
+-0.4970181;45.0749516004609;node/1786295918;pharmacy;Pharmacie de Pugnac;;;;;330050295;;;;;;+33 5 57 68 81 39;33341;Pugnac
+-0.5668106;44.8627147004808;node/1796326495;pharmacy;Pharmacie Saint Louis;Bruno Charlier;;;;330043464;;;;;;+33 5 56 39 48 41;33063;Bordeaux
+-0.3670444;44.6567463004973;node/1820033241;pharmacy;Pharmacie du pôle médical des Graves;;;;;;;;;;;;33327;Podensac
+-0.602398;44.9481192004731;node/1831980580;doctors;Medecin;;;;;;;;;;;;33312;Parempuyre
+-0.7014107;44.8885521004785;node/1838274566;doctors;Groupe Médical;;;;;;;;;;;;33449;Saint-Médard-en-Jalles
+-0.1898188;44.8756858004796;node/1841498340;dentist;;;;;;;;;;;;;33480;Saint-Sulpice-de-Faleyrens
+-0.6814603;44.7409451004909;node/1867337542;doctors;Cabinet médical;;;yes;;;;;;;;;33122;Cestas
+-0.681692;44.7429716004907;node/1867337545;doctors;Cabinet médical;;;;;;;;;;;;33122;Cestas
+-0.5817745;44.8392393004828;node/1879624060;pharmacy;Pharmacie bleue;;;;;330040643;;;;;;+33 5 56 79 19 19;33063;Bordeaux
+-0.5851695;44.8082184004854;node/1882082302;pharmacy;Pharmacie de la Place;;;;Mo-Sa 09:00-20:00;330052325;;;;;;;33522;Talence
+-0.579128;44.8064834004855;node/1882100917;pharmacy;Pharmacie NOUR;;;;;330052390;;;;;;;33522;Talence
+-0.5813959;44.8080168004854;node/1882109406;dentist;Cabinet Dentaire;;;;;;;;;;;;33522;Talence
+-0.5855563;44.8174710004846;node/1885923677;pharmacy;Pharmacie Barbe;;;;;330052440;;;;;;;33522;Talence
+-0.561729;44.8283138004837;node/1886414722;pharmacy;Pharmacie Gaste;;;;;330043761;;;;;;;33063;Bordeaux
+-0.7689276;44.8419528004826;node/1896502274;pharmacy;Pharmacie des Portes Océanes;;;;"Mo-Fr 08:30-12:30,14:00-19:30; Sa 09:00-12:30,14:00-19:00";330048646;;;;;;;33273;Martignas-sur-Jalle
+-0.633283;44.8461694004822;node/1912136794;pharmacy;Pharmacie du Clos Montesquieu;;;;"Mo-Fr 08:45-12:30,14:00-20:00, Sa 08:45-12:45,14:00-19:30";330049040;;;;;;;33281;Mérignac
+-0.5774105;44.8119057004851;node/1927310558;doctors;;;;;;;;;;;;;33522;Talence
+-0.7701965;44.6082218005009;node/1950639380;pharmacy;Pharmacie Le Quéré;;;;;330039330;;;;;;;33029;Le Barp
+-0.5659093;44.8228699004842;node/1985492118;pharmacy;Pharmacie Sangue;;;;"Mo-Fr 08:30-12:30,13:30-20:00";330043514;;;;;;;33063;Bordeaux
+-0.2214067;44.9017567004773;node/2000199266;pharmacy;Pharmacie de la Gabarre;;;;;330047945;;;;;;;33243;Libourne
+-0.6322674;44.7907027004869;node/2004934934;pharmacy;Pharmacie de Saige Formanoir;;;;;330049560;;;;;;;33318;Pessac
+-0.6345;44.7903537004869;node/2005210126;pharmacy;Pharmacie de Saige;NAKACHE - BOUHANA;;;;330049990;;;;;;+33 5 56 45 07 02;33318;Pessac
+-0.5914967;44.824587400484;node/2014760431;doctors;Centre de Santé Médical Galliéni;;;;Mo-Fr 08:30-19:00;;;;;;;+33 5 56 33 95 50;33063;Bordeaux
+-0.523502;44.8856631004788;node/2015353598;pharmacy;Pharmacie du Bas Carriet;;;;;;;;;;;;33249;Lormont
+-0.523285;44.882812400479;node/2015367964;pharmacy;Pharmacie de Carriet;;;;;330048240;;;;;;;33249;Lormont
+-0.4489579;44.824441900484;node/2074761638;pharmacy;Pharmacie des Bons Enfants;;;;;330046160;;;;;;;33165;Fargues-Saint-Hilaire
+-0.2285473;44.905183400477;node/2090355868;pharmacy;Pharmacie Guyot-Darmani;;;;;330047994;;;;;;;33243;Libourne
+-0.2314323;44.9072989004768;node/2090355869;pharmacy;Pharmacie Cholet;;;;;330047960;;;;;;;33243;Libourne
+-0.2402641;44.916059100476;node/2090355870;pharmacy;Pharmacie Chassagnoux;;;;;330047861;;;;;;;33243;Libourne
+-0.2374885;44.9217642004755;node/2090355887;doctors;Urgences médicales / Consultations;;;;;;;;;;;;33243;Libourne
+-0.5030299;44.8178968004846;node/2121564320;pharmacy;Pharmacie Guillaume;;;;;330044181;;;;;;;33065;Bouliac
+-0.5319284;44.75254760049;node/2123499387;pharmacy;Pharmacie de l'Ormeau;;;;;330044694;;;;;;;33080;Cadaujac
+-0.7927855;45.0745227004609;node/2150057705;pharmacy;Pharmacie Huchet;;;;;330048224;;;;;;;33248;Listrac-Médoc
+-0.6582843;44.7361551004913;node/2186344206;doctors;Dr. Millaret;;;;;;;;;;;;33122;Cestas
+-0.389506;44.7155255004929;node/2191008198;pharmacy;Pharmacie Labussiere;;;;;330047275;;;;;;;33226;Langoiran
+-0.2380397;44.916103600476;node/2192255420;dentist;Chirurgien dentiste;;;;;;;;;;;;33243;Libourne
+-0.6071964;44.8216603004843;node/2213698020;pharmacy;Pharmacie de Carreire;;;;"Mo-Fr 08:30-12:30, 14:30-19:30; Sa 09:00-12:30";330049677;;;;;;;33318;Pessac
+-0.5780447;44.8386255004828;node/2238338224;dentist;Centre de Santé Dentaire Vital Carles;;;;;;;;;;;+33 5 56 44 93 78;33063;Bordeaux
+-0.622274;44.8098829004853;node/2242854511;pharmacy;Pharmacie des Echoppes;BOURDEAU;;;;330049826;;;;;;+33 5 56 45 39 84;33318;Pessac
+-0.2445192;44.9150977004761;node/2264857091;pharmacy;Pharmacie Labadie;;;;;330047812;;;;;;;33243;Libourne
+-0.5110892;44.8470968004821;node/2324400342;pharmacy;Pharmacie Mares;;;;"Mo-Fr 07:00-22:00; Sa 07:00-21:00";330045576;;;;;;;33119;Cenon
+-0.5188163;44.8544844004815;node/2327163897;pharmacy;Pharmacie de la Morlette;;;;;330045543;;;;;;;33119;Cenon
+-0.4954006;44.8578137004812;node/2327171634;pharmacy;Pharmacie Chambon-Combeuil;;;;;330039215;;;;;;;33013;Artigues-près-Bordeaux
+-0.5298571;44.8552047004814;node/2379018578;pharmacy;Pharmacie Namigohar;;;yes;Mo-Sa 08:00-20:00;330045477;;;;;;;33119;Cenon
+-0.5729034;44.8314725004834;node/2394969939;clinic;Laboratoire d'analyses;;;;;;;;;;;;33063;Bordeaux
+-0.3208121;44.6370003004988;node/2398300800;pharmacy;Pharmacie de la Halle;;;;;330044710;;;;;;;33081;Cadillac
+-0.2454686;44.9148522004761;node/2401504374;pharmacy;Pharmacie de l'Hôtel de Ville;;;;;330047846;;;;;;;33243;Libourne
+-0.2443453;44.9154237004761;node/2402369553;pharmacy;Pharmacie du Marché;;;;;330048075;;;;;;;33243;Libourne
+-0.5568781;44.859352300481;node/2446049181;pharmacy;Pharmacie Maritime;;;;;330040726;;;;;;;33063;Bordeaux
+-0.2447128;44.9140339004762;node/2452518670;pharmacy;Pharmacie d'Aquitaine;;;;;330048174;;;;;;;33243;Libourne
+-0.5644231;44.813054900485;node/2476345182;pharmacy;Pharmacie Ferrade;;;;;330039843;;;;;;;33039;Bègles
+-0.5731315;44.813252300485;node/2495304256;pharmacy;Pharmacie Castano Spada;;;;;330044041;;;;;;;33063;Bordeaux
+-0.5473043;44.8758442004796;node/2501779800;pharmacy;Pharmacie Guichard;;;;"Mo-Sa 09:00-12:15, 14:00-19:30";330043290;;;;;;+33 5 56 50 84 64;33063;Bordeaux
+-0.5468009;44.8736577004798;node/2501779804;doctors;Béatrice Picot;;;;;;;;;;;+33556509152;33063;Bordeaux
+-0.5753735;44.8240838004841;node/2507122659;hospital;Centre Jean Abadie;;;;;330802752;;;;;;;33063;Bordeaux
+-0.6818655;44.7925460004867;node/2575883897;doctors;;;;;;;;;;;;;33318;Pessac
+-0.5830449;44.8211568004843;node/2583394916;pharmacy;Pharmacie Saint-Genès;;;;"Mo-Fr 09:00-19:30; Sa 09:00-12:30";330052424;;;;;;;33522;Talence
+-0.4653932;44.8805685004792;node/2631003859;pharmacy;Pharmacie d'Yvrac;;;;;330053380;;;;;;;33554;Yvrac
+-0.5310388;44.8383450004829;node/2723279658;pharmacy;Pharmacie de la Gravette;;;yes;"mo-sa 9:00-12:30, 14:30-19:00";330046277;;;;;;;33167;Floirac
+-0.5267064;44.8307700004835;node/2725033239;doctors;cabinet médical;;;;;;;;;;;;33167;Floirac
+-0.5331536;44.8391150004828;node/2728502501;doctors;cabinet médical;;;yes;"09:00-12:30, 14:00-19:00";;;;;;;+33557773398;33167;Floirac
+-0.614365;44.8543265004815;node/2759062988;dentist;;;;;;;;;;;;;33063;Bordeaux
+-0.623423;44.8545723004815;node/2773781158;dentist;Orthodontiste;Brousseaud Vanessa;;;;;;;;;;+33 5 57 22 46 55;33063;Bordeaux
+-0.5443267;44.8016888004859;node/2782164110;pharmacy;Pharmacie du Dorat;;;;;330039744;;;;;;;33039;Bègles
+-0.5489697;44.8073900004855;node/2782205487;pharmacy;Pharmacie du 14 Juillet;;;;"Mo-Fr 08:30-20:00; Sa 08:30-19:00";330039777;;;;;;;33039;Bègles
+-0.6107992;44.8321084004834;node/281727110;pharmacy;Pharmacie Saint-Augustin;;;;;330040791;;;;;;;33063;Bordeaux
+-0.6104263;44.8335957004833;node/281727175;pharmacy;Pharmacie Boisson;;;limited;"Mo-Fr 08:30-13:00,14:30-19:30; Sa 09:00-13:00";330040924;;;;;;;33063;Bordeaux
+-0.6117705;44.8324937004833;node/281727867;pharmacy;Pharmacie Bavouzet;;;;;330041377;;;;;;;33063;Bordeaux
+-0.6243343;44.8233178004841;node/2855265072;pharmacy;Pharmacie d'Arlac;;;;;330049180;;;;;;;33281;Mérignac
+-0.618725;44.8166403004847;node/2859666202;pharmacy;Pharmacie du Verthamon;;;;;330049792;;;;;;;33318;Pessac
+-0.4209281;44.6896364004949;node/2894348303;pharmacy;Pharmacie Nau-grenier;;;;"Mo-Sa 09:00-13:00,14:00-20:00";330050162;;;;;;;33334;Portets
+-0.603679;44.8305719004835;node/2895048486;pharmacy;Pharmacie du Tripode;;;;;330040411;;;;;;;33063;Bordeaux
+-0.512954;44.9123560004764;node/2899149605;doctors;;;;;;;;;;;;;33032;Bassens
+-0.5167206;44.9073192004768;node/2899150842;pharmacy;Pharmacie Montsouris;;;;;330039447;;;;;;;33032;Bassens
+-0.5804509;44.8417662004826;node/2923469417;pharmacy;Pharmacie de France;;;;;330041112;;;;;;;33063;Bordeaux
+-0.5361735;44.8427967004825;node/2927437830;pharmacy;Pharmacie de Monrepos;;;;;330045410;;;;;;;33119;Cenon
+-0.5801805;44.8193393004845;node/2929231063;pharmacy;Pharmacie Bordeaux Roosevelt;;;;;330052564;;;;;;;33522;Talence
+-0.6463216;44.8418061004826;node/2935229316;pharmacy;Pharmacie Principale;;;;;330048877;;;;;;;33281;Mérignac
+-0.5701683;44.8353024004831;node/2945866288;pharmacy;Pharmacie Victor Hugo;;;;"Mo-Fr 09:00-20:00; Sa 09:00-19:00";330042540;;;;;;;33063;Bordeaux
+-0.6061836;44.8311909004835;node/2947958192;doctors;;;;;;;;;;;;;33063;Bordeaux
+-0.6103507;44.7721240004884;node/2953938172;pharmacy;Pharmacie de Laurenzanne;;;;;330046525;;;;;;;33192;Gradignan
+-0.610059;44.7787174004878;node/2968541440;pharmacy;Pharmacie Gallay-Gadret;;;;"Mo-Fr 08:30-12:30,14:00-20:00, Sa 08:30-12:30,14:00-19:30";330046624;;;;;;;33192;Gradignan
+-0.5274492;44.6807015004956;node/3069906804;pharmacy;Pharmacie Capdeville;;;;;330047093;;;;;;;33213;La Brède
+-0.6228527;44.8493262004819;node/310094051;pharmacy;Pharmacie Bérard-Argivier;;;;"Mo-Sa 09:00-12:30,14:30-19:30";330042995;;;;;;+33 5 56 08 26 96;33063;Bordeaux
+-0.6197676;44.8527002004816;node/310212089;pharmacy;Pharmacie de Lestonnat;;;;;330042243;;;;;;+33 5 56 42 10 44;33063;Bordeaux
+-0.3193868;44.6372380004988;node/3160827427;pharmacy;Pharmacie du Château;;;;;330044744;;;;;;;33081;Cadillac
+-0.616115;44.8889561004785;node/318733816;hospital;Clinique Jean Villar;;;;;330782582;365;;;;;+33 8 26 30 81 81;33075;Bruges
+-0.5817049;44.8502259004818;node/3207480024;pharmacy;Pharmacie Desmoulin;;;;;330041542;;;;;;;33063;Bordeaux
+-0.5880609;44.8616356004809;node/3207491685;pharmacy;Pharmacie Martial N.;;;;"Mo-Fr 08:30-13:00,14:00-20:00; Sa 09:00-13:00,14:00-19:30";330044462;;;;;;;33069;Le Bouscat
+-0.6167182;44.8623709004808;node/3207588407;pharmacy;Pharmacie Salavert;;;;;330042862;;;;;;+33 5 56 08 05 40;33063;Bordeaux
+-0.6239721;44.8585209004811;node/3207588408;pharmacy;Pharmacie des Pins-Francs;;;;"Mo-Fr 08:30-20:00; Sa 09:00-19:00";330042946;;;;;;+33 5 56 08 25 56;33063;Bordeaux
+-0.6129346;44.860030000481;node/3207589235;pharmacy;Pharmacie Cazauran Jacob;;;;;330043225;;;;;;;33063;Bordeaux
+-0.6657108;44.8418068004826;node/3207780300;pharmacy;Pharmacie de Mérignac;;;;;330049164;;;;;;;33281;Mérignac
+-0.6850403;44.8748628004797;node/3209306497;pharmacy;Pharmacie Aublanc;;;;;330046996;;;;;;;33200;Le Haillan
+-0.7039655;44.8742131004797;node/3209313881;pharmacy;Pharmacie de Corbiac;;;;;330051491;;;;;;;33449;Saint-Médard-en-Jalles
+-0.5035383;44.8146477004849;node/3239762066;dentist;;;;;;;;;;;;;33065;Bouliac
+-0.5689378;44.8397803004827;node/3269635762;pharmacy;Pharmacie de la Bourse;;;;;330042193;;;;;;;33063;Bordeaux
+-0.6459012;44.882347600479;node/3291079897;pharmacy;Pharmacie du Médoc;;;;;330046095;;;;;;;33162;Eysines
+-0.6665829;44.8916087004782;node/3291079913;pharmacy;Pharmacie Buron;;;;Mo-Sa 09:00-20:00;330046061;;;;;;;33162;Eysines
+-0.6347924;44.8680904004803;node/3293249304;pharmacy;Pharmacie Migron;;;;;330046046;;;;;;;33162;Eysines
+-0.5717659;44.8729277004799;node/3353957985;nursing_home;Centre de santé maternelle et infantile;;;;;;;;;;;;33063;Bordeaux
+-0.5718437;44.8734485004798;node/3353959076;pharmacy;Pharmacie du Lac Les Aubiers;;;;;330040262;;;;;;+33 5 56 50 90 04;33063;Bordeaux
+-0.5713823;44.8733278004798;node/3353970899;dentist;;;;;;;;;;;;;33063;Bordeaux
+-0.5711006;44.8733449004798;node/3353970900;doctors;Médecin;;;;;;;;;;;;33063;Bordeaux
+-0.3646714;44.6850533004952;node/3398314586;pharmacy;Pharmacie de Paillet;;;;;330049362;;;;;;;33311;Paillet
+-0.6815353;44.7928378004867;node/3569185293;dentist;;;;limited;;;;;;;;;33318;Pessac
+-0.6724782;44.7985605004862;node/3569265932;pharmacy;Pharmacie du Haut Livrac;;;yes;;330049594;;;;;;+335 57 26 60 00;33318;Pessac
+-0.6200502;44.8521735004817;node/366722132;dentist;;;;;;;;;;;;;33063;Bordeaux
+-0.6198307;44.8157740004848;node/3747118326;doctors;Naturhouse;;;;"Mo 13:30-19:00; Tu 09:30-19:00; We 09:00-13:00; Th 09:30-19:00; Fr 10:00-18:00; Sa 09:00-12:00";;;;;;;+33 5 56 11 03 29;33318;Pessac
+-0.6531966;44.764685400489;node/3752558846;pharmacy;Pharmacie Julie;;;;"Mo-Sa 09:00-12:30; Mo-Fr 14:30-19:30";330044876;;;;;;+33556751740;33090;Canéjan
+-0.3895051;45.1013120004582;node/3753093445;pharmacy;Pharmacie Meynard;;;;;330045295;;;;;;;33114;Cavignac
+-0.385894;45.0950252004589;node/3753141156;pharmacy;Pharmacie Gafsi Decout;;;;;330045261;;;;;43226872000021;;33114;Cavignac
+-0.5670726;44.7928625004867;node/3754250526;doctors;Naturhouse;;;;"Tu 10:00-19:00; We 09:30-19:00; Th 10:00-19:00; Fr 09:30-19:00";;;;;;;+33 5 56 49 64 87;33039;Bègles
+-0.5957471;44.7749549004881;node/3800446159;pharmacy;Pharmacie de la Croix de Monjous;;;;"Mo-Fr  08:30-12:30, 14:00-19:30, Sa 08:30-12:30, 14:00-19:00";330046590;;;;;;+33 5 56 89 15 29;33192;Gradignan
+-0.5351803;44.8556753004814;node/3868935759;pharmacy;Pharmacie du Pont Rouge;;;yes;"Mo-Fr 08:30-19:30; Sa 08:30-12:30";330045444;;;;;;;33119;Cenon
+-0.3196174;44.6365949004988;node/3873376757;pharmacy;Pharmacie Medeville;;;;;330044777;;;;;;;33081;Cadillac
+-0.401064;44.7086303004934;node/3873465594;pharmacy;Pharmacie Depond Drouillard;;;;;330047291;;;;;;;33226;Langoiran
+-0.4626735;44.7318536004916;node/3873536683;pharmacy;Pharmacie Di Battista;;;;;330044793;;;;;;;33084;Cambes
+-0.5834572;44.8416611004826;node/3873707608;pharmacy;Pharmacie Burdigala;;;;;330041781;;;;;;;33063;Bordeaux
+-0.4880798;44.7669854004888;node/3873772888;pharmacy;Pharmacie des Premiers Côtés;;;;;330044827;;;;;;;33085;Camblanes-et-Meynac
+-0.4113641;44.7800376004877;node/3874477647;pharmacy;Pharmacie de Sadirac;;;;;330050592;;;;;;;33363;Sadirac
+-0.5291746;44.8336347004833;node/3875007775;pharmacy;Pharmacie Pasteur;;;;;330046293;;;;;;;33167;Floirac
+-0.5914428;44.8242573004841;node/3883497915;pharmacy;Pharmacie Mutualiste Bordeaux Galliéni;Pavillon de la Mutualité;;no;"Mo-Fr 09:00-12:30,14:30-19:30; Sa 09:00-12:30";330044165;;;;;;+33 5 56 98 97 37;33063;Bordeaux
+-0.567798;44.7956163004865;node/3939449433;pharmacy;Pharmacie Saint-Bris;;;;;330039793;;;;;;;33039;Bègles
+-0.4168737;44.5653818005039;node/3946019960;pharmacy;Pharmacie Mondolini;;;;;330047242;;;;;;;33225;Landiras
+-0.5517511;44.8655162004805;node/3981408215;doctors;;;;;;;;;;;;;33063;Bordeaux
+-0.5858834;44.8068979004855;node/401569469;doctors;;;;;;;;;;;;;33522;Talence
+-0.5864122;44.8070401004855;node/401569935;doctors;Centre Ophtalmologique;;;;;;;;;;;;33522;Talence
+-0.5710934;44.8792789004793;node/4019462648;pharmacy;Grande Pharmacie Ginko;;;;;330040890;;;;;;+33 5 56 52 91 01;33063;Bordeaux
+-0.4804322;44.6709739004963;node/4019895346;doctors;;;;;;;;;;;;;33474;Saint-Selve
+-0.5829264;44.7987351004862;node/403808793;pharmacy;Pharmacie de Pacaris;;;;;330052531;;;;;;;33522;Talence
+-0.7442592;44.9058466004769;node/4114372371;pharmacy;Pharmacie Rocade;;;;;330040395;620;;;;34202884200041;+33556050605;33449;Saint-Médard-en-Jalles
+-0.5380961;44.8405583004827;node/4170186101;doctors;;;;;;;;;;;;;33167;Floirac
+-0.610349;44.7722137004884;node/4170960975;doctors;;;;;;;;;;;;;33192;Gradignan
+-0.6168829;44.7691352004886;node/4264286129;pharmacy;Pharmacie Jaillet;;;;"Mo-Sa 09:00-12:30,14:00-19:30";330046681;;;;;;+33 5 56 89 37 66;33192;Gradignan
+-0.3156261;44.7713163004884;node/4268880560;pharmacy;Pharmacie Tournier et Gondat;;;;;330052176;;;;;;;33505;La Sauve
+-0.3481264;44.7754205004881;node/4285828951;dentist;;;;;;;;;;;;;33140;Créon
+-0.3478676;44.7746334004882;node/4285937761;doctors;Orthophoniste;;;no;;;;;;;;;33140;Créon
+-0.6431046;44.8616238004808;node/429656990;pharmacy;Pharmacie du Grand Louis;;;;;330046145;;;;;;;33162;Eysines
+-0.6212021;44.7710482004885;node/4320864441;doctors;Cabinet Médical;;;;;;;;;;;;33192;Gradignan
+-0.4727266;44.8653066004805;node/4330281789;pharmacy;Pharmacie Guillot;;;;;330039231;;;;;;;33013;Artigues-près-Bordeaux
+-0.5826483;44.7657205004889;node/4350852331;doctors;Cabinet d'infirmières indépendantes;;;;;;;;;;;;33550;Villenave-d'Ornon
+-0.402252;45.1405218004542;node/4357979268;pharmacy;Pharmacie Zerbib;;;;;330051996;;;;;;;33492;Saint-Yzan-de-Soudiac
+-0.1549869;44.893808500478;node/4396163594;pharmacy;Pharmacie;;;;;330050915;;;;;;;33394;Saint-Émilion
+-0.5474711;44.8475728004821;node/4419554789;pharmacy;Pharmacie Teillac;;;;;330042763;;;;;;;33063;Bordeaux
+-0.5789721;44.8429969004825;node/442155173;pharmacy;Pharmacie de Bachoué;;;;;330041245;;;;;;;33063;Bordeaux
+-0.7459653;44.893913600478;node/4426643685;pharmacy;Pharmacie d'Hastignan;;;;;330051525;;;;;;+33 5 56051099;33449;Saint-Médard-en-Jalles
+-0.6133947;44.8029652004859;node/4445994190;doctors;Centre de Santé;;;;;;;;;;;;33318;Pessac
+-0.5711085;44.8552168004814;node/444750701;pharmacy;Pharmacie Labernede;;;;;330043340;;;;;;;33063;Bordeaux
+-0.5878704;44.8465118004822;node/4454010588;pharmacy;Pharmacie Paulin;;;;;330042045;;;;;;;33063;Bordeaux
+-0.5171957;44.8755764004796;node/4459195295;pharmacy;Pharmacie Génicart;;;yes;"Mo-Sa 09:00-12:30; Mo-Sa 14:30-19:30";330048265;;;;;;+33556060269;33249;Lormont
+-0.6583326;44.7362075004913;node/4462331721;dentist;Dr. Hirt;;;;;;;;;;;;33122;Cestas
+-0.229924;44.9202697004756;node/4487431586;pharmacy;Pharmacie de la Marne;;;;;330048026;;;;;;;33243;Libourne
+-0.3481017;44.7744144004882;node/4501991608;pharmacy;Pharmacie Bordage;;;limited;;330045865;;;;;;;33140;Créon
+-0.3452306;44.7728014004883;node/4523531998;dentist;;;;;;;;;;;;;33140;Créon
+-0.583304;44.8203827004844;node/4532135264;dentist;;;;;;;;;;;;;33522;Talence
+-0.5339105;44.776831100488;node/4606172195;doctors;Dr Cabioch;;;;;;;;;;;+33633370113;33550;Villenave-d'Ornon
+-0.6202594;44.8271373004838;node/462236825;pharmacy;Pharmacie de Peychotte;;;;Mo-Sa 08:30-20:00;330048893;;;;;;;33281;Mérignac
+-0.5470787;44.848401900482;node/4625520761;doctors;Cabinet de Radiologie;;;;;;;;;;;;33063;Bordeaux
+-0.6265546;44.8501326004819;node/4637449148;doctors;Généraliste;;;yes;;;;;;;;+33 5 56 02 26 35;33063;Bordeaux
+-0.5815037;44.8299441004836;node/4637460690;doctors;Cabinet Infirmier;;;;;;;;;;;;33063;Bordeaux
+-0.5858448;44.8233410004841;node/4637903491;pharmacy;Pharmacie George V;;;;;330041146;;;;;;;33063;Bordeaux
+-0.5923781;44.8276373004838;node/4637908589;pharmacy;Pharmacie du Tondu;;;;;330041740;;;;;;;33063;Bordeaux
+-0.5720687;44.8167854004847;node/4638102290;doctors;Morel - Vagner;;;;;;;;;;;;33063;Bordeaux
+-0.5719392;44.836159500483;node/4704353255;doctors;Olivier DIEZ;;;;;;;;;;;+33556791423;33063;Bordeaux
+-0.6099162;44.800947700486;node/4704502320;doctors;Médecine Préventive Universitaire;;;;;;;;;;;;33318;Pessac
+-0.5674025;44.8267552004839;node/4713688018;pharmacy;Pharmacie Boucard;;;;;330043480;;;;;;;33063;Bordeaux
+-0.5732278;44.8377135004829;node/4716374790;pharmacy;Pharmacie Brachet;;;;;330040346;;;;;;;33063;Bordeaux
+-0.6052139;44.7811586004876;node/4726287975;pharmacy;Pharmacie Saint-GERY;;;;"Mo-Sa 09:00-12:30,14:00-20:00";330046715;;;;;;+33 5 57 35 44 60;33192;Gradignan
+-0.6039493;44.9794298004702;node/477072618;doctors;Généraliste;;;;;;;;;;;;33256;Ludon-Médoc
+-0.603932;44.98144630047;node/477072626;pharmacy;Pharmacie Mappa;;;;;330048463;;;;;;;33256;Ludon-Médoc
+-0.6036556;44.7856188004873;node/4797325727;pharmacy;Pharmacie Chartier Alary;;;yes;"Mo-Fr 08:30-19:30; Sa 09:00-19:00";330046640;;;;;;;33192;Gradignan
+-0.5977441;44.7740462004882;node/4799804212;pharmacy;Pharmacie Laffargue Labie;;;;;330046541;;;;;;;33192;Gradignan
+-0.5821815;44.8665489004804;node/4821500476;pharmacy;Pharmacie Barse-Dunglas;;;;;330044447;;;;;;;33069;Le Bouscat
+-0.2012262;44.992253800469;node/4831590591;pharmacy;Pharmacie Dionysienne;;;;;330050881;;;;;;;33393;Saint-Denis-de-Pile
+-0.2409936;44.9303968004747;node/4831590596;pharmacy;Pharmacie du Pintey;;;;;330048190;;;;;;;33243;Libourne
+-0.2732181;44.9241141004753;node/4831590601;pharmacy;Pharmacie Richard;;;;;330046343;;;;;;;33174;Fronsac
+-0.5842435;44.8310653004835;node/4843027778;pharmacy;Pharmacie Pascale Cazaux;;;;"Mo-Fr 09:00-12:30,14:00-19:30, Sa 09:00-12:30";330042425;;;;;;;33063;Bordeaux
+-0.6190689;44.8110581004852;node/4887676922;doctors;Benoît Ribette - Ostéopathe Pessac;;;;"Mo-Fr 08:00-20:00; Sa 09:00-13:00";;;;;;;+33532110862;33318;Pessac
+-0.7092836;44.8961839004778;node/4899001021;doctors;Nicolas Allard - Ostéopathe Saint-médard-en-jalles;;;;"Mo 09:30-20:30; Tu 09:30-16:00; We 09:30-20:30; Th 09:30-17:00; Fr 09:30-20:30; Sa 09:00-13:00";;;;;;;+33 5 32 11 09 01;33449;Saint-Médard-en-Jalles
+-0.6581474;44.7360223004913;node/495280123;pharmacy;Pharmacie de Réjouit;;;;;330045675;;;;;;;33122;Cestas
+-0.6103047;44.8446772004823;node/496835461;pharmacy;Pharmacie de Moscou;;;;;330043027;;;;;;+33 5 56 08 25 70;33063;Bordeaux
+-0.6082178;44.8396213004828;node/496842306;pharmacy;Pharmacie Bel Air;RENARD-PRATVIEL;;;Mo-Sa 08:30-20:00;330043142;;;;;;;33063;Bordeaux
+-0.5326481;44.6830705004954;node/4988242133;doctors;Marta Garcia Castro;;;;"Mo-Tu,Th-Fr 08:30-15:00; We 08:30-11:00";;;;;;;;33213;La Brède
+-0.6973383;44.7691539004886;node/4988249898;pharmacy;Pharmacie de Monsalut;;;;;330045725;;;;;;;33122;Cestas
+-0.6587637;44.7364154004912;node/5005921858;clinic;Cabinet infirmier;;;;;;289;;;;;;33122;Cestas
+-0.664454;44.7985580004862;node/5012898817;pharmacy;Pharmacie de l'Alouette;;;;;330049727;;;;;;;33318;Pessac
+-0.6855075;44.848380500482;node/5029105540;pharmacy;Pharmacie de l'avenue Marcel Dassault;;;;;330048844;;;;;;;33281;Mérignac
+-0.688802;44.7786423004878;node/5032760201;pharmacy;Pharmacie Gazinet Nord;;;;;;;;;;;;33122;Cestas
+-0.6833984;44.7413625004909;node/5046520238;clinic;Cabinet Paramédical;;;;;;;;;;;;33122;Cestas
+-0.6422235;44.7513585004901;node/5061000511;pharmacy;Pharmacie Bossert Cellerier;;;;;;;;;;;;33090;Canéjan
+-0.6410027;44.7510617004901;node/5061000514;doctors;Ostéopathe Franck Tourrel;;;;;;;;;;;;33090;Canéjan
+-0.588848;44.7996953004861;node/5071133841;doctors;"Dr Charles Combret;Dr Villega";;;;;;;;;;;+33556800623;33522;Talence
+-0.5530847;44.8225259004842;node/5084141600;pharmacy;Ma Pharmacie Belcier;;;yes;"Mo-Fr 08:30-20:00; Sa 09:00-19:00";330044025;;;;;;;33063;Bordeaux
+-0.5114317;44.7195044004926;node/5114665669;dentist;Dr Olivier Rozuel;;;;;;;;;;;+33 5 56 72 66 71;33448;Saint-Médard-d'Eyrans
+-0.5100971;44.7171281004927;node/5114681490;pharmacy;Pharmacie du Milan;;;yes;;330051475;;;;;;;33448;Saint-Médard-d'Eyrans
+-0.5090933;44.8514629004817;node/5133007262;doctors;SOS Médecins;;;yes;Mo-Su 09:00-23:00;;;;;;;+33556487559;33119;Cenon
+-0.5951902;44.8324610004834;node/5193683222;doctors;Centre médical d'Ornano;;;;;;;;;;;;33063;Bordeaux
+-0.5759317;44.836426700483;node/5196914888;pharmacy;Pharmacie du Musée;;;;"Mo-Fr 08:30-19:00; Sa 09:00-12:30";330040742;;;;;;+33 5 56 52 98 27;33063;Bordeaux
+-0.6051736;44.8360749004831;node/533639317;hospital;Clinique Saint-Augustin;;;;;330780081;365;;;;;+33 8 26 30 31 30;33063;Bordeaux
+-0.6038384;44.9825873004699;node/5340914724;doctors;Simon Page - Ostéopathe Ludon-médoc;;;;Mo-Su 08:00-22:00;;;;;;;+33 5 40128856;33256;Ludon-Médoc
+-0.5862452;44.8028457004859;node/5340914922;doctors;Quentin Chanteraud - Ostéopathe Talence;;;;"Mo-Fr 08:30-19:30; Sa 08:30-12:30";;;;;;;+33 5 32110838;33522;Talence
+-0.6693331;44.9030245004772;node/5380826897;dentist;;;;;;;;;;;;;33519;Le Taillan-Médoc
+-0.6715677;44.905229500477;node/5396020743;doctors;Médecin généraliste;Monlun*Tomasetig*Cambefort-Bayle;;;;;;;;;;;33519;Le Taillan-Médoc
+-0.5614536;44.8622892004808;node/5409607472;pharmacy;Pharmacie Le Moigne;Docteur Marie Le Moigne;;;"Mo-Fr 09:00-20:00, Sa 09:00-19:30";330042664;;;;;;"+33 5 56 69 80 18; +33 9 65 19 21 51";33063;Bordeaux
+-0.6547221;44.7628899004891;node/5409995448;doctors;Sandrine Jacquet;;;;;;;;;;;;33090;Canéjan
+-0.5930592;44.8039313004858;node/5446789069;pharmacy;Ma Pharmacie du Lycée;;;;"Mo-Fr 08:30-20:00; Sa 09:00-19:00";330052481;;;;;;;33522;Talence
+-0.4085341;45.0754239004609;node/5464303929;doctors;Centre Medicinal;;;;;;;;;;;;33142;Cubnezais
+-0.4277099;44.9172356004759;node/546632764;pharmacy;;;;;;;;;;;;;33433;Saint-Loubès
+-0.4217479;44.9154074004761;node/546633439;pharmacy;Pharmacie des Arceaux;;;;;330051293;;;;;;;33433;Saint-Loubès
+-0.774728;44.8093890004853;node/5514194438;doctors;;;;;;;;;;;;;33422;Saint-Jean-d'Illac
+-0.6253961;44.8583784004811;node/5549645705;doctors;Cabinet d'Imagerie Médicale Caudéran;;;;"Mo,Fr 08:00-12:00,13:00-17:00; Tu 08:00-16:30; We 08:00-12:00,14:00-18:00; Th 11:00-19:00";;;;;;;+33 5 56 02 66 66;33063;Bordeaux
+-0.550822;44.8155975004848;node/5556270938;pharmacy;Pharmacie des Terres Neuves;;;;"Mo-Fr 08:30-20:00; Sa 09:00-19:00";330039660;;;;;;;33039;Bègles
+-0.558865;44.8405731004827;node/559608181;pharmacy;Pharmacie Bastidienne;;;;"Mo-Fr 09:00-19:30, Sa 09:30-19:00";330042680;;;;;;;33063;Bordeaux
+-0.6256014;44.8389201004828;node/563813073;pharmacy;Ma Pharmacie;;;;;330040494;;;;;;;33063;Bordeaux
+-0.6207503;44.836830100483;node/563833205;pharmacy;Pharmacie de la Glacière;;;yes;;330048992;;;;;;;33281;Mérignac
+-0.6164456;44.8378667004829;node/563833210;pharmacy;Pharmacie du Rond-Point Mondésir;;;;"Mo-Fr 08:30-20:00; Sa 08:30-19:30";330048745;;;;;;;33281;Mérignac
+-0.5599444;44.8419836004825;node/563901588;pharmacy;Pharmacie Bastide;;;;;330042714;;;;;;;33063;Bordeaux
+-0.5618826;45.043526100464;node/5642006121;pharmacy;;;;;;330044215;;;;;;;33067;Bourg
+-0.6243015;44.8236565004841;node/5651291043;doctors;;;;;;;;;;;;;33281;Mérignac
+-0.5778654;44.824729800484;node/565484366;pharmacy;Ma Pharmacie Bergonié;;;;"Mo-Fr 08:30-20:00; Sa 09:30-19:00";330040510;;;;;;;33063;Bordeaux
+-0.5868984;44.8208999004843;node/5656239561;pharmacy;Pharmacie Camguilhem;;;;"Tu-Fr 09:00-12:30, 14:30-19:30; Mo 14:30-19:30";330052580;;;;;;;33522;Talence
+-0.5566358;44.8623288004808;node/5657916141;dentist;Dentalam;;;yes;;;;;;;;;33063;Bordeaux
+-0.5566417;44.8618023004809;node/5657956626;clinic;Cabinet Du Bassin À Flot;;;;;;;;;;;;33063;Bordeaux
+-0.6059876;44.7933639004866;node/5663704979;pharmacy;Pharmacie de Compostelle;;;;;330049644;;;;;;+33556807402;33318;Pessac
+-0.60635;44.7934148004866;node/5663704983;doctors;Cabinet Médical;;;;;;;;;;;+33556807700;33318;Pessac
+-0.6006042;44.8475298004821;node/5663823533;pharmacy;Pharmacie de l'Ecole Normale;;;;;330042847;;;;;;+33 5 56 08 52 99;33063;Bordeaux
+-0.6595213;44.8422266004825;node/5667676055;dentist;Fortunel/Hénin/Reiser;;;no;"Mo, Tu, Th 08:30-12:30, 15:00-18:30; We 08:30-12:30; Fr 08:30-16:00";;;;;;;+33 5 56 97 26 69;33281;Mérignac
+-0.6229391;44.8544936004815;node/5679157873;doctors;Cabinet d'Ophtalmologie;;;;;;;;;;;;33063;Bordeaux
+-0.5822746;44.8217520004843;node/567989620;pharmacy;La Pharmacie Verte;;;;"Mo-Fr 09:00-20:00; Sa 09:00-12:30";330041575;;;;;;;33063;Bordeaux
+-0.6311436;44.8057531004856;node/568011548;pharmacy;Pharmacie de l'Hôtel de Ville;;;;"Mo-Fr 08:30-20:00; Sa 08:30-19:30";330049693;;;;;;+33 5 56 45 13 43;33318;Pessac
+-0.6308803;44.8062345004856;node/568026344;pharmacy;Pharmacie Centrale de Pessac;;;;;330049891;;;;;;+33 5 56 45 25 77;33318;Pessac
+-0.6317195;44.8061030004856;node/568028922;pharmacy;Pharmacie Pasteur;;;;;330049925;;;;;;+33 5 56 45 03 35;33318;Pessac
+-0.5771243;44.8432708004824;node/568254556;pharmacy;Pharmacie des Grands Hommes;Nicolas Baysset;;yes;Mo-Sa 08:00-20:00;330041260;;;;;;+33 5 56 15 61 12;33063;Bordeaux
+-0.5518136;44.8154879004848;node/5693180320;pharmacy;Ma pharmacie Bosc;;;;"Mo-Fr 08:30-20:00; Sa 09:00-19:00";330043712;620;;;;42984078800021;+33556916542;33063;Bordeaux
+-0.5734126;44.8358070004831;node/569663304;pharmacy;Pharmacie du Centre;;;;;330042326;;;;;;;33063;Bordeaux
+-0.5715077;44.8376456004829;node/569663313;pharmacy;Pharmacie François;;;;;330040312;;;;;;;33063;Bordeaux
+-0.5726851;44.8389562004828;node/569663328;pharmacy;Pharmacie Camille Jullian;;;;"Mo-Su 09:00-20:00; PH off";330041997;;4773Z;;;;+33 5 56 44 63 97;33063;Bordeaux
+-0.643871;44.7984273004862;node/5713958910;pharmacy;Grande Pharmacie de la Rocade;;;;;330049610;;;;;;;33318;Pessac
+-0.565615;44.7634079004891;node/5715639375;pharmacy;Pharmacie de La Taille;;;;"Mo-Fr 08:30-13:00,14:00-19:30; Sa 08:30-13:00";330053141;620;4773Z;;;79278858000019;+33 5 56 87 15 97;33550;Villenave-d'Ornon
+-0.5411491;44.7714450004884;node/5718577993;pharmacy;Pharmacie du Bourg;;;;"Mo-Fr 09:00-13:00,14:00-20:00; Sa 09:00-13:00,14:00-19:00";330053240;;4773Z;;;79359909300028;+33556870873;33550;Villenave-d'Ornon
+-0.62531;44.8023007004859;node/5720411745;pharmacy;Pharmacie Dolati;;;;;330049776;;;;;;;33318;Pessac
+-0.5847252;44.8279645004837;node/5730608917;pharmacy;Pharmacie City Rocade;Élodie Persinet - La Petite Pharmacie;;yes;"Mo-Fr 09:00-12:30, 14:30-20:00; Sa 09:00-12:30, 14:30-18:30";330042094;;;;;;+33 5 56 96 50 10;33063;Bordeaux
+-0.6268778;44.8072473004855;node/5746342921;dentist;;;;;;;;;;;;;33318;Pessac
+-0.5735921;44.8309256004835;node/574987987;pharmacy;Pharmacie de la Victoire;;;;;330042490;;;;;;;33063;Bordeaux
+-0.6148578;44.8523736004816;node/5764153126;pharmacy;Grande Pharmacie de Cauderan;;;;;330042912;;;;;;+33 5 56 08 28 21;33063;Bordeaux
+-0.5954438;44.8549967004814;node/5783616948;pharmacy;Pharmacie Atlantis;;;;;330044314;;;;;;;33069;Le Bouscat
+-0.5202464;44.8615111004809;node/5783652340;pharmacy;Pharmacie du Parc Palmer;;;;;330045345;;;;;;;33119;Cenon
+-0.7984665;45.0273918004656;node/5784054976;pharmacy;Pharmacie Clement;;;;"Mo-Sa 09:00-13:00,14:30-20:00";330045030;;;;;;;33104;Castelnau-de-Médoc
+-0.5743185;44.8414637004826;node/581994811;pharmacy;Pharmacie Principale;;;;;330042292;;;;;;;33063;Bordeaux
+-0.57338;44.8520594004817;node/581996870;pharmacy;Pharmacie Dudon;;;;"Mo-Fr 08:30-20:00; Sa 09:00-19:00";330042474;;;;;;;33063;Bordeaux
+-0.3364881;44.7716031004884;node/5832762470;doctors;Laboratoire de Biologie Médicale;;;;;330796137;;;;;;;33140;Créon
+-0.2571912;44.7340840004914;node/5834379754;nursing_home;Résidence Anna Hamilton;;;;;330057076;;;62;senior;;+33 5 56 23 46 23;33523;Targon
+-0.60333;44.8307521004835;node/5859170260;dentist;;;;;;;;;;;;;33063;Bordeaux
+-0.6121385;44.7666581004888;node/5864941176;doctors;;;;;;;;;;;;;33192;Gradignan
+-0.6123265;44.7667683004888;node/5864941177;doctors;;;;yes;;;;;;;;+33557965994;33192;Gradignan
+-0.6482212;44.8279584004837;node/5869174779;doctors;Médecin généraliste et sport;Bernard  Andrieu;;;;;;;;;;;33281;Mérignac
+-0.6482212;44.8279387004837;node/5869174780;doctors;Médecin généraliste;Martine Iturralde;;;;;;;;;;;33281;Mérignac
+-0.5805038;44.7633851004891;node/5875326607;doctors;;;;;;;;;;;;;33550;Villenave-d'Ornon
+-0.5266119;44.8772764004795;node/5888552258;pharmacy;Pharmacie Oruezabal;;;no;"Mo-Sa 08:30-12:30; Mo-Fr 13:30-19:30; PH closed";330048331;;;;;;;33249;Lormont
+-0.5820766;44.7657784004889;node/5903944888;doctors;Cabinet Médical;;;;;;;;;;;;33550;Villenave-d'Ornon
+-0.5543648;44.8433538004824;node/590648077;pharmacy;Pharmacie Rive Droite;;;;"Mo-Fr 09:00-12:30, 14:00-19:30; Sa 09:00-12:30, 14:00-19:00";330042730;;;;;;;33063;Bordeaux
+-0.6143779;44.8527489004816;node/5907844884;doctors;Oto-Rhino-Laryngologue;;;;;;;;;;;;33063;Bordeaux
+-0.6139233;44.8550197004814;node/5907846028;doctors;Dermatologue;;;;;;;;;;;;33063;Bordeaux
+-0.3481025;44.7760062004881;node/5929103449;dentist;;;;;;;;;;;;;33140;Créon
+-0.5724093;44.8177025004846;node/5942476771;dentist;Docteur Stéphane Thierry;;;;;;;;;;;;33063;Bordeaux
+-0.5869842;44.8154790004848;node/5949016295;doctors;;;;;;;;;;;;;33522;Talence
+-0.5889063;44.8142104004849;node/5949016301;pharmacy;Pharmacie du Forum;;;;;330052465;;;;;;;33522;Talence
+-0.5902204;44.813286300485;node/5949016309;doctors;;;;;;;;;;;;;33522;Talence
+-0.5875535;44.8148001004849;node/5951692142;doctors;;;;;;;;;;;;;33522;Talence
+-0.6559624;44.8049033004857;node/5964502731;pharmacy;;;;;;330049842;;;;;;;33318;Pessac
+-0.622702;44.8471721004821;node/5975792878;dentist;;;;;;;;;;;;;33063;Bordeaux
+-0.3699737;44.9208444004756;node/600079179;pharmacy;;;;;;330047077;;;;;;;33207;Izon
+-0.6103724;44.8536916004815;node/603131480;pharmacy;Pharmacie Brin - Debacque;;;;;330042896;;;;;;+33 5 56 08 30 91;33063;Bordeaux
+-0.6635985;44.7969107004863;node/6033150927;doctors;;;;;;;;;;;;;33318;Pessac
+-0.58333;44.8203426004844;node/6048753340;doctors;Docteur Isabelle Compain Laurent;;;;Mo-Fr 08:30-20:00 Sa 09:00-13:00;;;;;;;;33522;Talence
+-0.5879428;44.7910570004868;node/6055903166;pharmacy;;;;;;330052341;;;;;;;33522;Talence
+-0.6689197;44.7951154004865;node/6055903174;pharmacy;;;;;;330049743;;;;;;;33318;Pessac
+-0.4455746;44.6926823004946;node/6073163598;nursing_home;EHPAD Ensemble résidentiel de santé Agora;;;yes;;330798612;;;42;senior;;+33 5 56 89 08 23;33109;Castres-Gironde
+-0.5848462;44.8494736004819;node/610392240;pharmacy;Pharmacie de la Croix;;;;;330041013;;;;;;;33063;Bordeaux
+-0.5860172;44.8500000004819;node/610392251;pharmacy;Pharmacie Fondaudège;;;;;330041047;;;;;;;33063;Bordeaux
+-0.5724539;44.8429651004825;node/610396544;pharmacy;Pharmacie du Grand Théâtre;;;;;330040841;;;;;;;33063;Bordeaux
+-0.5772999;44.7691276004886;node/6134775738;nursing_home;Résidence de la Hé – Le Clos Bonnardel;;;;;330798356;;;;senior;;+33 5 56 87 70 00;33550;Villenave-d'Ornon
+-0.5454129;44.8755662004796;node/616631863;pharmacy;Pharmacie mutualiste;;;;"Mo-Fr 09:00-12:30,14:30-19:00; Sa 9:00-12:30";330044124;;;;;;+33 5 56 50 82 14;33063;Bordeaux
+-0.5113149;44.8522162004817;node/6184169307;doctors;AHI33;;;;;;;;;;;;33119;Cenon
+-0.6027836;44.8180913004846;node/6191873485;doctors;;;;yes;;;;;;;;;33522;Talence
+-0.6028513;44.8180671004846;node/6191875185;dentist;;;;;;;;;;;;;33522;Talence
+-0.6139012;44.8524493004817;node/6225498742;doctors;Centre de soins infirmiers;;;;;;;;;;;;33063;Bordeaux
+-0.4460299;44.9976082004685;node/6240606630;hospital;Hôpital de jour Le Magniola;;;;;330008103;355;;;;;+33 5 57 43 08 24;33366;Saint-André-de-Cubzac
+-0.3917419;45.1416995004541;node/6254317503;doctors;Centre médical;;;;;;;;;;;;33492;Saint-Yzan-de-Soudiac
+-0.7163036;44.8953851004779;node/626121006;pharmacy;Pharmacie Cœur des Jalles;;;;"Mo-Fr 08:30-20:00; Sa 08:30-19:00";330051640;;;;;;;33449;Saint-Médard-en-Jalles
+-0.5767771;44.8440673004824;node/628594923;pharmacy;Pharmacie Tourny;;;;;330042441;;;;;;;33063;Bordeaux
+-0.539154;44.8421911004825;node/628605116;pharmacy;Pharmacie Les Gentianes;;;;;330046194;;;;;;;33167;Floirac
+-0.6772148;44.7880900004871;node/6297804485;doctors;Cabinet Laurence MARTINAUD;Diététicienne Nutritionniste;;;;;;;;;;;33318;Pessac
+-0.5202215;44.8738426004798;node/632586458;pharmacy;Pharmacie Alienor;;;no;"Mo,Sa 09:00-12:30; Tu-Fr 09:00-12:30,15:00-19:30";330048414;;;;;;;33249;Lormont
+-0.5403688;44.8524880004816;node/632610148;pharmacy;Pharmacie du Cypressat;;;no;"Mo-Sa 08:30-12:30,14:00-20:00";330042797;;;;;;;33063;Bordeaux
+-0.7002451;44.9022936004773;node/635266938;pharmacy;Pharmacie de Germignan;;;;"Mo-Sa 09:00-12:30, Mo-Fr 14:30-20:00, Sa 14:30-19:30";330052275;;;;;;;33519;Le Taillan-Médoc
+-0.6136993;44.8524181004816;node/6360492269;doctors;Médecine Générale;;;;;;;;;;;;33063;Bordeaux
+-0.5571317;44.8416376004826;node/6369754394;doctors;Docteur Marc Menudier - Docteur Béatrice Dumery;;;;"lundi: 9h à 13h et de 16h à 20h, Mardi et Mercredi de 9h à 20h, Jeudi de 9h à 18h, vendredi de 8h30 à 12h et Samedi dur rendez-vous";;;;;;;;33063;Bordeaux
+-0.6433694;44.8617171004808;node/6379428348;doctors;Podologue David Pereira Lopes;;;;"Mo-Fr 09:00-13:00,14:00-20:00";;;8690E;;;;+33 5 56 57 70 70;33162;Eysines
+-0.6597832;44.8421439004825;node/6448799680;doctors;;;;;;;;;;;;;33281;Mérignac
+-0.5674472;44.8314967004834;node/6466475989;pharmacy;Pharmacie des Halles;;;;;330043613;;;;;;;33063;Bordeaux
+-0.5564801;44.8294363004836;node/666173283;pharmacy;Pharmacie du Conservatoire;;;;;330043811;;;;;;;33063;Bordeaux
+-0.58209;44.859615400481;node/671742168;pharmacy;Pharmacie du Grand Parc;;;;;330043241;;;;;;;33063;Bordeaux
+-0.5829317;44.859803500481;node/671742170;pharmacy;Pharmacie Centre Europe;;;;;330043415;;;;;;;33063;Bordeaux
+-0.5774177;44.8549331004814;node/671743122;pharmacy;Pharmacie de Luze;;;;"Mo 09:00-12:30,14:30-19:30; Tu-Fr 08:30-12:30,14:30-19:30; Sa 09:00-12:30";330041476;;;;;;;33063;Bordeaux
+-0.6142232;44.7724313004884;node/6779326887;pharmacy;Pharmacie de la Poste;;;;"Mo-Sa 09:00-12:30,14:00-19:30";330046665;;;;;;;33192;Gradignan
+-0.6823122;44.7411566004909;node/6858166962;doctors;;;;;;;;;;;;;33122;Cestas
+-0.7148687;44.8925267004781;node/6920275987;doctors;Cabinet d'infirmières;;;;;;;;;;;+33 5 56 05 73 35;33449;Saint-Médard-en-Jalles
+-0.558889;44.8641563004806;node/6920295536;pharmacy;Pharmacie Le Moigne;;;;;;;;;;;;33063;Bordeaux
+-0.7103496;44.8927848004781;node/6920371887;doctors;Ostéopathe;;;;;;;;;;;+33 5 56 95 03 96;33449;Saint-Médard-en-Jalles
+-0.7103935;44.8928226004781;node/6920371888;doctors;Kinésithérapeute;;;;;;;;;;;;33449;Saint-Médard-en-Jalles
+-0.7148315;44.8924140004781;node/6920372485;doctors;Cabinet de cardiologie;;;;;;;;;;;+33 5 56 95 80 48;33449;Saint-Médard-en-Jalles
+-0.6171317;44.8528714004816;node/6957690002;doctors;Cabinet Paramédical;;;;;;;;;;;;33063;Bordeaux
+-0.7288324;44.8605532004809;node/6966402980;dentist;;;;;;;;;;;;;33449;Saint-Médard-en-Jalles
+-0.7282492;44.8655162004805;node/6967204333;pharmacy;Pharmacie de Magudas;;;;;;;;;;;;33449;Saint-Médard-en-Jalles
+-0.64894;44.8796020004793;node/697068267;pharmacy;Pharmacie Lescombes;;;;;330043324;;;;;;;33162;Eysines
+-0.6361408;44.8796296004793;node/697094033;pharmacy;Pharmacie du Grand Caillou;;;;;330046012;;;;;;;33162;Eysines
+-0.5682154;44.8299919004836;node/6978389539;pharmacy;Pharmacie des Capucins;;;;24/7;330043597;;;;;;;33063;Bordeaux
+-0.445919;44.6961331004944;node/6982810730;dentist;;"Dr Diby, Dr Medeville, Dr Dabacens-Salacroup";;no;;;;;;;;+33 5 56 67 10 63;33109;Castres-Gironde
+-0.4461502;44.6960779004944;node/6982810731;doctors;;"Dr Bouchet, Dr Dubois, Dr de Warren";;yes;;;;;;;;;33109;Castres-Gironde
+-0.6142697;44.8498336004819;node/6985063479;doctors;Centre ophtalmologique du Dr Malauzat;;;;;;;;;;;+33 5 56 77 66 65;33063;Bordeaux
+-0.4958652;45.0347670004649;node/6985087429;pharmacy;Pharmacie Floury;;;;;330050261;;;;;;+33557683360;33339;Prignac-et-Marcamps
+-0.6421911;44.8772085004795;node/6985929866;doctors;Cabinet de soins d'Eysines;;;;;;;;;;;;33162;Eysines
+-0.6411391;44.8768269004795;node/6985929868;doctors;Cabinet du Derby;;;;;;;;;;;;33162;Eysines
+-0.6430909;44.8511848004818;node/6986808496;doctors;Cardiologue;;;;;;;;;;;;33281;Mérignac
+-0.7155147;44.8947455004779;node/6987089622;doctors;Cabinet médical;;;;;;;;;;;;33449;Saint-Médard-en-Jalles
+-0.6426692;44.8614545004809;node/6987916628;doctors;Cabinet médical;;;;;;;;;;;;33162;Eysines
+-0.6471028;44.8627135004808;node/6987916633;doctors;Masseur kinésithérapeute;;;;;;;;;;;;33162;Eysines
+-0.6486718;44.8627786004808;node/6987916642;doctors;Cabinet médical Le 129;;;;;;;;;;;;33162;Eysines
+-0.6323788;44.883115000479;node/6992600588;pharmacy;Pharmacie Lafayette du Vigean;;;;;330046111;;;;;;;33162;Eysines
+-0.6327964;44.883100800479;node/6992600594;doctors;Orthodynamic;;;;;;;;;;;;33162;Eysines
+-0.6324527;44.8836165004789;node/6993444756;dentist;Cabine dentaire;;;;;;;;;;;;33162;Eysines
+-0.6345154;44.8844745004789;node/6993608360;doctors;Cabinet de Radiologie et d'Ecographie Ksas Louis-Daniel;;;;;;;;;;;;33162;Eysines
+-0.6353935;44.8843636004788;node/6993608364;doctors;Cardiologue BANAYAN Khosrow;;;;;;;;;;;;33162;Eysines
+-0.6442606;44.8879080004786;node/6993608390;doctors;Cabine d'osthéopathe;;;;;;;;;;;;33162;Eysines
+-0.6222365;44.8770747004795;node/6996386334;pharmacy;Grande Pharmacie de la Rocade;;;;Mo-Sa 08:30-20:00;330041161;;;;;;;33075;Bruges
+-0.5949415;44.8427398004825;node/7003653726;dentist;;;;;;;;;;;;;33063;Bordeaux
+-0.5197934;44.8559940004814;node/7015257248;dentist;LAVAUD;;;;;;;;;;;;33119;Cenon
+-0.6791931;44.739620400491;node/7017885880;doctors;Kinésithérapeute Girard-Alliot Christine;;;;;;;;;;;;33122;Cestas
+-0.4437944;44.9974437004685;node/7028402189;pharmacy;Pharmacie Du Centre;;;;"Mo-Fr 08:30-12:30, 14:00-19:45; Sa 08:30-12:30, 14:30-18:00";330050675;;;;;;+33 5 57 43 03 85;33366;Saint-André-de-Cubzac
+-0.5762296;44.8382025004829;node/7038718310;doctors;Cabinet du Docteur Naoum;;;;;;;;;;;;33063;Bordeaux
+-0.6561949;44.8898472004784;node/7039486916;doctors;Pôle santé du Parc de l'Ombrière;;;;;;;;;;;;33162;Eysines
+-0.5998085;44.8608649004809;node/7043793950;pharmacy;Pharmacie La Calypso;;;;;;;;;;;;33069;Le Bouscat
+-0.6005579;44.8615734004809;node/7043793955;doctors;Cabinet Médical Docteur Gourat;;;;;;;;;;;;33069;Le Bouscat
+-0.5890299;44.7993123004862;node/7051087789;pharmacy;;;;;;330052515;;;;;;;33522;Talence
+-0.4876517;44.7548270004898;node/705261028;pharmacy;Pharmacie Gonzalez;;;;;330050394;;;;;;;33349;Quinsac
+-0.5938188;44.8538686004815;node/7073164166;pharmacy;Pharmacie Furt;;;;;;;;;;;;33069;Le Bouscat
+-0.5947111;44.8548471004814;node/7073238510;doctors;Cabinet kiné - Mounier et Boiteux;;;;;;;;;;;;33069;Le Bouscat
+-0.5960139;44.8557095004814;node/7073238515;doctors;Fagegaltier Guy;;;;;;;;;;;;33069;Le Bouscat
+-0.5967929;44.8561491004813;node/7073238536;doctors;Cabine médical;;;;;;;;;;;;33069;Le Bouscat
+-0.6174524;44.7958036004864;node/7079966478;doctors;Infirmerie;;;;;;;;;;;;33318;Pessac
+-0.5717947;44.8797602004793;node/7080853012;dentist;Centre dentaire BIODENT;;;;Mo-Fr 09:00-19:00;;;;;;;+33 5 56 88 32 32;33063;Bordeaux
+-0.2387729;44.9157300004761;node/7088021367;doctors;Cabinet de Dermatologie;;;;;;;;;;;;33243;Libourne
+-0.6902437;44.7810526004877;node/7091083220;doctors;;;;;;;;;;;;;33122;Cestas
+-0.6902786;44.7811106004876;node/7091083221;doctors;;;;;;;;;;;;;33122;Cestas
+-0.6902799;44.7811449004876;node/7091083223;doctors;;;;;;;;;;;;;33122;Cestas
+-0.6901807;44.7809907004877;node/7091083224;doctors;Cabinet Laurence MARTINAUD;;;;;;;;;;;;33122;Cestas
+-0.6316759;44.87185970048;node/7096452889;doctors;Cabine médical;;;;;;;;;;;;33162;Eysines
+-0.5924506;44.7975440004863;node/7099965585;doctors;Leroy;;;;;;;;;;;;33522;Talence
+-0.7199492;44.8947880004779;node/7111562685;doctors;Ostéopathe;;;;;;;;;;;;33449;Saint-Médard-en-Jalles
+-0.7200683;44.8952473004779;node/7111562785;doctors;Kinésithérapeute;;;;;;;;;;;+33 5 56 05 03 46;33449;Saint-Médard-en-Jalles
+-0.7209173;44.8961379004778;node/7121647490;doctors;;;;;;;;;;;;;33449;Saint-Médard-en-Jalles
+-0.5492091;44.8658635004805;node/7121829672;pharmacy;Pharmacie des Bassins à Flot;;;;"Mo-Sa 09:00-13:00,14:30-20:00";330041724;;;;;;+33 5 56 50 85 66;33063;Bordeaux
+-0.387066;44.9738355004707;node/7128648843;dentist;;;;;;;;;;;;;33219;La Lande-de-Fronsac
+-0.5874755;44.8311845004835;node/7132757217;pharmacy;Pharmacie Nana;;;;"Mo-Fr 09:00-20:00; Sa 09:00-14:00";330041062;;;;;;;33063;Bordeaux
+-0.5785972;44.8282616004837;node/7138757337;pharmacy;Pharmacie des Landes;;;;"Mo-Fr 08:00-20:00; Sa 09:00-12:00,15:00-18:00";;;;;;;;33063;Bordeaux
+-0.6260374;44.9113518004764;node/715945165;pharmacy;Pharmacie de la Renney;;;;;330040114;;;;;;;33056;Blanquefort
+-0.411652;44.7810221004876;node/7159938496;doctors;Cabinet Médical;;;;;;;;;;;;33363;Sadirac
+-0.5757795;44.8373428004829;node/7161298336;pharmacy;Pharmacie d'Alsace et Lorraine;;;;Mo-Sa 09:30-19:30;;;;;;;;33063;Bordeaux
+-0.5668536;44.836255000483;node/7161503272;pharmacy;Pharmacie Huynh;;;;"Mo-Fr 09:00-13:00, 14:30-19:00";330042524;;;;;;;33063;Bordeaux
+-0.5780482;44.8336339004833;node/7161597733;pharmacy;Pharmacie Duverger;;;;"Mo-Fr 09:00-12:30, 14:00-19:00; Sa 09:00-12:00";330041344;;;;;;;33063;Bordeaux
+-0.4611759;44.7801129004877;node/7212588430;pharmacy;Pharmacie Sous-Lalet;;;;;330045311;;;;;;;33118;Cénac
+-0.6355202;44.8793935004793;node/7214814412;doctors;Cabine médical et de kinésithérapie;;;;;;;;;;;;33162;Eysines
+-0.612034;44.882423200479;node/721619808;pharmacy;Pharmacie Centrale de Bruges;;;;;330044595;;;;;;;33075;Bruges
+-0.6135951;44.8812525004791;node/721619809;pharmacy;Pharmacie du Stade;;;;;330044611;;;;;;;33075;Bruges
+-0.5506602;44.8428689004825;node/7216873176;pharmacy;Pharmacie Centrale Bastide;;;;;330042631;;;;;;;33063;Bordeaux
+-0.3590234;44.9203393004756;node/7239549871;pharmacy;;;;;;330056656;;;;;;;33207;Izon
+-0.6005405;44.8188146004845;node/7251438866;pharmacy;Pharmacie de la Médoquine;;;;"Mo-Fr 09:00-12:30, 14:30-19:30; Sa 09:00-12:30";330041690;;;;;;;33522;Talence
+-0.5897409;44.825248900484;node/7252354077;pharmacy;;;;;"Mo-Sa 09:00-12:30, 14:30-18:30";330041641;;;;;;;33063;Bordeaux
+-0.5732867;44.8299903004836;node/7252771765;pharmacy;Pharmacie de l'Argonne;;;;;330040460;;;;;;;33063;Bordeaux
+-0.5458653;44.8746689004797;node/7263452560;pharmacy;Pharmacie de la Rocade - Bacalan;;;;Mo-Sa 9:00-19:30;330043431;;;;;;;33063;Bordeaux
+-0.572461;44.8049450004857;node/7266086855;pharmacy;Pharmacie du Bequet;;;;"Mo-Fr 09:00-12:30,14:00-20:00; Sa 09:00-12:30,14:00-19:00";330053315;;4773Z;;;41187647700018;+335 56 80 20 53;33550;Villenave-d'Ornon
+-0.560979;44.764702000489;node/7266086856;pharmacy;Pharmacie des Graves;;;;"Mo-Sa 09:00-12:30,14:00-19:30";330053265;620;4773Z;;;38291826600018;+33 5 56 87 15 17;33550;Villenave-d'Ornon
+-0.5632468;44.7758630004881;node/7266086857;pharmacy;Pharmacie de La Rocade;;;;Mo-Sa 09:00-21:00;;;4773Z;;;41960838500029;+33 5 57 99 04 04;33550;Villenave-d'Ornon
+-0.567327;44.789509000487;node/7266086858;pharmacy;Pharmavance;;;;Mo-Sa 08:30-20:30;330053331;;4773Z;;;50907257500012;+33 5 57 35 48 40;33550;Villenave-d'Ornon
+-0.5764596;44.860365300481;node/7272463776;pharmacy;Pharmacie et parapharmacie Bordeaux Nord;;;;;330043274;;;;;;;33063;Bordeaux
+-0.6080094;44.8688677004802;node/727443240;pharmacy;Pharmacie des Ecus;;;;;330044280;;;;;;;33069;Le Bouscat
+-0.6182268;44.8666670004804;node/727449470;pharmacy;Pharmacie de l'Hôpital;;;;;330044496;;;;;;;33069;Le Bouscat
+-0.7181116;44.894635400478;node/7297178987;dentist;Orthodontiste;;;;;;;;;;;;33449;Saint-Médard-en-Jalles
+-0.7177904;44.8949736004779;node/7297179185;doctors;;;;;;;;;;;;;33449;Saint-Médard-en-Jalles
+-0.507482;45.1292837004554;node/7305772734;pharmacy;Pharmacie Saint-Christophe;;;;;330050824;;;;;;;33382;Saint-Christoly-de-Blaye
+-0.5092382;44.8028025004859;node/7346687719;nursing_home;EHPAD Villa de Valrose;;;yes;;330059809;500;;117;senior;34399525400053;+33 5 47 30 71 00;33234;Latresne
+-0.5113122;44.7997319004861;node/7352387848;nursing_home;EHPAD Domaine des Augustins;;;yes;;;;;41;senior;;+33 5 56 20 73 16;33234;Latresne
+-0.4801119;44.8105250004852;node/7352421375;nursing_home;Maison de retraite l'Orchidée;;;;;330798463;;;16;senior;;;33099;Carignan-de-Bordeaux
+-0.5670699;44.7819502004876;node/7357693081;pharmacy;Pharmacie Villenave Centre;;;;"Mo-Sa 09:00-12:00,14:00-20:00";330053174;620;4773Z;;;49120853400017;+33 5 57 35 48 40;33550;Villenave-d'Ornon
+-0.7696771;44.607016000501;node/7358707674;doctors;;;;;;;;;;;;;33029;Le Barp
+-0.428376;44.8792872004793;node/7363343413;pharmacy;Pharmacie Dudon-Sallet;;;;;;;;;;;;33293;Montussan
+-0.5811292;44.8419637004825;node/7363798248;pharmacy;Pharmacie Galien;;;;;330041963;;;;;;;33063;Bordeaux
+-0.595055;44.8642401004806;node/7368842246;nursing_home;Maison de retraite Tivoli;;;;;330782566;500;;;senior;;+33557811555;33069;Le Bouscat
+-0.5106679;44.8421993004825;node/7374798265;nursing_home;Résidence Belle-Croix;;;yes;;330782848;;;80;senior;;+33 5 56 86 38 12;33167;Floirac
+-0.4421327;45.0363252004647;node/7376098318;nursing_home;Maison de retraite Le Clos Saint Martin;;;;;330800327;;;42;senior;;+33 5 57 43 06 22;33321;Peujard
+-0.2720714;44.9250112004752;node/7376098320;nursing_home;EHPAD La Résidence du Tertre;;;yes;;330035619;;;;senior;;+33 5 57 74 18 67;33174;Fronsac
+-0.4298071;44.9046348004771;node/7376098321;nursing_home;Maison de retraite Le Moulin de Jeanne;;;yes;;330020819;;;80;senior;;+33 5 56 78 99 20;33433;Saint-Loubès
+-0.4354772;44.825433000484;node/7376098322;nursing_home;Maison de retraite Les Terrasses de Beauséjour;;;yes;;330798471;;;55;senior;;+33 5 56 78 33 34;33165;Fargues-Saint-Hilaire
+-0.6064547;44.8589359004811;node/7380299477;pharmacy;Pharmacie du Parc Bordelais;;;;Mo-Sa 09:00-20:00;330044264;;;;;;+33 5 56 08 51 73;33069;Le Bouscat
+-0.6301468;44.8071106004855;node/7393436079;doctors;Endocrinologue;;;;;;;;;;;;33318;Pessac
+-0.3150261;44.6354240004989;node/7398139079;nursing_home;EHPAD Domaine Bardon Lagrange;;;;;330798398;;;35;senior;;+33 5 57 98 18 18;33081;Cadillac
+-0.3588017;44.6539297004976;node/7398139080;nursing_home;EHPAD du Centre de soins de Podensac;;;;;330781766;;;273;senior;;+33 5 56 76 55 00;33327;Podensac
+-0.3994226;44.6803356004956;node/7398139081;nursing_home;Maison de retraite les Bouleaux;;;;;330802588;;;;senior;;+33 5 56 67 32 80;33007;Arbanats
+-0.6334793;44.860122400481;node/7400986320;doctors;Centre de Santé;;;;;;;;;;;;33063;Bordeaux
+-0.6337083;44.860247400481;node/7400986322;pharmacy;Pharmacie de Tassigny;;;;"Mo-Fr 09:00-13:00,14:00-20:00; Sa 17:30-22:00";;;;;;;+33 5 56 28 31 52;33063;Bordeaux
+-0.6228158;44.8471967004821;node/7411305395;doctors;Centre médical;;;;;;;;;;;;33063;Bordeaux
+-0.5915695;44.8241835004841;node/7442165670;dentist;Centre Dentaire Mutualiste de Bordeaux Galléni;;;;"Mo-Fr 08:00-13:00,14:00-19:00";;;;;;;+33 5 56 96 90 92;33063;Bordeaux
+-0.6485885;45.1055893004578;node/7452408079;nursing_home;Les Mimosas;;;;;330056581;500;;;senior;39336708100014;+33557420709;33325;Plassac
+-0.6517886;45.1345893004548;node/7452408081;nursing_home;Foyer de Retraite du Combattant;;;;;330783481;500;;;senior;78178074700015;+33557422800;33058;Blaye
+-0.6312505;44.8593028004811;node/7461678825;doctors;Centre Médical;;;;;;;;;;;;33063;Bordeaux
+-0.6519813;44.848794400482;node/746325305;pharmacy;Pharmacie Kirat;;;;"Mo-Th,Sa 09:00-19:00";330049131;;;;;;;33281;Mérignac
+-0.6595568;44.8421176004825;node/746686364;pharmacy;Pharmacie Boulay;;;;;330049214;;;;;;;33281;Mérignac
+-0.6505357;44.8403686004827;node/746704135;pharmacy;Pharmacie du Parc du Château;;;;;330048711;;;;;;;33281;Mérignac
+-0.6820698;44.7922174004867;node/748962835;pharmacy;Pharmacie Cap de Bos;;;yes;;330049974;;;;;;;33318;Pessac
+-0.5944236;44.7246393004922;node/7506902585;doctors;Pôle Santé Montesquieu;;;;;;603;;;;;;33238;Léognan
+-0.6478068;44.8293691004836;node/7512495942;pharmacy;Pharmacie Marbotin;;;;;330048794;620;;;;75135892000013;+33556471184;33281;Mérignac
+-0.581794;44.8579057004812;node/7519922438;nursing_home;EHPAD Le Platane du Grand Parc;;;;;330026279;500;;;senior;49198625300046;+33556141630;33063;Bordeaux
+-0.5790785;44.8613316004809;node/7519938783;nursing_home;Résidence Maryse Bastié;;;;;330007543;500;;;senior;26330062600342;+33556693131;33063;Bordeaux
+-0.5976557;44.7320472004916;node/7525618846;clinic;Cabinet médical de Luxeau;;;;;;439;;;;;+33 5 56 64 75 83;33238;Léognan
+-0.5273849;44.8301675004836;node/756623173;pharmacy;Pharmacie du Centre;;;;"mo-fr 9:00-12:30, 14:00-20:00, sa 9:00-12:00, 14:30-19:00";330046210;;;;;;;33167;Floirac
+-0.6723367;44.8701945004801;node/7611482188;nursing_home;EHPAD La Clairière de Bel Air;;;;;330798273;500;;61;senior;34904114500013;+33556161356;33200;Le Haillan
+-0.6369876;44.905876700477;node/7611482190;nursing_home;EHPAD Le Verger du Côteau;;;;;330802786;500;;40;senior;31710026100104;+33556950104;33056;Blanquefort
+-0.663811;44.8288720004837;node/761797634;pharmacy;Pharmacie Chemin-Long;;;;;330049115;;;;;;;33281;Mérignac
+-0.5986471;44.7317468004916;node/7621876220;clinic;Cabinet Infirmier Des Sables;;;;;;289;;;;;;33238;Léognan
+-0.5983441;44.7283513004919;node/7622006445;pharmacy;Grande pharmacie du Centre;;;;"Mo-Fr 09:00-12:30,14:30-19:45; Sa 09:00-12:30,14:30-19:00";330047663;;;;;;+33 5 56 64 75 58;33238;Léognan
+-0.7999113;45.0316897004652;node/7647423325;nursing_home;EHPAD Méduli;;;;;330782525;500;;;senior;26330579900011;+33556581633;33104;Castelnau-de-Médoc
+-0.6790437;44.7376342004911;node/7650353360;nursing_home;EHPAD Korian Chantefontaine;;;;;330798075;500;;;senior;34811598100014;+33556788438;33122;Cestas
+-0.6829561;44.7380840004911;node/7650353366;nursing_home;EHPAD Seguin;;;;;330783333;500;;;senior;26330602900012;+33556781390;33122;Cestas
+-0.6944318;44.9951906004687;node/7658066485;nursing_home;EHPAD Le Home Médocain;Colisée;;;;330786237;500;;;senior;41054983600022;+33557885656;33012;Arsac
+-0.7046696;44.7933350004866;node/767094283;pharmacy;Pharmacie de Magonty;;;;;330042375;;;;;;;33318;Pessac
+-0.4737816;44.9303911004747;node/770546401;pharmacy;;;;;;;;;;;;;33003;Ambarès-et-Lagrave
+-0.4462432;44.6959872004944;node/775784935;pharmacy;Pharmacie Bouthors;;;;;330045212;;;;;;;33109;Castres-Gironde
+-0.5991365;44.9480891004731;node/775843139;pharmacy;Pharmacie des Écoles;;;;;330049412;;;;;;;33312;Parempuyre
+-0.6431321;44.8508921004818;node/779147650;pharmacy;Pharmacie de Capeyron;;;;;330048976;;;;;;;33281;Mérignac
+-0.6137813;44.860000400481;node/783501445;pharmacy;;;;;;;;;;;;;33063;Bordeaux
+-0.5799711;44.8409824004826;node/7843157050;pharmacy;Pharmacie Gambetta;;;;Mo-Sa 09:00-20:00;330041096;620;;;;35303524900021;+33556482145;33063;Bordeaux
+-0.6022943;44.8401091004827;node/7858039955;doctors;;;;;;;;;;;;;33063;Bordeaux
+-0.5769982;44.7760113004881;node/786890018;pharmacy;Pharmacie Villenave Centre;;;;"Mo-Sa 09:00-12:30,14:00-20:00";330053174;620;4773Z;;;49120853400017;+33 5 56 87 00 72;33550;Villenave-d'Ornon
+-0.3094179;44.9681589004712;node/7904671241;doctors;Magali Scopelitis;;;;;;;;;;;+33557502609;33548;Villegouge
+-0.6783006;44.8185606004845;node/7917676355;nursing_home;Résidence Jean Monnet;;;;;330798224;500;;;senior;48008096900383;+33556016300;33281;Mérignac
+-0.6999235;44.8171025004847;node/7917676356;nursing_home;Ehpad Pagneau;;;;;330799073;500;;;senior;31710026100088;+33556348109;33281;Mérignac
+-0.7805467;44.8448189004823;node/7917676357;nursing_home;Ehpad Clairefontaine;;;;;330799032;500;;;senior;34805784500011;+33556780479;33273;Martignas-sur-Jalle
+-0.7771447;44.8381685004829;node/7917676358;nursing_home;Ehpad du Bourg;;;;;330799040;500;;;senior;37892935000015;+33556214706;33273;Martignas-sur-Jalle
+-0.2261927;44.8954649004779;node/7917719418;nursing_home;Ehpad La Belle Isle;;;;;330055799;500;;;senior;26330565800043;+33557553434;33243;Libourne
+-0.2290792;44.916782600476;node/7917719419;nursing_home;Ehpad Victor Victor Schoelcher;Hôpital Robert Boulin;;yes;;330785114;500;;;senior;26330565800043;+33557552656;33243;Libourne
+-0.5125162;44.9106246004765;node/7919911879;nursing_home;Ehpad Tropayse;;;;;330803321;500;;;senior;31710026100062;+33556315322;33032;Bassens
+-0.4979299;44.9081989004767;node/7919911880;nursing_home;Les Jardins d'Ombeline;;;;;330020918;500;;;senior;;+33557308900;33096;Carbon-Blanc
+-0.5020994;44.8964349004778;node/7919911881;nursing_home;Résidence Abélia;;;;;330799461;500;;;senior;37987531300023;+33556334444;33096;Carbon-Blanc
+-0.5176689;44.8916717004782;node/7919911882;nursing_home;Château Pomerol;;;;;330783465;500;;;senior;47972811500011;+33557775000;33032;Bassens
+-0.5184734;44.8808509004792;node/7919911883;nursing_home;Ehpad Les Côteaux;;;;;330782889;500;;;senior;42349433500056;+33557776840;33249;Lormont
+-0.5077808;44.8569135004813;node/7919928396;nursing_home;Résidence Le Bois de Loret;;;;;330020678;500;;;senior;34237415400090;+33556679595;33119;Cenon
+-0.453611;44.8657902004805;node/7919928419;nursing_home;Ehpad Ma Résidence;;;;;330791757;500;;;senior;34151364600016;+33557341125;33554;Yvrac
+-0.4337919;44.7477678004903;node/7919928420;nursing_home;Château La Cure;;;;;330792177;500;;;senior;32982376900016;+33556787148;33381;Saint-Caprais-de-Bordeaux
+-0.4283219;44.8190369004845;node/7919928430;nursing_home;Résidence Clos Lafitte;;;;;330786252;500;;;senior;39831934300065;+33556212121;33165;Fargues-Saint-Hilaire
+-0.3767576;44.9232802004754;node/7919928433;nursing_home;Les Jardins de Jeanne;;;;;330019019;500;;;senior;;+33557556890;33207;Izon
+-0.3230291;44.9030579004772;node/7919928438;nursing_home;Ehpad Louis Braille;;;;;330802141;500;;;senior;31451492800014;+33557748144;33539;Vayres
+-0.5692991;44.8819060004791;node/7920039111;nursing_home;Résidence La Berge du Lac;;;;;330791021;500;;;senior;48841184400167;+33556333636;33063;Bordeaux
+-0.614652;44.8737231004798;node/7920039112;nursing_home;Résidence Sainte-Germaine;;;;;330782814;500;;;senior;34237415400132;+33556281280;33075;Bruges
+-0.6332485;44.9334190004744;node/7920039113;nursing_home;Le Clos Caychac;;;;;330799206;500;;;senior;53442557400033;+33556955730;33056;Blanquefort
+-0.6653574;44.9063665004769;node/7920039114;nursing_home;Résidence La Boétie;;;;;330060021;500;;;senior;53442557400058;;33519;Le Taillan-Médoc
+-0.7183608;44.9103823004765;node/7920039115;nursing_home;La Maison de Saint-Aubin;;;;;330798281;500;;;senior;34498998300020;+33556957552;33376;Saint-Aubin-de-Médoc
+-0.6117132;44.8232592004841;node/7920164304;nursing_home;Ehpad Notre-Dame de Bonne Espérance;;;;;330782756;500;;;senior;37892515000021;+33557811430;33063;Bordeaux
+-0.5916528;44.8265956004838;node/7920164305;nursing_home;Ehpad Henry Dunant;;;;;330799297;500;;;senior;77567227212038;+33556002400;33063;Bordeaux
+-0.5914064;44.8233098004841;node/7920164306;nursing_home;Résidence Talanssa;;;;;330051988;500;;;senior;;+33535385700;33522;Talence
+-0.5628268;44.825199500484;node/7920164307;nursing_home;Résidence La Canopée;;;;;330799412;500;;;senior;38519076400022;+33556796565;33063;Bordeaux
+-0.5851202;44.8334934004833;node/7920164308;nursing_home;Clos Serena;;;;;330803933;500;;;senior;42121627600129;+33556994343;33063;Bordeaux
+-0.616135;44.8499382004819;node/7920164309;nursing_home;Les Fleurs de Gambetta;;;;;330782780;500;;;senior;31710026100112;+33556081470;33063;Bordeaux
+-0.6189846;44.847921600482;node/7920164310;nursing_home;La Chêneraie;;;;;330799263;500;;;senior;42266489600012;+33556028227;33063;Bordeaux
+-0.6402967;44.836186800483;node/7920164364;nursing_home;Ehpad Les Chardons Bleus;;;;;330798216;500;;;senior;40125156601160;+33556973333;33281;Mérignac
+-0.6127774;44.8462357004822;node/7920164365;nursing_home;Les Jardins de Caudéran;;;;;330799388;500;;;senior;48008096900391;+33556083615;33063;Bordeaux
+-0.6129267;44.8544384004815;node/7920164366;nursing_home;Résidence Vermeil;;;;;330799347;500;;;senior;48008096900417;+33556424100;33063;Bordeaux
+-0.5986816;44.8478994004821;node/7920164367;nursing_home;Ehpad Grand Bon Pasteur;;;;;330782798;500;;;senior;37892515000104;+33556083310;33063;Bordeaux
+-0.5926594;44.8507499004818;node/7920164368;nursing_home;Ehpad Terre-Nègre;;;;;330781428;500;;;senior;78183755400018;+33556440440;33063;Bordeaux
+-0.5691355;44.8584460004811;node/7920164369;nursing_home;Villa Louisa;Korian;;;;330017609;500;;;senior;41032924700028;+33557105850;33063;Bordeaux
+-0.5578711;44.8626423004808;node/7920164370;nursing_home;Villa des Cinq Sentes;;;;;330799404;500;;;senior;50336580100045;+33557873366;33063;Bordeaux
+-0.6567141;44.8496119004819;node/7920166971;nursing_home;Résidence d'Aquitaine;;;;;330796376;500;;;senior;31710026100120;+33556343040;33281;Mérignac
+-0.6645509;44.8518302004817;node/7920166972;nursing_home;Résidence Médicis;;;;;330798208;500;;;senior;34538179200026;+33556343858;33281;Mérignac
+-0.5790198;44.8028044004859;node/7920227299;nursing_home;Le Relais des Sens;;;;;330792201;500;;;senior;31369059600033;+33556844000;33522;Talence
+-0.5743869;44.8061209004856;node/7920230440;nursing_home;Villa Bontemps;Korian;;;;330799198;500;;;senior;38451063200019;+33556844949;33522;Talence
+-0.6223458;44.8116508004851;node/7920230441;nursing_home;Ehpad Les Érables;;;;;330798232;500;;;senior;33310976700017;+33556451346;33318;Pessac
+-0.6279967;44.8106466004852;node/7920230442;nursing_home;Ehpad La Renaissance;;;;;330798240;500;;;senior;79303538700026;+33556452832;33318;Pessac
+-0.6236546;44.7975063004863;node/7920230443;nursing_home;Maison de Fontaudin;;;;;330803669;500;;;senior;38885915900013;+33556464570;33318;Pessac
+-0.6059421;44.7756859004881;node/7920230444;nursing_home;Ehpad Les Fontaines de Monjous;;;;;330782863;500;;;senior;48841184400027;+33557352828;33192;Gradignan
+-0.5325783;44.8578540004812;node/7941658873;doctors;;;;;;;;;;;;;33119;Cenon
+-0.574276;44.8338281004832;node/7944804739;pharmacy;Pharmacie Pasteur;;;;;;;;;;;+33556925568;33063;Bordeaux
+-0.5801377;44.8261712004839;node/7947382722;dentist;Patrice Morillère;;;;;;;;;;;;33063;Bordeaux
+-0.6067599;44.8470305004821;node/7947386065;nursing_home;Marie Galène;;;;;;;;;;;;33063;Bordeaux
+-0.4437086;45.1388931004544;node/7968619627;pharmacy;;;;;;330051780;620;;;;40134079900014;+33557589522;33473;Saint-Savin
+-0.5827377;44.7654838004889;node/801208034;pharmacy;Pharmacie du Parc;;;;"Mo-Sa 08:45-12:30,14:00-20:00";330053281;;4773Z;;;54004462500015;+33 5 56 87 17 27;33550;Villenave-d'Ornon
+-0.579334;44.7684651004887;node/801224771;pharmacy;Pharmacie de Chambery;;;;"Mo-Sa 08:45-12:30,14:00-20:00";330053190;;4773Z;;;48200308400019;+33 5 56 87 06 12;33550;Villenave-d'Ornon
+-0.580691;44.7632660004891;node/801504454;pharmacy;Pharmacie Espace d'Ornon;;;;"Mo-Sa 09:00-12:30,14:00-20:00";330053224;;4773Z;;;51918437800023;+33 9 75 92 59 44;33550;Villenave-d'Ornon
+-0.5982204;44.8316150004834;node/8021648970;pharmacy;Pharmacie du Stade Lescure;;;;;;;;;;;+33556965960;33063;Bordeaux
+-0.5938749;44.8463058004822;node/8086889489;pharmacy;Pharmacie de la Croix Blanche;;;;;330040825;620;;;;32535487600022;+33556485876;33063;Bordeaux
+-0.4117254;44.7810465004877;node/8131635226;dentist;;;;;;;;;;;;;33363;Sadirac
+-0.6046349;44.9472174004732;node/832359631;pharmacy;Pharmacie Brut;;;;;330049396;;;;;;;33312;Parempuyre
+-0.5093084;44.9024208004773;node/921141651;pharmacy;Pharmacie de Meignan;;;;;330039413;;;;;;;33032;Bassens
+-0.2332024;44.9120649004764;node/970204415;nursing_home;Maison de Retraite des Charmilles;;;;;330800087;500;;;senior;;+33557251389;33243;Libourne
+-0.2315521;44.9145387004762;node/996187302;pharmacy;Pharmacie de l'Épinette;;;;;330048042;;;;;;;33243;Libourne
+-0.72522168584963;45.0964160457414;relation/11263783;nursing_home;Ehpad Le Retou;;;;;330786302;500;;;senior;32160692300019;+33556589014;33220;Lamarque
+-0.703980218067134;44.8954300638085;relation/1556197;nursing_home;Résidence Simone de Beauvoir;;;;;330017179;500;;;senior;26330440400027;+33556701363;33449;Saint-Médard-en-Jalles
+-0.56820134087108;44.7988554480164;relation/2163583;nursing_home;EHPAD Le Parc du Bequet;;;yes;;330802976;;;;senior;;;33039;Bègles
+-0.536184272004471;44.8428640547715;way/100667277;pharmacy;Pharmacie de Monrepos;;;;;330045410;;;;;;;33119;Cenon
+-0.519580192815652;44.8640065661831;way/100886070;pharmacy;Pharmacie des Quatre Pavillons;;;;Mo-Sa 08:00-20:00;330045394;;;;;;;33119;Cenon
+-0.529472662917073;44.8470939680515;way/101020247;hospital;Château Le Moine;Korian;;;;330802778;109;;;;;;33119;Cenon
+-0.527365108819518;44.8477548445834;way/101023766;hospital;Domaine de Hauterive;Korian;;;;330780719;109;;;;;+33 5 57 77 46 33;33119;Cenon
+-0.518751984525107;44.88215169296;way/101266083;hospital;CSSR Les Lauriers;;;;;330780750;109;;;;;+33 5 56 77 37 37;33249;Lormont
+-0.669821684635553;44.9567893388624;way/109016979;pharmacy;Pharamacie Berthon-Lamarque;;;;"Mo-Fr 08:30-12:30,14:00-20:00;Sa 08:30-12:30,14:00-19:00";330050014;;;;;;;33322;Le Pian-Médoc
+-0.660563757949941;44.7854788758469;way/114590317;hospital;Hopital Cardiologique;;;;;;;;;;;;33318;Pessac
+-0.579049464851753;44.8337931691456;way/116001141;hospital;Hôpital Saint-André;;yes;;;330781352;101;;;;;+33 5 56 79 56 79;33063;Bordeaux
+-0.566683389053754;44.8348898299256;way/116379131;pharmacy;Pharmacie la Flèche;;;no;"Mo 09:00-20:00; Tu-Fr 09:00-12:30,14:30-20:00; Sa 09:00-16:00; Jul-Aug Sa 09:00-12:30; PH off";330043563;;;;;;+33 5 56 91 64 63;33063;Bordeaux
+-0.598222043202444;44.8316213684435;way/117542785;pharmacy;Pharmacie du stade Lescure;P. Mangé;;;;330041930;;;;;;;33063;Bordeaux
+-0.283464043306735;44.8841839177788;way/120455104;pharmacy;Pharmacie d'Arveyres;;;;;330039264;;;;;;;33015;Arveyres
+-0.187832549902475;44.8292899770877;way/124080533;pharmacy;Pharmacie de Branne;;;;;330044512;;;;;;+33 5 57 84 51 32;33071;Branne
+-0.315730434730005;44.6349340067835;way/124460762;hospital;Centre Hospitalier Spécialisé de Cadillac;;;;;330000647;292;;;;;;33081;Cadillac
+-0.566823725850593;44.8296721365187;way/126668819;pharmacy;Pharmacie Rotrubin;;;;;330043746;;;;;;;33063;Bordeaux
+-0.373344347595567;44.594913682119;way/137245517;nursing_home;Maison De Retraite Des Graves;;;yes;;330798711;;;44;senior;;+33 5 56 62 49 28;33205;Illats
+-0.581169999985067;44.7872870005648;way/139686704;doctors;Pôle Santé Madère;;;;;;;;;;;;33550;Villenave-d'Ornon
+-0.559563745541115;44.7624878979328;way/139697413;doctors;;;;;;;;;;;;;33550;Villenave-d'Ornon
+-0.579783411515005;44.7686309019507;way/139706802;doctors;Cabinet Médical;;;;;;;;;;;;33550;Villenave-d'Ornon
+-0.466860692860368;44.6997173911043;way/147073431;pharmacy;;Giphar;;;"Mo-Fr 09:00-20:00, Sa 09:00-19:00";330039546;620;;;;50358759400022;+33556675333;33037;Beautiran
+-0.591528340144949;44.8685847952881;way/154689450;pharmacy;Pharmacie de la Vache;;;;Du lundi au vendredi de 8:30 à 12:30 et de 14:30 à 20:00. Le samedi de 8:30 à 12:30 et de 14:30 à 19:00.;330044413;;;;;;;33069;Le Bouscat
+-0.606542579673258;44.8643842717335;way/154695216;nursing_home;EHPAD Le clos d'Alienor;;;;;330798026;500;;;senior;;+33556023758;33069;Le Bouscat
+-0.59798084153578;44.8700071580796;way/154695451;doctors;Daniel Cavasino;;;;;;;;;;;;33069;Le Bouscat
+-0.599384679666424;44.8651253517395;way/154703559;pharmacy;Pharmacie Martial;;;;;330044397;;;;;;;33069;Le Bouscat
+-0.596951017481914;44.8616691087292;way/154703869;dentist;;;;;;;;;;;;;33069;Le Bouscat
+-0.579600911705493;44.8465612152229;way/154770050;pharmacy;Pharmacie Lartigau;;;;"Mo-Fr 09:00-13:00,14:00-19:30; Sa 09:00-12:30,14:30-19:30";330040940;;;;;;;33063;Bordeaux
+-0.597136819199736;44.8484925650243;way/154846356;doctors;SSTI33;;;;"Mo-Th 08:30-12:30,13:30-17:30; Fr 08:30-11:30; PH closed";;;;;;;;33063;Bordeaux
+-0.586358078022614;44.8428244383451;way/154850413;pharmacy;Pharmacie Saint-Seurin;;;;;330041815;;;;;;;33063;Bordeaux
+-0.596874215793028;44.8402466756435;way/154887436;pharmacy;Pharmacie Goudet;;;;"Mo-Fr 09:00-12:45,14:15-19:30; Sa 09:00-12:30";330041427;;;;;;;33063;Bordeaux
+-0.588649879842444;44.8341636320687;way/155601309;pharmacy;Pharmacie d'Ornano;;;;"Mo-Fr 09:00-20:00; Sa 09:00-12:30";330041914;;;;;;;33063;Bordeaux
+-0.579497133221369;44.8283516486148;way/155674408;pharmacy;Pharmacie des Landes;;;;;330042227;;;;;;;33063;Bordeaux
+-0.572142523586532;44.8281944797405;way/155707021;pharmacy;Pharmacie Robigo;;;;"Mo-Fr 09:00-12:30, 14:30-19:30";330043910;;;;;;;33063;Bordeaux
+-0.565581249211028;44.8216963798915;way/155854167;pharmacy;Pharmacie du Sacré Coeur;;;;;330040577;;;;;;;33063;Bordeaux
+-0.593289223348392;44.8232076782277;way/155982384;pharmacy;Pharmacie Tocaven;;;yes;"Mo 14:30-19:30; Tu-Fr 09:00-12:30, 14:30-19:30; Sa 09:00-12:30, 03:00-19:00";330041674;;;;;;;33063;Bordeaux
+-0.599636029240385;44.8412940169791;way/156050887;pharmacy;Pharmacie Dehondt;;;;;330043076;;;;;;;33063;Bordeaux
+-0.599182333220701;44.8367487714419;way/156059109;pharmacy;Pharmacie du boulevard;PHARMACIE GUINOT;;;Mo-Fr 09:00-19:30;330043043;;;;;;;33063;Bordeaux
+-0.599915518383316;44.8403010462886;way/156061200;pharmacy;;;;;;330043126;;;;;;;33063;Bordeaux
+-0.630924187823094;44.8570770450494;way/156076111;pharmacy;Pharmacie de Monséjour;;;;;330043191;;;;;;;33063;Bordeaux
+-0.60236304019355;44.8306036000317;way/156141138;dentist;Interlabo - Laboratoire de prothèses dentaires;;;;;;;;;;;;33063;Bordeaux
+-0.601612522347094;44.8557762120275;way/156192626;dentist;;;;;;;;;;;;;33063;Bordeaux
+-0.553349886052744;44.8079055253212;way/159364102;pharmacy;Pharmacie de la Liberté;;;;"Mo-Fr 08:00-20:30; Sa 08:30-19:30";330039694;;;;;;;33039;Bègles
+-0.548672536011543;44.811142009527;way/159365630;pharmacy;Pharmacie Mazières;;;;;330039710;;;;;;;33039;Bègles
+-0.546423008444456;44.8063653817251;way/159700970;nursing_home;EHPAD Bon Secours;;;yes;;330782723;;;83;senior;;+33 5 56 49 18 06;33039;Bègles
+-0.54447757599569;44.8048956429168;way/159700972;nursing_home;EHPAD Manon Cormier;;;yes;;330782509;;;97;senior;;+33 5 56 85 95 82;33039;Bègles
+-0.559173383345284;44.8046092404267;way/161530019;pharmacy;Pharmacie Mares;Mares;;;;330039611;;;;;;;33039;Bègles
+-0.345314777621256;44.7722629113435;way/161988387;dentist;Cabinet dentaire Strohl-Schlegel;;;limited;;;;;;;;;33140;Créon
+-0.773297046931814;44.609598087705;way/162847080;doctors;;;;;;;;;;;;;33029;Le Barp
+-0.771405807194573;44.6076691758187;way/162847082;dentist;;;;;;;;;;;;;33029;Le Barp
+-0.655677010781855;44.8520684297979;way/163488119;pharmacy;Pharmacie Robinson;;;;;330048927;;;;;;;33281;Mérignac
+-0.65194789269356;44.8487938606117;way/163488831;pharmacy;;;;;;;;;;;;;33281;Mérignac
+-0.472876805307386;44.9078279050686;way/163498028;doctors;;;;;;;;;;;;;33397;Sainte-Eulalie
+-0.472663970608313;44.9080024220421;way/163498177;pharmacy;Pharmacie des Cagouilleys;;;yes;;330050964;;;;;;+33 5 56 38 00 90;33397;Sainte-Eulalie
+-0.619071634050551;44.8308741398994;way/164149013;pharmacy;Pharmacie du Bourdillot;;;;;330049065;;;;;;;33281;Mérignac
+-0.646129663658357;44.8329335820371;way/164299930;pharmacy;Pharmacie des Quatre Chemins;;;;;330049024;;;;;;;33281;Mérignac
+-0.648213915272695;44.8279250868752;way/164307550;doctors;Cabinet de Médecine;;;;;;;;;;;;33281;Mérignac
+-0.600672058024335;44.9515876285745;way/173253091;nursing_home;EPHAD Le Parc des Oliviers;;;;;330026428;500;;;senior;51058723100026;+33556154051;33312;Parempuyre
+-0.646234862459804;44.8819908016529;way/173356137;doctors;Pôle Santé de Picot;;;;;;;;;;;;33162;Eysines
+-0.654971626664277;44.8825163202009;way/173367496;doctors;Pôle Santé Lescombes;;;;;;;;;;;;33162;Eysines
+-0.633686084365235;44.8465702695682;way/174489811;clinic;Cabinet Médical Montesquieu;;;;;;;;;;;;33281;Mérignac
+-0.447357645186821;44.9976345708072;way/176435412;nursing_home;EHPAD Latour Du Pin;;;;;330781857;500;;;senior;;+33557940250;33366;Saint-André-de-Cubzac
+-0.573285860904742;44.8674229391159;way/185068431;nursing_home;Résidence Aimé Césaire;Colisée;;yes;;330025628;500;;;senior;;+33557016600;33063;Bordeaux
+-0.50533472958691;44.8226351459796;way/187169108;nursing_home;EHPAD Résidence de Bouliac;;;yes;;330025099;;;80;senior;;+33 5 56 91 10 00;33065;Bouliac
+-0.500317617560712;44.8783453636837;way/190814796;pharmacy;Pharmacie de la Pointe;;;;;330048315;;;;;;;33249;Lormont
+-0.5273981561757;44.8801263788353;way/190974411;doctors;Groupe médical Claude Bernard;;;yes;"Mo-Fr 08:00-12:30,13:30-19:30; Sa 08:00-12:00";;;;;;;;33249;Lormont
+-0.511651182317113;44.869628922854;way/191044212;pharmacy;Grande Pharmacie de la Rocade;;;;08:30-20:00;330048430;;;;;;;33249;Lormont
+-0.532146517406743;44.7523533927441;way/191684554;doctors;Cabinet et  Médical;;;;;;;;;;;;33080;Cadaujac
+-0.776681535654736;44.8412911832714;way/191720009;pharmacy;;;;;;330048661;;;;;;;33273;Martignas-sur-Jalle
+-0.641384734525247;44.7484715231967;way/191760895;pharmacy;;;;;;330044843;;;;;;;33090;Canéjan
+-0.641975611287413;44.7508931477667;way/191761499;clinic;"Cabinet des Docteurs Labrouasse, Filliat et Fontaine";;;;;;;;;;;;33090;Canéjan
+-0.798175213700427;45.0268628979609;way/192517601;pharmacy;Pharmacie Porte du Médoc;;;;"Mo-Fr 09:00-12:45,14:30-20:00; Sa 09:00-12:45,14:30-19:30";330045063;;;;;;;33104;Castelnau-de-Médoc
+-0.68892121236318;44.9968826588953;way/192620333;pharmacy;Pharmacie Tardat;;;;;330039181;;;;;;;33012;Arsac
+-0.693716607590283;44.9930591888364;way/192621328;dentist;;;;;;;;;;;;;33012;Arsac
+-0.688356160842038;44.9970701020381;way/192624045;doctors;;;;;;;;;;;;;33012;Arsac
+-0.886791292184703;44.9649406918808;way/192647895;pharmacy;Pharmacie Ripoche;;;;Mo-Sa 08:30-20:00;330051194;620;;;;42051031500021;+33 5 56 58 58 16;33417;Sainte-Hélène
+-0.886536625946353;44.9645833135426;way/192649894;doctors;;;;;;;;;;;;;33417;Sainte-Hélène
+-0.229102888529201;44.918433884859;way/197926773;hospital;Centre hospitalier de Libourne;;yes;;;330000605;355;;;;;+33 5 57 55 34 34;33243;Libourne
+-0.267549641496345;45.0709701661266;way/203438655;doctors;Cabinet Médical;;;;"Mo-Sa 08:30-11:30,16:30-18:30; Su 08:30-11:30";;;;;;;;33264;Maransin
+-0.268548134272047;45.0712336713021;way/203438657;pharmacy;Pharmacie Godard;;;;;330048562;;;;;;;33264;Maransin
+-0.478635150447319;44.807754040455;way/211757931;pharmacy;;;;;;330044991;;;;;;;33099;Carignan-de-Bordeaux
+-0.672499733201087;44.7962884332053;way/218788094;doctors;Docteur Christelle Deloge;;;;"Mo 09:00-12:00,15:00-19:40; Tu 09:00-12:00,16:00-19:40; We Off; Th 09:00-12:00,16:00-19:40; Fr 09:00-12:00,15:00-19:40; Sa Off; Su Off";;;;;;;+33 5 56 07 69 45;33318;Pessac
+-0.653716337621488;44.7913383332504;way/218796715;doctors;Centre Médical de Pessac;;;;;;;;;;;;33318;Pessac
+-0.162311742158926;44.73855642394;way/220513290;pharmacy;Pharmacie de Frontenac;;;;;330046376;;;;;;;33175;Frontenac
+-0.451490870569752;44.7460693343839;way/226442774;clinic;Korian Les Horizons;;;;;;;;;;;;33084;Cambes
+-0.611357503014469;44.8067191572484;way/226898291;nursing_home;EHPAD Mutualiste de Pessac;;;;;330798265;500;;60;senior;;;33318;Pessac
+-0.624235880798075;44.7726075728215;way/227596722;dentist;SOLO SCM;;;;;;;;;;;+33 5 56 89 19 18;33192;Gradignan
+-0.613366168241482;44.7740696679672;way/227601502;pharmacy;Pharmacie Saint-Pierre;;;;"Mo-Fr 08:30-20:15, Sa 09:00-20:00";330046574;;;;;;;33192;Gradignan
+-0.784791842309448;44.8058276914397;way/228063336;nursing_home;EHPAD Le Duc de Lorge;;;;;330799081;500;;;senior;35204463000015;+33556216705;33422;Saint-Jean-d'Illac
+-0.600458064192351;44.731468592292;way/228079469;clinic;;;;;;;;;;;;;33238;Léognan
+-0.594459379110809;44.7304305185744;way/228084359;pharmacy;Pharmacie des Sables;;;;Mo-Sa 09:00-19:45;330047614;;;;;;;33238;Léognan
+-0.600818376154617;44.730616125786;way/228085514;clinic;Cabinet de Soins Infirmiers;;;;;;289;;;;;;33238;Léognan
+-0.31071994234602;44.6349733636067;way/228262980;hospital;Centre Hospitalier de Cadillac - Unité pour Malades Difficiles;;;;;;;;;;;;33081;Cadillac
+-0.3650081477998;44.6859103709992;way/228892490;doctors;Medecin generaliste Darrieumerlou;;;;;;;;;;;;33311;Paillet
+-0.848707335646065;44.700422173586;way/252881881;nursing_home;La Mémoire des Ailes;;;;;330021049;500;;;senior;;+33556944300;33555;Marcheprime
+-0.855395849243271;44.6917924613897;way/252884702;pharmacy;;;;;;330053414;;;;;;;33555;Marcheprime
+-0.52204669474775;44.8645037626197;way/25710278;hospital;Polyclinique Bordeaux Rive-Droite;Groupe Bordeaux Nord Aquitaine;yes;yes;;330780263;;;;;;+33 8 26 30 04 84;33249;Lormont
+-0.576000259835706;44.8079764695093;way/25745753;hospital;Maison de santé protestante de Bagatelle;;;;;330781394;;;;;;;33522;Talence
+-0.680133531657162;44.8170319148318;way/258491799;clinic;Centre Aquitain du Dos;;;;;;;;;;;;33281;Mérignac
+-0.607265387722462;44.8276636372456;way/25873763;hospital;Groupe hospitalier Pellegrin;CHU de Bordeaux;yes;;;330781360;101;;;;;+33 5 56 79 56 79;33063;Bordeaux
+-0.602306980024435;44.8244550699868;way/25873796;hospital;Hôpital Charles Perrens;;;;;330000639;;;;;;;33063;Bordeaux
+-0.57386797948747;44.7987211388221;way/25946507;hospital;Hôpital d'Instruction des Armées Robert Picqué;;;;;330781303;114;;;;;;33550;Villenave-d'Ornon
+-0.659597761340001;44.7860386677644;way/27461326;hospital;Hôpital Haut-Lévêque;;yes;;;330783648;101;;;;;+33 5 56 79 56 79;33318;Pessac
+-0.657173342618097;44.797556528214;way/27461500;hospital;Hôpital Xavier Arnozan;;;;;330781337;;;;;;;33318;Pessac
+-0.641049085606407;44.8123871507067;way/29047358;hospital;Hôpital de Jour Halloran;;;;;330783754;;;;;;+33 5 56 45 71 34;33318;Pessac
+-0.683332640353921;44.7416948052633;way/308051411;clinic;;;;;;;;;;;;;33122;Cestas
+-0.262818270595595;44.734078230445;way/329850874;pharmacy;Pharmacie Bizat Anselm;;;;;330052630;;;;;;;33523;Targon
+-0.67789335506263;44.8173087168925;way/352910368;clinic;Clinique du Sport;;;;;330780271;;;;;;;33281;Mérignac
+-0.465413083395284;44.880555147556;way/364876823;pharmacy;;;;;;;;;;;;;33554;Yvrac
+-0.32001092351948;44.8981621260845;way/364929862;pharmacy;;;;;;330052994;;;;;;;33539;Vayres
+-0.246242604754405;44.94644615117;way/407013175;hospital;Colisée Clinique Avicenne;Colisée Patrimoine;no;;;330024928;109;;;;;+33 5 57 50 83 00;33243;Libourne
+-0.382928140912265;45.0161541164928;way/429519764;dentist;;;;;;;;;;;;;33018;Val de Virvée
+-0.273421752642308;44.9942007809629;way/430066169;pharmacy;;;;;;330046392;;;;;;;33179;Galgon
+-0.580520315080956;44.823756079518;way/43575115;hospital;Institut Bergonié;;;;;330000662;;;;;;;33063;Bordeaux
+-0.599395638226244;44.805465893729;way/44127971;hospital;Clinique Bethanie;;;;;330780321;161;;;;;+33 5 56 84 81 00;33522;Talence
+-0.72428276339455;44.9033318723206;way/450075915;doctors;Cabinet médical;;;;;;;;;;;;33376;Saint-Aubin-de-Médoc
+-0.34466766359015;44.7718792012921;way/456011297;doctors;Maison de Santé Créonnaise;;;yes;;;;;;;;;33140;Créon
+-0.606351374487253;44.8390882993676;way/473365611;hospital;Nouvelle Clinique Bel Air;;;yes;;330780040;365;;;;;+33 826 300 606;33063;Bordeaux
+-0.716955988470268;44.8954127374362;way/49556641;pharmacy;Pharmacie Belhomme;;;;Mo-Sa 08:30-20:00;330051665;;;;;;;33449;Saint-Médard-en-Jalles
+-0.515426323575754;44.8590633690638;way/534250990;doctors;Kinésithérapeute;;;;;;;;;;;;33119;Cenon
+-0.611038446587951;44.7420119501678;way/550714629;nursing_home;EHPAD Le Bois des Palombes;;;;;330052028;500;;;senior;31710026100021;+33 5 57 96 05 20;33238;Léognan
+-0.578854964285826;44.8635689806799;way/55218961;hospital;Polyclinique Bordeaux Nord Aquitaine;Groupe Bordeaux Nord Aquitaine;yes;yes;;330780479;365;;;;;+33 5 56 43 71 11;33063;Bordeaux
+-0.624238277453053;44.8860012658986;way/56701066;hospital;Centre de Réeducation Fonctionnelle de la Tour de Gassies;;;;;330781139;109;;;;;+33 5 56 16 33 33;33075;Bruges
+-0.587976441879849;44.8573371748002;way/58448452;hospital;Clinique Tivoli;;;;;330780115;365;;;;;+33 5 56 11 60 00;33063;Bordeaux
+-0.623678951629466;44.8536595360567;way/630031344;hospital;Centre de Rééducation Korian Les Grands Chênes;;;;;330781154;109;;;;;;33063;Bordeaux
+-0.624569534916595;44.8597084972963;way/63033635;hospital;Polyclinique Bordeaux-Caudéran Les Pins Francs;;;;;330780354;365;;;;;+33 8 26 30 16 16;33063;Bordeaux
+-0.60330681366939;44.9480555740251;way/631316353;dentist;;;;;;;;;;;;;33312;Parempuyre
+-0.629705899947695;44.7895515240387;way/643528072;hospital;Clinique Saint-Martin;;;;;330780503;365;;;;;+33540130267;33318;Pessac
+-0.610288775150588;44.8065859072307;way/643528073;hospital;Clinique mutualiste Arnaud Duben;Pavillon de la Mutualité;yes;;;330780529;;;;;;+33 5 56 46 56 46;33318;Pessac
+-0.594051771955298;44.8834237530503;way/65609183;pharmacy;Pharmacie du Tasta;;;;;330044645;;;;;;;33075;Bruges
+-0.65965797005085;45.1350946604297;way/666777312;hospital;Centre hospitalier de Blaye;;yes;;;330000571;;;;;;+33 5 57 33 40 00;33058;Blaye
+-0.464844034009576;44.9231141488883;way/668081147;pharmacy;;;;;;330051327;;;;;;;33003;Ambarès-et-Lagrave
+-0.61885814463548;44.86780234983;way/685759065;hospital;Hôpital Suburbain du Bouscat;;;;;330000332;365;;;;;+33 5 56 42 49 49;33069;Le Bouscat
+-0.642373903734059;44.8671694013157;way/745331595;nursing_home;EHPAD de Bois Gramond;;;;;330022138;500;;;senior;;+33556165500;33162;Eysines
+-0.380367570553899;45.0144206899104;way/755950500;doctors;Maison de la santé;;;;;;;;;;;;33018;Val de Virvée
+-0.450219825628907;44.9876268905831;way/755960812;pharmacy;Pharmacie des écoles;;;;;330050642;;;;;;;33366;Saint-André-de-Cubzac
+-0.616838267585781;44.8877903885606;way/758163084;doctors;Orthopole;;;;;;;;;;;;33075;Bruges
+-0.345068489376194;44.7719814257378;way/760790483;pharmacy;;;;;;;;;;;;;33140;Créon
+-0.629127961894183;44.882696327724;way/770841265;nursing_home;EHPAD Le Vigean;;;;;330782830;500;;;senior;;+33556280363;33162;Eysines
+-0.542612440506571;44.8513052009361;way/77919360;hospital;Clinique Ophtalmologique Thiers;;;yes;;330780487;128;;;;;+33 8 26 30 13 30;33063;Bordeaux
+-0.574909484171573;44.8624309161921;way/779303948;nursing_home;Résidence Marie Durand;Association Maison Protestante de Retraite;;;;330782749;500;;;senior;;+33557870261;33063;Bordeaux
+-0.49598771949863;44.783604123648;way/78346473;pharmacy;Pharmacie Kressman Bouvier;;;;;330047481;;;;;;;33234;Latresne
+-0.529980718784905;44.8257002715338;way/783827208;hospital;Polyclinique de Bordeaux Tondu;;;;;330781402;365;;;;;+33 8 26 96 39 63;33167;Floirac
+-0.571743183822479;44.8142781310909;way/78553917;nursing_home;Le Sablonat;;;;;330791302;500;;;senior;80826970800109;+33557592860;33063;Bordeaux
+-0.428373279557958;44.8792869647308;way/787540077;pharmacy;;;;;;;;;;;;;33293;Montussan
+-0.47527869055066;44.8187583819946;way/791126670;nursing_home;EHPAD Les Mûriers;;;;;330786229;;;64;senior;;+33 5 56 20 53 39;33099;Carignan-de-Bordeaux
+-0.22722809919117;44.8957272514968;way/79360081;nursing_home;Ehpad Pavillon 40;Centre hospitalier de Libourne;;;;330058108;500;;;senior;26330565800043;+33557553434;33243;Libourne
+-0.242739502323625;44.9123332990969;way/79364259;dentist;Dr Laubie;;;;;;;;;;;;33243;Libourne
+-0.575879280075647;44.8402195641725;way/79979346;pharmacy;Pharmacie des Carmes;;;;Mo-Sa 09:00-19:30;330041765;;;;;;;33063;Bordeaux
+-0.602864041488165;44.8181399547405;way/823462183;doctors;Maison Médicale La Médoquine;;;;;;;;;;;;33522;Talence
+-0.226663157929551;44.8971495480423;way/83024006;hospital;Hôpital Garderose;;;;;330783721;;;;;;;33243;Libourne
+-0.190127869034218;44.876196204294;way/840565779;pharmacy;Pharmacie Saint-Sulpice de Faleyrens;;;;;330051863;620;;;;53281456300021;;33480;Saint-Sulpice-de-Faleyrens
+-0.658201223241051;44.7987900916751;way/848536850;nursing_home;Les Jardins de l'Alouette;;;;;330792573;500;;;senior;26330582300357;+33557623335;33318;Pessac
+-0.24532339915438;44.9455095706282;way/848542814;nursing_home;Résidence Les Dagueys;;;;;330058470;500;;;senior;79923308500049;;33243;Libourne
+-0.661630341417001;44.8236934207428;way/848858149;nursing_home;Ehpad Les Parentèles;;;;;330025198;500;;;senior;79883259800014;+33556055000;33281;Mérignac
+-0.515763775765372;44.8779541106822;way/851454328;nursing_home;Foyer d'accueil médicalisé Les Lilas;;;;;;;;;senior;;+33557306500;33249;Lormont
+-0.640072771561179;44.8440522795978;way/871139086;hospital;Cabinet Paramédical - Corps & Ame;;no;;;;;;;;;;33281;Mérignac

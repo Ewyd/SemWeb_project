@@ -1,0 +1,1032 @@
+X;Y;osm_id;type;name;operator;emergency;wheelchair;opening_hours;ref_finess;type_finess;ref_naf;capacity;for_public;ref_siret;phone;com_insee;com_nom
+3.1749962;50.6873202993068;node/1107849554;pharmacy;Grande pharmacie de Paris;;;;Mo-Su 08:30-20:00;590027272;;;;;;;59512;Roubaix
+3.0265877;50.6363378993168;node/1149410796;doctors;Docteur MAES Jean-Yves;;;;;;;;;;;+33 3 20 93 05 93;59328;Lambersart
+2.9608006;50.4963316993448;node/1290238381;hospital;Hôpital de Carvin;;;;;620000232;;;;;;;62215;Carvin
+3.2120384;50.6666648993109;node/1301715152;pharmacy;Pharmacie Mutualiste;;;;;590034641;;;;;;;59332;Lannoy
+3.2114223;50.6673210993107;node/1301715156;pharmacy;La Pharmacie Lannoy;;;;;590019923;;;;;;;59332;Lannoy
+3.1537406;50.7299232992986;node/1315121007;pharmacy;Pharmacie du Parc;;;;"Mo-Fr 08:30-12:30,14:00-19:30; Sa 08:30-12:30";590030516;;;;;;+33 3 20 01 82 09;59599;Tourcoing
+3.1447586;50.7329002992981;node/1315121013;pharmacy;Pharmacie Belencontre;;;;;590030607;;;;;;;59599;Tourcoing
+3.058424;50.6472265993146;node/1327783683;pharmacy;Pharmacie des Quais;;;;;590021937;;;;;;;59350;Lille
+3.0501179;50.6254948993189;node/1435780311;pharmacy;Pharmacie Wambergue;;;;"Mo-Fr 09:00-19:30, Sa 09:00-19:00, Su 09:00-13:00";590022083;;;;;;;59350;Lille
+2.6364412;50.5370720993366;node/1499982492;pharmacy;Pharmacie de Catorive;;;;;620007344;;;;;;;62119;Béthune
+3.2410101;50.4776191993487;node/1528437191;pharmacy;Pharmacie Delobelle;;;;;590025607;;;;;;+33 3 20 71 88 00;59449;Orchies
+2.9501224;50.535023099337;node/1573430859;pharmacy;Pharmacie d'Allennes;;;;;590008900;;;;;;;59005;Allennes-les-Marais
+3.0322601;50.6270767993186;node/1588237669;pharmacy;Pharmacie du Port Fluvial;;;;"Mo-Fr 09:00-20:00, Sa 09:00-18:00";590022216;;;;;;;59350;Lille
+3.1352401;50.4138428993619;node/1597996491;doctors;;;;;;;;;;;;;59486;Râches
+3.1352812;50.4138904993619;node/1597996494;dentist;;;;;;;;;;;;;59486;Râches
+3.1355131;50.4138931993619;node/1597996496;doctors;;;;;;;;;;;;;59486;Râches
+3.1534516;50.6705368993101;node/1599053367;pharmacy;Pharmacie du Parc;;;limited;;590013850;;;;;;;59163;Croix
+3.2415183;50.4740245993494;node/1623695224;pharmacy;Pharmacie de l'Hôtel de Ville;;;;;590025573;;;;;;+33 3 20 71 82 99;59449;Orchies
+3.1808975;50.6913235993061;node/1647262891;pharmacy;Pharmacie Mutualiste de Roubaix;;;;;590034666;;;;;;;59512;Roubaix
+3.069164;50.6238082993192;node/1653352630;pharmacy;Pharmacie Macquart;;;;"Mo-Fr 09:00-12:15,14:00-19:30; Sa 09:00-12:15,14:00-18:30";590021317;;;;;;+33 3 20 52 41 72;59350;Lille
+3.0019666;50.6131500993213;node/1666920605;pharmacy;Pharmacie Mahieu;;;;"Mo-Fr 09:00-13:00,14:00-20:00; Sa 09:00-13:00,14:00-19:00";590022885;;;;;;;59360;Loos
+2.9956075;50.6115806993217;node/1667242703;pharmacy;;;;;;;;;;;;;59286;Haubourdin
+3.0744598;50.6367616993167;node/1706324380;pharmacy;Pharmacie Euralille;;;yes;;590022117;;;;;;;59350;Lille
+3.0906976;50.6767113993089;node/1723969698;pharmacy;Pharmacie du Bourg;;;;;590023651;;;;;;;59378;Marcq-en-Barœul
+3.0907944;50.6767499993089;node/1723969704;dentist;;;;;;;;;;;;;59378;Marcq-en-Barœul
+3.1258494;50.7828623992886;node/1751647446;pharmacy;Pharmacie Duriez;;;;;590017950;;;;;;;59279;Halluin
+3.0577876;50.639988699316;node/1780246007;pharmacy;Pharmacie Leroux;;;;;590020434;;;;;;;59350;Lille
+3.1325;50.6374561993166;node/1796314143;dentist;Docteur Michel Lefevre;;;;;;;;;;;;59009;Villeneuve-d'Ascq
+3.0612705;50.6322473993176;node/1796976040;pharmacy;Pharmacie de la Liberté;;;;"Tu-Fr 09:00-19:30, Mo 10:00-19:30, Sa 09:30-12:30,14:00-19:00";590021333;;;;;;;59350;Lille
+2.6402084;50.524965199339;node/1819102901;pharmacy;Pharmacie de la Gare;;;;;620007146;;;;;;;62119;Béthune
+2.6390902;50.529859599338;node/1819371834;pharmacy;Pharmacie Maris;;;;;620007211;;;;;;;62119;Béthune
+2.7146231;50.5800099993279;node/1867796499;pharmacy;Pharmacie Burette;;;;;620010215;;;;;;;62252;La Couture
+2.7716526;50.6279752993184;node/1867805468;pharmacy;Pharmacie Deronne;;;;;620012625;;;;;;;62491;Laventie
+3.0752866;50.6593411993123;node/1868317439;doctors;Hawkins-Berteloot et Croenne;;;;;;;;;;;+33320553572;59368;La Madeleine
+3.3014232;50.4737978993495;node/1899478279;pharmacy;Pharmacie Detavernier;;;;"Mo-Fr 09:00-12:00,14:00-19:00; Sa 09:00-12:00, PH off";590019857;;;;;;;59330;Landas
+3.2471184;50.47118999935;node/1947538804;pharmacy;Pharmacie Delobelle-Savoye;;;;;590025623;;;;;;+33 3 20 61 88 27;59449;Orchies
+3.246493;50.4700419993502;node/1947538816;doctors;;;;;;;;;;;;;59449;Orchies
+3.2472237;50.47139389935;node/1947538823;doctors;;;;;;;;;;;;;59449;Orchies
+3.1715803;50.5106580993419;node/1947552590;pharmacy;Pharmacie du Pévèle;;;;;590012571;;;;;;;59129;Cappelle-en-Pévèle
+3.1303313;50.6253722993189;node/2042751713;pharmacy;Pharmacie Ciora;;;;;590009122;;;;;;;59009;Villeneuve-d'Ascq
+2.6402616;50.5314360993377;node/2069326486;pharmacy;Pharmacie Mellin;;;;;620007161;;;;;;;62119;Béthune
+3.2858839;50.4593301993524;node/2088461120;pharmacy;Pharmacie Martin;;;;;;;;;;;+33 3 20616301;59080;Beuvry-la-Forêt
+2.8540303;50.6072007993225;node/2091311159;doctors;Maison paramédicale;;;;;;;;;;;;59257;Fromelles
+3.0358796;50.6584886993124;node/2103295731;pharmacy;Pharmacie Leleu;;;;;590019550;;;;;;;59328;Lambersart
+3.0405738;50.6577912993126;node/2106238255;pharmacy;Pharmacie Dessailliez;;;;;590028551;;;;;;;59527;Saint-André-lez-Lille
+3.041652;50.6590257993123;node/2106238257;hospital;Centre Ulysse Trelat;;;;;590000212;;;;;;;59527;Saint-André-lez-Lille
+2.8077686;50.5331204993374;node/2107160457;hospital;Centre Hospitalier La Bassée;;;;;590000097;355;;;;;;59051;La Bassée
+3.1489469;50.6951143993053;node/2128108254;pharmacy;Pharmacie du Blanc Seau;;;;"Mo-Th 12:00-04:30,14:00-19:30, Fr 09:00-19:00; Sa 08:00-12:30,14:00-18:00";590030623;;;;;;;59599;Tourcoing
+3.0646857;50.61996449932;node/2242643751;pharmacy;Pharmacie Flamande;;;;"Mo-Sa 09:00-12:30, 13:30-19:30";590021051;;;;;;+33320524920;59350;Lille
+3.2821155;50.5230009993394;node/2280117398;pharmacy;Pharmacie Keylouli;;;;;590025052;;;;;;;59419;Mouchin
+2.9833069;50.5416017993356;node/2280978332;pharmacy;Pharmacie Statius;;;;;590017257;;;;;;;59266;Gondecourt
+2.9859053;50.5442741993351;node/2280978338;pharmacy;Pharmacie Ritter;;;;;590017232;;;;;;;59266;Gondecourt
+3.0895474;50.6246186993191;node/2321926776;doctors;Cabinet Courouble-Pirot;;;limited;;;;;;;;;59350;Lille
+3.0455348;50.6296647993181;node/2389863573;pharmacy;Grande Pharmacie Colbert;;;no;"Mo-Su 08:30-12:30,14:00-20:00; Sa 08:30-12:30,14:00-19:00";590020632;;;;;;+33 320540900;59350;Lille
+3.168565;50.5266891993387;node/2390561794;pharmacy;Pharmacie Van Triempont;;;;;590030003;;;;;;;59586;Templeuve-en-Pévèle
+3.1817158;50.4269286993592;node/2397825320;pharmacy;Pharmacie Emmanuel Leclercq;;;;;590016671;;;;;;;59239;Flines-lez-Raches
+3.1800815;50.4283998993589;node/2397825381;pharmacy;Pharmacie Plaetevoet;;;;;590016655;;;;;;;59239;Flines-lez-Raches
+3.1989638;50.4507879993542;node/2584319975;pharmacy;Grande Pharmacie de Coutiches;;;;"Mo-Fr 08:30-12:30,14:00-19:00; Sa 09:00-12:30";590013686;;;;;;+33 3 20 71 71 66;59158;Coutiches
+3.0277391;50.6320541993176;node/2647919781;pharmacy;Pharmacie Ho Tan Tai;;;;"Mo-Fr 09:00-12:15,14:00-19:15; Sa 09:00-12:15,14:00-19:00";590021655;;;;;;+33320928551;59350;Lille
+3.2204308;50.6457376993149;node/2675547346;pharmacy;Pharmacie Barbieux;;;;;590028254;;;;;;;59522;Sailly-lez-Lannoy
+2.9957167;50.5735751993292;node/2721670942;pharmacy;Pharmacie Demont;;;;;590019154;;;;;;;59316;Houplin-Ancoisne
+2.7186772;50.6394362993162;node/2813315656;doctors;Centre médical;;;;;;;;;;;+33 3 28 43 89 00;59268;La Gorgue
+2.7158378;50.6383008993164;node/2813315657;pharmacy;Pharmacie Picot;;;;;590017307;;;;;;+33 3 28 48 80 28;59268;La Gorgue
+3.0507407;50.5829777993273;node/2878433302;pharmacy;Pharmacie Mazereel;;;;;590032306;;;;;;;59648;Wattignies
+3.0527425;50.6921943993059;node/290682623;pharmacy;Pharmacie Pasquier;;;;"Mo-Fr 9:00-12:30,14:00-19:30; Sa 9:00-12:30,14:00-19:00";590031985;;;;;;+33 3 20 39 71 61;59636;Wambrechies
+3.0129636;50.6394367993162;node/2917636333;pharmacy;Nouvelle Pharmacie de la Mairie;;;;;590022455;;;;;;+33 3 20938618;59350;Lille
+3.0833537;50.6526298993136;node/3041931180;dentist;Cabinet Descamp;;;;;;;;;;;;59378;Marcq-en-Barœul
+3.0636493;50.6267006993187;node/3097332082;dentist;Patrick Regnault;;;;;;;;;;;;59350;Lille
+3.0955377;50.6211223993198;node/3097479875;pharmacy;Pharmacie Lemahieu;;;;"Tu-Fr 09:00-12:00,14:30-19:00, Mo 14:30-19:00, Sa 09:00-12:00";590022257;;;;;;;59350;Lille
+2.9671141;50.6159740993208;node/3124561636;pharmacy;Pharmacie Marquis;;;;;590017851;;;;;;;59278;Hallennes-lez-Haubourdin
+2.971212;50.6117077993216;node/3124564827;pharmacy;Pharmacie Vivien Antoine;;;;;590017836;;;;;;;59278;Hallennes-lez-Haubourdin
+2.984254;50.6096080993221;node/3124586759;pharmacy;Pharmacie du Marché;;;;;590018172;;;;;;;59286;Haubourdin
+2.9837873;50.6109527993218;node/3124607018;pharmacy;Pharmacie Thibaut;;;;;590018123;;;;;;;59286;Haubourdin
+2.9931059;50.6111571993217;node/3124618431;pharmacy;Pharmacie Beniac Labbe;;;;;590018222;;;;;;;59286;Haubourdin
+3.0865637;50.6091853993221;node/3124630350;pharmacy;Pharmacie PAUL;;;;;590026902;;;;;;;59507;Ronchin
+3.0990736;50.5992849993241;node/3124636091;pharmacy;Pharmacie du Grand Ronchin;;;;;590026852;;;;;;;59507;Ronchin
+3.093647;50.5960633993247;node/3124638610;pharmacy;Pharmacie du Champ du Cerf;;;;;590026886;;;;;;;59507;Ronchin
+3.0750781;50.6104082993219;node/3124645287;pharmacy;Pharmacie Daligault;;;;;590021085;;;;;;;59350;Lille
+3.0773653;50.6063457993227;node/3124646615;pharmacy;Pharmacie de la Mairie;;;;"Mo-Fr 09:00-19:00; Sa 09:00-12:00";590026985;;;;;;+33 3 20 53 17 37;59507;Ronchin
+3.0762364;50.6082014993223;node/3124647959;pharmacy;Pharmacie Vermeulen;;;;;590026936;;;;;;+33 3 20 88 10 04;59507;Ronchin
+2.9671944;50.6330008993174;node/3125424025;pharmacy;Pharmacie des Weppes;;;yes;Mo-Sa 09:00-21:00;590015806;;;;;;;59196;Ennetières-en-Weppes
+3.0010615;50.5931021993253;node/3125435845;pharmacy;Pharmacie Selosse;;;;;590015756;;;;;;+33 3 20 07 38 02;59193;Emmerin
+3.0083291;50.6061906993227;node/3125436291;pharmacy;Pharmacie Jeanblanc Dupays;;;;;590022802;;;;;;;59360;Loos
+3.0132059;50.6108009993218;node/3125445794;pharmacy;Pharmacie du Boulevard;;;;;590022901;;;;;;;59360;Loos
+3.0187762;50.6125511993215;node/3125447447;pharmacy;Pharmacie d'Ennequin;;;;;590022786;;;;;;;59360;Loos
+3.1197136;50.6361739993168;node/3125639794;pharmacy;Pharmacie du Soleil;;;;Mo-Sa 09:00-19:30;590009155;;;;;;;59009;Villeneuve-d'Ascq
+3.0525548;50.6869093993069;node/3134235060;pharmacy;Pharmacie Roye;;;;;590032017;;;;;;;59636;Wambrechies
+3.0498688;50.6619784993117;node/3134235061;pharmacy;Pharmacie du Centre;;;;;590028635;;;;;;;59527;Saint-André-lez-Lille
+3.1166766;50.5907245993258;node/3156341015;pharmacy;Pharmacie Lescieux;;;;;590020202;;;;;;;59343;Lesquin
+2.9776206;50.6155424993209;node/3210484457;pharmacy;Pharmacie Tousset;;;;;590018206;;;;;;;59286;Haubourdin
+3.0227347;50.6510188993139;node/321277541;pharmacy;Pharmacie du Bourg;;;;"Mo-Sa 08:30-12:30, Mo-Fr 14:00-19:30, Sa 14:00-18:00";590019584;;;;;;;59328;Lambersart
+3.0372453;50.6499523993141;node/321479866;pharmacy;Pharmacie Gosselin;;;;"Mo 09:30-12:30, Tu-Sa 09:00-12:30, Mo-Fr 14:00-19:30, Sa 14:30-18:30";590019717;;;;;;;59328;Lambersart
+3.0336052;50.6445884993151;node/321479881;pharmacy;Pharmacie du Champ de Courses;;;;"Mo-Sa 09:00-12:15, Mo-Fr 14:15-19:00";590019667;;;;;;;59328;Lambersart
+3.1484292;50.6246472993191;node/3227249196;doctors;Maison médicale;;;;"""sur rendez-vous""";;;;;;;;59009;Villeneuve-d'Ascq
+2.7350601;50.4509054993542;node/3239121327;pharmacy;Pharmacie CARMI;;;;;620018291;;;;;;;62386;Grenay
+2.7368584;50.4486313993547;node/3244221329;pharmacy;Pharmacie Christine Boulay;;;;"Mo-Fr 09:00-12:00,14:00-19:00; Sa 09:00-13:00";620011494;;;;;;;62386;Grenay
+3.0515057;50.6214566993197;node/3259656899;pharmacy;Pharmacie Bennani;;;;;590020483;;;;;;+33 3 20 54 62 17;59350;Lille
+3.0522293;50.6701356993102;node/3284341813;pharmacy;Pharmacie du Bien Être;;;;;590024022;;;;;;;59386;Marquette-lez-Lille
+3.0277038;50.6516885993138;node/3294589631;doctors;Laboratoire d'analyses médicales;;;;"Mo-Fr 07:30-18:00, Sa 07:30-12:30";590051637;;;;;;;59328;Lambersart
+3.1148833;50.3623816993727;node/3334188527;pharmacy;Pharmacie Vahille et Gaudet;;;;;590029633;;;;;;;59569;Sin-le-Noble
+3.0289327;50.6521943993136;node/3342236308;doctors;Gynécologue médicale;;;;;;;;;;;;59328;Lambersart
+3.0288562;50.6522088993136;node/3342236309;dentist;Orthodontiste Docteur Segard;;;;;;;;;;;;59328;Lambersart
+3.0835642;50.3815674993687;node/3392878379;pharmacy;Pharmacie Créteur Delplace;;;;;590014767;;;;;;;59178;Douai
+2.9333763;50.5281204993384;node/3396600598;pharmacy;Pharmacie Flament;;;;;590009601;;;;;;+33 3 20 85 56 41;59011;Annœullin
+3.0163501;50.640428799316;node/3416721182;doctors;Docteur TRAN;;;;"""Sur rendez-vous""";;;;;;;;59350;Lille
+3.1809483;50.6826614993077;node/3431635063;pharmacy;Pharmacie de la Potennerie;;;;"Mo-Sa 09:00-12:30; 14:00-19:00";590027934;;;;;;;59512;Roubaix
+3.0179145;50.6465316993147;node/3454519475;doctors;Docteur Delattre Éric;;;;;;;;;;;+33 3 20 92 25 50;59328;Lambersart
+3.0256446;50.6476220993145;node/3454537262;doctors;Docteur Reille Marie-Hélène;;;;;;;;;;;+33 3 20 09 25 33;59328;Lambersart
+3.0228484;50.6509676993139;node/3454539411;doctors;Docteur Castanet Yannick;;;;;;;;;;;+33 3 20 92 07 23;59328;Lambersart
+3.0207658;50.6432454993154;node/3454575713;doctors;Docteur Mathieu Marlier;;;;"Mo,Fr 14:00-16:00; Th 08:30-10:00";;;;;;;+33 3 20 93 43 44;59328;Lambersart
+3.020742;50.6432652993154;node/3454577740;doctors;Docteur Lionel Specht;;;;"Mo-We,Fr 09:30-11:00; Th 13:30-15:30";;;;;;;+33 3 20 92 25 80;59328;Lambersart
+3.0141438;50.6456098993149;node/3454582825;doctors;Docteur DO Tue;;;;;;;;;;;+33 3 20 92 46 45;59328;Lambersart
+3.0167699;50.6429326993155;node/3454584347;doctors;Docteur Ceriez Muriel;;;no;"""Tous les jours sur rendez-vous""";;;;;;;+33 3 20 93 49 42;59328;Lambersart
+3.0167877;50.6429432993155;node/3454584348;doctors;Docteur Haurou Patou Sébastien;;;no;;;;;;;;+33 3 20 93 49 42;59328;Lambersart
+3.0357005;50.6379973993164;node/3454585703;doctors;Docteur D'Hooghe Philippe;;;;;;;;;;;+33 3 20 93 61 14;59350;Lille
+3.0357945;50.6378879993165;node/3454586545;doctors;Docteur Barbe Virginie;;;;;;;;;;;+33 3 20 93 61 14;59350;Lille
+3.027447;50.6517911993138;node/3454610233;doctors;Docteur Harbonnier Lévêque Catherine;;;;"""Sur rendez-vous""";;;;;;;+33 3 20 60 45 06;59328;Lambersart
+3.0274542;50.6517888993138;node/3454610234;doctors;Docteur Harbonnier Cédric;;;;"Mo-Fr 13:30-15:30; Sa 08:30-11:30";;;;;;;+33 6 31 95 37 24;59328;Lambersart
+3.0307161;50.6461128993149;node/3454619399;doctors;Docteur Hochedez Henry;;;;"""Sur rendez-vous seulement""";;;;;;;+33 3 20 93 26 60;59328;Lambersart
+3.0158378;50.6526218993136;node/3454653110;doctors;Docteur Braekeveldt Dirk;;;;;;;;;;;;59328;Lambersart
+3.0268757;50.6528983993135;node/3454655386;doctors;Docteur Daems Jacques;;;;"Mo,Tu 09:00-19:00, We-Sa 09:00-11:00, Th 19:00-20:00, Fr 18:00-19:00";;;;;;;+33 3 20 08 34 71;59328;Lambersart
+3.0158882;50.6527523993135;node/3454657010;doctors;Docteur Leman Emmanuel;;;;;;;;;;;+33 3 20 22 11 34;59328;Lambersart
+3.0219848;50.640496299316;node/3454665253;doctors;Docteur Beaurain Dominique;;;;"""Sur rendez-vous""";;;;;;;+33 3 20 93 55 09;59328;Lambersart
+3.0158488;50.6526554993136;node/3454674463;doctors;Docteur Chevalier Bénédicte;;;;;;;;;;;+33 3 20 92 96 62;59328;Lambersart
+3.0219794;50.6405004993159;node/3454675263;doctors;Docteur Beaurain Christophe;;;;"""Sur rendez-vous""";;;;;;;+33 3 20 93 55 09;59328;Lambersart
+3.0305376;50.6527852993135;node/3454681144;doctors;Docteur Vaillant Duborper Élise;;;;;;;;;;;+33 3 28 38 96 85;59328;Lambersart
+3.030553;50.6528010993135;node/3454681217;doctors;Docteur Gobillot Gonzague;;;;;;;;;;;+33 3 28 38 96 85;59328;Lambersart
+3.0305746;50.6528124993135;node/3454681218;doctors;Docteur Wimez Jean-Claude;;;;;;;;;;;+33 3 28 38 96 85;59328;Lambersart
+3.0329869;50.6449967993151;node/3454687227;doctors;Docteur Decoster Dominique;;;;;;;;;;;+33 3 20 93 41 04;59328;Lambersart
+3.0330251;50.6449634993151;node/3454687228;doctors;Docteur Guichard Guaquière Delphine;;;;;;;;;;;+33 3 20 93 41 04;59328;Lambersart
+3.0330061;50.6449789993151;node/3454687229;doctors;Docteur Decoster Marie-Adélaïde;;;;;;;;;;;+33 3 20 93 41 04;59328;Lambersart
+3.0346063;50.645248399315;node/3454694121;doctors;Docteur Douilly Jean-Marc;;;;;;;;;;;+33 3 20 93 71 85;59328;Lambersart
+3.0247491;50.6385284993163;node/3454695350;doctors;Docteur Cousin Pierre;;;;;;;;;;;+33 3 20 93 79 37;59328;Lambersart
+3.0351129;50.6514198993138;node/3454698800;doctors;Docteur Guillet Frédérique;;;;;;;;;;;+33 3 20 31 90 51;59328;Lambersart
+3.0378091;50.6501939993141;node/3454710746;doctors;Docteur Hochedez François;;;;;;;;;;;+33 3 20 55 86 55;59328;Lambersart
+3.0258554;50.6363441993168;node/3454741147;doctors;Lefrancq Benoît;;;;;;;;;;;+33 3 20 92 58 58;59350;Lille
+3.0163365;50.6429907993155;node/3454743987;doctors;Docteur Roggeman Jean-François;;;no;"Mo-Fr 13:30-15:30; Sa 10:30-12:00; Tu,Fr 18:00-19:00";;;;;;;+33 3 20 92 47 06;59328;Lambersart
+3.1068306;50.384962899368;node/3457971428;pharmacy;Pharmacie Griffon;;;;;590036232;;;;;;;59654;Waziers
+2.6481054;50.5145287993411;node/3484216243;pharmacy;Pharmacie Latron-Fremeau;;;;;620007112;;;;;;;62119;Béthune
+3.1631893;50.7227795993;node/3517691588;pharmacy;Pharmacie de l'Hôtel de Ville;;;;;590030334;;;;;;;59599;Tourcoing
+3.1676351;50.7196091993006;node/3517714949;pharmacy;Pharmacie Verhelst;;;;"Tu-Sa 09:00-12:00, Mo,Tu,Th,Fr 14:00-19:00";590031035;;;;;;;59599;Tourcoing
+3.1712804;50.7273626992991;node/3517876907;pharmacy;Pharmacie Bouckehove;;;;;590030987;;;;;;;59599;Tourcoing
+3.1592195;50.7227876993;node/3518919656;pharmacy;Pharmacie Catteau;;;;;590030235;;;;;;;59599;Tourcoing
+3.1584749;50.7210349993003;node/3518957933;pharmacy;Pharmacie Dewailly;;;;;590030532;;;;;;;59599;Tourcoing
+3.0732982;50.6291173993182;node/3547016535;doctors;Prince Delphine;;;;;;;;;;;+33 3 20 81 06 94;59350;Lille
+3.0110512;50.6522906993137;node/3547032464;doctors;Van Wolput Carine;;;;;;;;;;;+33 3 20 85 12 33;59328;Lambersart
+3.0678167;50.6286044993183;node/3547038523;doctors;Thomas Bernard;;;;;;;;;;;;59350;Lille
+3.0749174;50.6293931993181;node/3547063446;doctors;Ben Salem Chaker;;;;;;;;;;;+33 3 20 88 35 08;59350;Lille
+3.0678963;50.6328808993174;node/3547083754;doctors;Romond Anne-Françoise;;;;;;;;;;;+33 3 20 85 18 18;59350;Lille
+3.0679001;50.6328747993174;node/3547089646;doctors;Braconnier Guillaume;;;;;;;;;;;+33 3 20 85 18 18;59350;Lille
+3.0678912;50.6328728993175;node/3547091709;doctors;Lepetit Philippe;;;;;;;;;;;+33 3 20 85 18 18;59350;Lille
+3.0678891;50.6328815993175;node/3547095710;doctors;BURO Robert;;;;;;;;;;;+33 3 20 85 18 18;59350;Lille
+3.0656165;50.6293782993181;node/3547105029;doctors;Dubuis Michel;;;;;;;;;;;+33 3 20 57 36 51;59350;Lille
+3.0655939;50.6293895993181;node/3547107677;doctors;Debomy Alain;;;;;;;;;;;+33 3 20 57 36 51;59350;Lille
+3.0655899;50.6293742993181;node/3547107678;doctors;Michel Charline;;;;;;;;;;;+33 3 20 57 36 51;59350;Lille
+3.0653641;50.629963199318;node/3547125672;doctors;Bouras Fatima;;;;;;;;;;;+33 3 20 57 53 57;59350;Lille
+3.0653739;50.6295168993181;node/3547135593;doctors;Bouchez Sylviane;;;;;;;;;;;+33 3 20 54 34 14;59350;Lille
+2.9635507;50.645308899315;node/3547184858;doctors;Haingue François;;;;;;;;;;;+33 3 20 93 15 79;59128;Capinghem
+2.9846785;50.645588399315;node/3605735159;pharmacy;Pharmacie du Bourg;;;yes;"Mo-Sa 08:30-12:30,14:00-19:30";;;;;;;+33 3 20 93 02 60;59350;Lille
+3.0542135;50.6342609993172;node/3608084397;pharmacy;Pharmacie de la Place Ronde;;;;;590022166;;;;;;;59350;Lille
+3.0183868;50.5487313993342;node/3635308550;hospital;USLD Au Fil de l'Eau;;;;;590804522;362;;;;;;59560;Seclin
+3.0133961;50.6534816993134;node/3691148525;pharmacy;Brouillard Delobelle Marie-Agnès;;no;;"Mo-Sa 08:30-12:30,13:30-19:30";590019600;;;;;;+33320922152;59328;Lambersart
+3.0163271;50.6426202993155;node/3732103102;pharmacy;Pharmacie Baron Hecquet;;;;"Mo-Fr 08:30-20:00, Sa 09:00-14:00";590022570;;;;;;;59350;Lille
+3.007224;50.6321162993176;node/3755965151;pharmacy;Pharmacie Victor Hugo;;;;;590022422;;;;;;;59350;Lille
+3.0268731;50.6642197993113;node/3803539432;dentist;Dentifree;;;;;;;;;;;;59328;Lambersart
+3.0623584;50.4405373993564;node/3907715958;pharmacy;Pharmacie Leroy;;;;;620012690;;;;;;;62497;Leforest
+3.1838105;50.7107730993023;node/3934304116;pharmacy;Pharmacie de la Mousserie;;;;;590032470;;;;;;;59650;Wattrelos
+2.8605806;50.6800568993082;node/3946535882;pharmacy;Pharmacie d'Ercan;;;yes;"Mo-Fr 08:45-12:30,14:00-19:30, Sa 08:45-12:30,14:00-17:30";590015871;;;;;;+33 3 20 77 14 28;59202;Erquinghem-Lys
+2.7968078;50.5204971993399;node/3982757957;pharmacy;Porte de Flandre;;;;;620006247;;;;;;;62051;Auchy-les-Mines
+2.7345918;50.7347455992977;node/4064831342;pharmacy;Pharmacie REMY BIED;;;;;590010807;;;;;;;59043;Bailleul
+3.169187;50.5265514993387;node/4127805211;dentist;Demeulemester;;;;;;;;;;;;59586;Templeuve-en-Pévèle
+3.0588739;50.6376682993165;node/4287885696;doctors;Docteur Christophe Allienne;;;;;;;;;;;+33 3 28 36 58 48;59350;Lille
+2.7240081;50.6441101993152;node/4339608006;pharmacy;Pharmacie Delassus;;;;;590016085;;;;;;;59212;Estaires
+2.721645;50.6448986993151;node/4339608114;pharmacy;Pharmacie Parent;;;;;590016101;;;;;;;59212;Estaires
+3.0015402;50.7082315993028;node/4349495071;pharmacy;Marquant-Cornavin;;;;;590026316;;;;;;+33 3 20 78 91 52;59482;Quesnoy-sur-Deûle
+2.9991255;50.712545299302;node/4349495073;pharmacy;Pharmacie Belle Croix;;;;;590026332;;;;;;+33 3 20 78 90 70;59482;Quesnoy-sur-Deûle
+3.2829698;50.4072984993633;node/4352187352;pharmacy;Pharmacie Pasteur;;;;"Mo-Fr 08:30-19:30, 09:00-18:00; Sa 08:30-12:30";590023453;;;;;;+33327904017;59375;Marchiennes
+2.7230577;50.4451175993554;node/4355096139;pharmacy;Pharmacie Principale;;;;;620008763;;;;;;;62186;Bully-les-Mines
+3.0625818;50.6382358993164;node/4357379889;pharmacy;Pharmacie de la Déesse Pascal Lesne;;;;"Mo-Fr 08:00-20:00, Sa 09:00-20:00";590020467;;;;;;;59350;Lille
+3.0412435;50.6191310993202;node/4401100550;pharmacy;Grande Pharmacie de Lille;;;;;590021036;;;;;;;59350;Lille
+3.0211372;50.6157341993208;node/4401100551;pharmacy;Pharmacie Delporte;;;;;590022836;;;;;;;59360;Loos
+3.0567853;50.6264601993187;node/4401100552;pharmacy;Pharmacie FAIZ;;;;"Mo-Fr 09:00-12:30,14:00-19:30, Sa 09:00-13:00";590020582;;;;;;;59350;Lille
+3.0451741;50.624755299319;node/4401100553;pharmacy;Pharmacie Galler;;;;;590020335;;;;;;;59350;Lille
+3.053342;50.6290441993182;node/4401100554;pharmacy;Pharmacie Gambetta;;;;"Mo-Fr 08:30-19:30, Sa,Su 09:00-19:00";590021473;;;;;;;59350;Lille
+3.0100023;50.6143180993211;node/4401100555;pharmacy;Pharmacie Saint-Brice;;;;;590022752;;;;;;;59360;Loos
+3.0649457;50.676267199309;node/4401100556;pharmacy;Pharmacie du Centre;;;;;590024055;;;;;;;59386;Marquette-lez-Lille
+3.0622199;50.6274674993185;node/4401100557;pharmacy;Pharmacie du Parvis Saint-Michel;;;;"Tu-Fr 09:00-12:30,14:00-19:30, Mo 10:00-12:30,14:00-19:30, Sa 09:00-12:30";590021887;;;;;;+33 3 20 54 66 96;59350;Lille
+3.079445;50.6214750993197;node/4401100558;pharmacy;Pharmacie du SUD;;;;Mo-Sa 08:30-21:00;590020533;;;;;;+33 3 20 52 69 06;59350;Lille
+3.0587754;50.6293098993182;node/4401100559;pharmacy;Pharmacie du Théatre;;;;"Mo-Sa 08:30-12:30, Mo-Fr 14:00-19:30";590021952;;;;;;;59350;Lille
+3.2177948;50.5679237993304;node/4404569068;pharmacy;Pharmacie Amarsy;;;;;590014056;;;;;;;59168;Cysoing
+3.0528711;50.6530928993135;node/4404569069;pharmacy;Pharmacie Sainte-Hélène;;;;;590028585;;;;;;;59527;Saint-André-lez-Lille
+3.3499476;50.4889816993464;node/4404569071;pharmacy;Pharmacie Dheris;;;;;590028205;;;;;;;59519;Rumegies
+3.2157248;50.5680210993303;node/4404569072;pharmacy;Pharmacie Dantoing;;;;;590014072;;;;;;;59168;Cysoing
+3.1017513;50.6573831993126;node/4404569073;pharmacy;Pharmacie du Baroeul;;;;"Mo-Fr 09:00-12:30,14:00-19:30; Sa 09:00-12:30,14:00-17:00";590023784;;;;;;+33 3 20 72 12 64;59378;Marcq-en-Barœul
+3.2208034;50.5307120993378;node/4404569074;pharmacy;Pharmacie Huyghe;;;;;590017117;;;;;;;59258;Genech
+3.2387582;50.5636519993312;node/4404569075;pharmacy;Pharmacie Lucidarme;;;;;590011771;;;;;;;59096;Bourghelles
+3.2489621;50.4990548993443;node/4404569076;pharmacy;Pharmacie Perche;;;;;590025482;;;;;;;59435;Nomain
+3.0518448;50.6595321993122;node/4404569077;pharmacy;Pharmacie du Belvédère;;;;;590028601;;;;;;;59527;Saint-André-lez-Lille
+3.3948424;50.4706557993501;node/4404569079;pharmacy;Pharmacie Vanderpotte;;;;;590019956;;;;;;;59335;Lecelles
+3.0679264;50.6665484993109;node/4404569080;pharmacy;Pharmacie Vigier;;;;;590024071;;;;;;;59386;Marquette-lez-Lille
+3.0903515;50.6643066993113;node/4404569081;pharmacy;Pharmacie de l'Hoppodrome;;;;;590023800;;;;;;;59378;Marcq-en-Barœul
+3.0805076;50.6583393993125;node/4404569082;pharmacy;Pharmacie du Plouich;;;;;590023602;;;;;;;59378;Marcq-en-Barœul
+3.0756884;50.6672026993107;node/4404569083;pharmacy;Pharmacie du Pont de Marcq;;;;;59 002 354 5;;;;;;;59378;Marcq-en-Barœul
+2.8809444;50.6882374993067;node/4404973240;pharmacy;Pharmacie Bouton;;;;;590010021;;;;;;+33 3 20 77 12 85;59017;Armentières
+2.8795053;50.6835521993076;node/4404973241;pharmacy;Pharmacie de la Poste;;;yes;;590009833;;;;;;;59017;Armentières
+3.1018989;50.6613413993119;node/4404973243;pharmacy;Pharmacie Licette;;;;"Mo-Sa 09:00-12:30, Mo-Fr 14:00-19:30, Sa 14:00-19:00";590023537;;;;;;;59378;Marcq-en-Barœul
+2.8750793;50.6848344993073;node/4404973244;pharmacy;Pharmacie de la Répubique;;;yes;"Mo-Fr 08:30-12:30,14:00,19:45; Sa 08:30-12:30";590010005;;;;;;+33 3 20 77 00 93;59017;Armentières
+2.8855087;50.6830462993077;node/4404973247;pharmacy;Pharmacie du Rond Point;;;yes;;590009866;;;;;;;59017;Armentières
+2.889991;50.6756837993091;node/4405040841;pharmacy;Pharmacie Benoit;;;;;590013066;;;;;;;59143;La Chapelle-d'Armentières
+2.9053561;50.6703448993101;node/4405040842;pharmacy;Pharmacie Catteau;;;;;590013082;;;;;;;59143;La Chapelle-d'Armentières
+2.8922595;50.6858351993071;node/4405040843;pharmacy;Pharmacie Chanzy;;;;;590009932;;;;;;+33 3 20 77 11 10;59017;Armentières
+2.8899199;50.6946432993054;node/4405040844;pharmacy;Pharmacie De Busscher;;;;;590009916;;;;;;;59017;Armentières
+2.9127347;50.6941929993055;node/4405040845;pharmacy;Pharmacie Delos;;;;;590019170;;;;;;+33 3 20 77 42 60;59317;Houplines
+2.883534;50.696762599305;node/4405040846;pharmacy;Pharmacie du Bizet;;;yes;"Mo-Sa 09:00-12:00,14:00-19:00";590009882;;;;;;+33 3 20 77 27 87;59017;Armentières
+2.8747435;50.6770704993088;node/4405040847;pharmacy;Pharmacie de la Choque;;;;;590013033;;;;;;;59143;La Chapelle-d'Armentières
+2.9029627;50.6888298993065;node/4405040848;pharmacy;Pharmacie de la Grande Rue;;;;;590019220;;;;;;;59317;Houplines
+2.9010476;50.6887197993066;node/4405040849;pharmacy;Pharmacie de la Lys;;;;;590019204;;;;;;;59317;Houplines
+2.8740879;50.6510416993139;node/4405040850;pharmacy;Pharmacie de la Pimprenelle;;;;;590011516;;;;;;;59088;Bois-Grenier
+2.8770686;50.6901968993063;node/4405040851;pharmacy;Pharmacie des Près;;;;;59 000 996 5;;;;;;;59017;Armentières
+2.845698;50.7016282993041;node/4405040853;pharmacy;Pharmacie du Centre;;;no;;590025433;;;;;;+33 3 20 48 68 52;59431;Nieppe
+2.8397197;50.7045315993035;node/4405040854;pharmacy;Pharmacie du Parc;;;yes;"Mo 14:00-19:00; Tu-Fr 09:00-12:00,13:00-19:00; Sa 09:00-12:00";590025417;;;;;;+33 3 20 48 60 41;59431;Nieppe
+2.8575684;50.6973710993049;node/4405040855;pharmacy;Pharmacie du Pont de Nieppe;;;yes;"Mo-Fr 09:00-12:00,14:00-19:00; Sa 09:00-12:00";590025466;;;;;;+33 3 20 48 59 56;59431;Nieppe
+2.9326332;50.7129174993019;node/4405048340;pharmacy;Pharmacie Deram Delepine;;;;;590016986;;;;;;;59252;Frelinghien
+3.0108825;50.7628147992924;node/4405048341;pharmacy;Pharmacie Segard;;;;;590013223;;;;;;;59152;Comines
+3.0052859;50.7640130992922;node/4405048342;pharmacy;Pharmacie Temprenant;;;;;590013207;;;;;;;59152;Comines
+3.0068173;50.765013299292;node/4405048343;pharmacy;Pharmacie du Centre;;;;;590013173;;;;;;;59152;Comines
+3.0452678;50.7720346992906;node/4405067337;pharmacy;Pharmacie Corbisé;;;;;590032967;;;;;;;59656;Wervicq-Sud
+3.0438858;50.7737111992903;node/4405067338;pharmacy;Pharmacie Titeca;;;yes;;590032983;;;;;;;59656;Wervicq-Sud
+3.072998;50.7724941992906;node/4405075377;pharmacy;Pharmacie Mercier;;;;;590011821;;;;;;;59098;Bousbecque
+3.0175207;50.6420410993156;node/4405902855;pharmacy;Pharmacie Cremers Cremers;;;yes;"Mo-Sa 08:45-12:30, Mo-Fr 13:30-20:00, Sa 13:30-19:15";590019634;;;;;;;59328;Lambersart
+2.9735666;50.6684019993105;node/4405902856;pharmacy;Pharmacie Delapierre;;;;;590025771;;;;;;;59457;Pérenchies
+2.9746159;50.6660824993109;node/4405902862;pharmacy;Pharmacie Hubau;;;;;590025821;;;;;;;59457;Pérenchies
+2.9724512;50.6675059993107;node/4405902864;pharmacy;Pharmacie Lesaffre;;;;;590025805;;;;;;;59457;Pérenchies
+3.2858678;50.4593303993524;node/4405902868;pharmacy;Pharmacie Martin;;;;;590011433;;;;;;;59080;Beuvry-la-Forêt
+2.9960207;50.6796951993083;node/4405902869;pharmacy;Pharmacie Meriau;;;;;590031654;;;;;;;59611;Verlinghem
+3.3649273;50.4472641993549;node/4405902871;pharmacy;Pharmacie Rive Gauche;;;;;590027173;;;;;;;59511;Rosult
+2.9917778;50.6683404993105;node/4405902874;pharmacy;Pharmacie Ternaux;;;;;590022620;;;;;;;59356;Lompret
+2.9526315;50.655362899313;node/4405902876;pharmacy;Pharmacie Turpin;;;;;590026035;;;;;;;59470;Prémesques
+3.0036829;50.6472760993146;node/4405902878;pharmacy;Pharmacie de la Mitterie;C. Vermès Vanheems;;yes;"Mo-Fr 09:00-13:00,14:00-19:30, Sa 09:00-12:30,14:00-17:30";590022521;;;;;;;59350;Lille
+3.0320858;50.6538305993134;node/4405902888;pharmacy;Pharmacie du Parc;;;;"Mo-Fr 08:30-12:30,14:00-19:30; Sa 08:30-12:30; Jul-Aug Mo-Fr 09:00-12:30,14:00-19:00 open ""Horaires d'été""; Jul-Aug Sa 09:00-12:30 open ""Horaires d'été""; PH off";590019683;;;;;;;59328;Lambersart
+3.0680697;50.6346431993171;node/4405960277;pharmacy;Pharmacie du Molinel;;;;"Tu-Fr 09:00-12:30, Mo-Fr 13:45-17:30";590020400;;;;;;+33320068644;59350;Lille
+3.0055302;50.6334933993173;node/4405960278;pharmacy;Pharmacie Cacheux et Fichelle;;;;;590022554;;;;;;;59350;Lille
+3.0592318;50.6435225993154;node/4405960279;pharmacy;Pharmacie Camus;;;;;590020855;;;;;;;59350;Lille
+3.0236129;50.6397284993161;node/4405960280;pharmacy;Pharmacie Carlier;;;no;"Mo-Fr 14:30-19:00, Tu-Sa 09:30-12:10";590019766;;;;;;;59328;Lambersart
+3.0670411;50.6370379993166;node/4405960281;pharmacy;Pharmacie Casetta;;;;;590021432;;;;;;;59350;Lille
+3.0199921;50.6393355993162;node/4405960282;pharmacy;Pharmacie Centrale;;;;;590022604;;;;;;;59350;Lille
+3.0649083;50.6407562993159;node/4405960284;pharmacy;Pharmacie Grave;;;;;590021770;;;;;;;59350;Lille
+3.0193125;50.640082899316;node/4405960285;pharmacy;Pharmacie Mailliet;;;;"Mo-Sa 08:45-12:15,14:00-19:15";590019733;;;;;;;59328;Lambersart
+3.0648377;50.635339999317;node/4405960286;pharmacy;Pharmacie Perillaud;;;limited;"Mo-Fr 08:30-19:00, Sa 09:00-19:00";590021267;;;;;;;59350;Lille
+3.0679934;50.6317927993177;node/4405960288;pharmacy;Pharmacie de la Porte de Paris;;;;"Mo-Sa 09:00-12:30, Mo-Fr 13:30-19:30";590021457;;;;;;;59350;Lille
+3.0869107;50.6372106993166;node/4405960689;pharmacy;Pharmacie du Marché de Fives;;;;;590022067;;;;;;;59350;Lille
+3.0573177;50.6346753993171;node/4405960690;pharmacy;Pharmacie du Square;;;;;590021416;;;;;;;59350;Lille
+3.0659057;50.6369025993166;node/4405960691;pharmacy;Grande Pharmacie de France;;;;;590021200;;;;;;;59350;Lille
+3.09892;50.7042028993036;node/4406950047;pharmacy;Pharmacie Haquette;;;;;590011607;;;;;;;59090;Bondues
+3.0531865;50.599679599324;node/4407165039;pharmacy;Pharmacie Arnoldi;;;;"Tu-Fr 08:30-12:30, Mo-Fr 14:00-19:30, Mo,Sa 09:00-12:30, Sa 14:00-17:00";590032272;;;;;;;59648;Wattignies
+2.8981669;50.5634229993313;node/4407165040;pharmacy;Pharmacie Basquin Boitel;;;;"Mo-Fr 09:00-12:00,14:00-19:30; Sa 09:00-12:30";590028320;;;;;;+33 3 20 58 44 89;59524;Sainghin-en-Weppes
+3.0922616;50.7035350993037;node/4407165041;pharmacy;Pharmacie Boschetti;;;;;590011573;;;;;;;59090;Bondues
+3.0172275;50.5166279993407;node/4407165042;pharmacy;Pharmacie Brunet - Mary;;;;;590025904;;;;;;;59462;Phalempin
+2.9036071;50.559874299332;node/4407165043;pharmacy;Pharmacie Carette Parent;;;;;590028304;;;;;;;59524;Sainghin-en-Weppes
+2.931274;50.5692442993301;node/4407165044;pharmacy;Pharmacie Carette;;;;"Mo-Fr 08:30-12:30, 14:00-19:30; Sa 08:30-12:30, 14:00-17:00";590032801;;;;;;+33 3 20 58 73 03;59653;Wavrin
+3.0675498;50.6018617993236;node/4407165045;pharmacy;Pharmacie Carnot;;;no;"Mo-Sa 08:30-12:15, Mo-Fr 14:00-19:15, Sa 14:00-18:00";590016283;;;;;;;59220;Faches-Thumesnil
+3.0681192;50.5989337993242;node/4407165046;pharmacy;Pharmacie Cazin;;;;;590016184;;;;;;;59220;Faches-Thumesnil
+3.1208003;50.7537771992941;node/4407165047;pharmacy;Pharmacie Centrale;;;;;590039855;;;;;;;59508;Roncq
+3.1267856;50.7848538992882;node/4407165048;pharmacy;Pharmacie Champion;;;;;590017901;;;;;;;59279;Halluin
+2.9310518;50.5290274993382;node/4407165049;pharmacy;Pharmacie Decobert;;;;;590009551;;;;;;;59011;Annœullin
+3.12843;50.780606899289;node/4407165051;pharmacy;Pharmacie Delobel Vercaemst;;;;;590017885;;;;;;;59279;Halluin
+2.9471251;50.5681693993303;node/4407165052;pharmacy;Pharmacie Demailly;;;;;590032835;;;;;;;59653;Wavrin
+3.0188824;50.5182098993404;node/4407165053;pharmacy;Pharmacie Druon Dumon;;;;;590025920;;;;;;;59462;Phalempin
+3.1082386;50.7132646993018;node/4407165054;pharmacy;Pharmacie Dumond;;;;;590011557;;;;;;;59090;Bondues
+2.8856019;50.5839981993271;node/4407165056;pharmacy;Pharmacie Gilloots Monpays;;;;;590016952;;;;;;;59250;Fournes-en-Weppes
+3.1205206;50.7515111992945;node/4407165057;pharmacy;Pharmacie Gosselin Demilly;;;;;590027082;;;;;;;59508;Roncq
+3.0912973;50.7057456993033;node/4407165058;pharmacy;Pharmacie Haquette;;;;;590011623;;;;;;;59090;Bondues
+3.1303013;50.7842779992884;node/4407165059;pharmacy;Pharmacie Horlac H;;;;;590018016;;;;;;;59279;Halluin
+3.045954;50.5824213993275;node/4407165060;pharmacy;Pharmacie Jaspar Busson;;;;;590032355;;;;;;;59648;Wattignies
+3.0548713;50.5700884993299;node/4407165061;pharmacy;Pharmacie Laville;;;;;590029971;;;;;;;59585;Templemars
+3.0945828;50.6794233993083;node/4407165064;pharmacy;Pharmacie de la Marque;;;;"Mo-Fr 09:00-12:15,14:00-19:30; Sa 09:00-12:30";590023701;;;;;;;59378;Marcq-en-Barœul
+3.116026;50.7378420992971;node/4407165065;pharmacy;Pharmacie Lobeau;;;;;590027116;;;;;;;59508;Roncq
+2.7181807;50.6389872993162;node/4407165066;pharmacy;Pharmacie Loock;;;;;590017273;;;;;;+33 3 28 48 87 20;59268;La Gorgue
+3.081271;50.5985182993242;node/4407165067;pharmacy;Pharmacie Morel;;;;;590026951;;;;;;;59507;Ronchin
+2.9346756;50.529959099338;node/4407165068;pharmacy;Pharmacie Parent;;;;;590009585;;;;;;;59011;Annœullin
+3.0435928;50.5892938993261;node/4407165069;pharmacy;Pharmacie Rajraji Lembrez;;;;;590032371;;;;;;;59648;Wattignies
+2.7669397;50.6993485993045;node/4407165071;pharmacy;Pharmacie Tricart;;;;;590029955;;;;;;;59581;Steenwerck
+2.9832179;50.5127159993415;node/4407165072;pharmacy;Pharmacie de Camphin;;;;;590012522;;;;;;;59123;Camphin-en-Carembault
+3.0917492;50.6013969993237;node/4407165073;pharmacy;Pharmacie Verhulle;;;;;590027017;;;;;;;59507;Ronchin
+2.8329378;50.6511255993139;node/4407165074;pharmacy;Pharmacie de Fleurbaix;;;;;620011130;;;;;;;62338;Fleurbaix
+2.8693026;50.5577566993324;node/4407165075;pharmacy;Pharmacie de Marquillies;;;;;590024154;;;;;;;59388;Marquillies
+3.0540344;50.5919902993255;node/4407165076;pharmacy;Pharmacie de l'Arbrisseau;;;;;590032322;;;;;;;59648;Wattignies
+2.9386448;50.5732886993293;node/4407165077;pharmacy;Pharmacie de l'Église;;;;;590032850;;;;;;;59653;Wavrin
+3.0779117;50.7382571992971;node/4407165078;pharmacy;Pharmacie de l'Église;;;;;590022307;;;;;;;59352;Linselles
+3.0474147;50.6137718993212;node/4407165079;pharmacy;Pharmacie de l'Estrée;;;;Mo-Sa 08:30-20:00;590020905;;;;;;;59350;Lille
+3.0809614;50.738718099297;node/4407165080;pharmacy;Pharmacie de l'Hôtel de Ville;;;;;590022273;;;;;;;59352;Linselles
+3.065767;50.6082050993223;node/4407165081;pharmacy;Pharmacie de la Fontaine;;;;;590016150;;;;;;;59220;Faches-Thumesnil
+3.0810398;50.7718462992907;node/4407165082;pharmacy;Pharmacie de la LYS;;;;;590011805;;;;;;;59098;Bousbecque
+3.0585157;50.6058732993228;node/4407165083;pharmacy;Pharmacie des 400 Maisons;;;;;590016317;;;;;;;59220;Faches-Thumesnil
+3.0782228;50.5957788993248;node/4407165084;pharmacy;Pharmacie des 5 Bonniers;;;;;590016234;;;;;;;59220;Faches-Thumesnil
+3.0698467;50.6071352993225;node/4407165085;pharmacy;Pharmacie du Chemin Rouge;;;;"Mo-Sa 09:00-12:15, Mo-Fr 14:00-19:15, Sa 14:00-16:00";590016267;;;;;;;59220;Faches-Thumesnil
+3.127786;50.7369089992973;node/4407165086;pharmacy;Pharmacie du Dronckaert;;;;;590027033;;;;;;;59508;Roncq
+3.0621892;50.6125796993214;node/4407165087;pharmacy;Pharmacie du Faubourg d'Arras;;;;;590021606;;;;;;;59350;Lille
+3.0763437;50.5875445993264;node/4407165088;pharmacy;Pharmacie du Mont de Faches;;;;;590016200;;;;;;;59220;Faches-Thumesnil
+2.7733313;50.6208789993198;node/4407166006;pharmacy;pharmacie de la croix d'or;;;;;620012641;;;;;;;62491;Laventie
+3.0784088;50.7365358992974;node/4408075610;pharmacy;Pharmacie de la Poste;;;;;590022323;;;;;;;59352;Linselles
+3.1347041;50.7378349992971;node/4408088688;pharmacy;Pharmacie de Champs Roncq;;;;;590030383;;;;;;;59508;Roncq
+3.1272177;50.7825466992887;node/4408097189;pharmacy;Pharmacie de l'Église;;;;;590017984;;;;;;;59279;Halluin
+3.1151463;50.7791567992893;node/4408097190;pharmacy;Pharmacie du Manoir;;;;;590017935;;;;;;;59279;Halluin
+2.7392168;50.7366023992974;node/4408105238;pharmacy;Pharmacie Barbry;;;;;590010757;;;;;;;59043;Bailleul
+2.6933967;50.7405222992966;node/4408105239;pharmacy;Pharmacie Flament;;;;;590024600;;;;;;;59401;Méteren
+2.732398;50.738670399297;node/4408105240;pharmacy;Pharmacie Schotte;;;;;590010773;;;;;;;59043;Bailleul
+2.6466582;50.691818199306;node/4408184012;pharmacy;Pharmacie Leveugle;;;;;590031720;;;;;;;59615;Vieux-Berquin
+2.6849227;50.6205967993199;node/4408184013;pharmacy;Pharmacie Renard;;;;;620013094;;;;;;;62502;Lestrem
+2.6409136;50.6396681993161;node/4408184015;pharmacy;Pharmacie des 2 Ponts;;;;;590024584;;;;;;;59400;Merville
+2.7349158;50.7401660992967;node/4408184016;pharmacy;Pharmacie du Beffroi;;;;;590010856;;;;;;;59043;Bailleul
+2.7219674;50.7644685992921;node/4408295047;pharmacy;Pharmacie Behaegel;;;;;590028700;;;;;;;59535;Saint-Jans-Cappel
+3.1556094;50.7481968992951;node/4410220706;pharmacy;Pharmacie Centrale;;;;;590025250;;;;;;;59426;Neuville-en-Ferrain
+3.1785078;50.7307467992985;node/4410220708;pharmacy;Pharmacie Courmon;;;;;590030201;;;;;;;59599;Tourcoing
+3.1813132;50.7487373992951;node/4410220718;pharmacy;Pharmacie Herman;;;;;590025284;;;;;;;59426;Neuville-en-Ferrain
+3.1612558;50.7448046992958;node/4410220721;pharmacy;Pharmacie Rajan;;;;;590025235;;;;;;;59426;Neuville-en-Ferrain
+3.1654011;50.7406774992966;node/4410220724;pharmacy;Pharmacie Vanbremeersch;;;;;590030771;;;;;;;59599;Tourcoing
+3.1680925;50.7345781992977;node/4410220727;pharmacy;Pharmacie de l'Égalité;;;;;590030250;;;;;;;59599;Tourcoing
+3.1815907;50.7380298992971;node/4410220728;pharmacy;Pharmacie de la Bourgogne;;;;;590030706;;;;;;;59599;Tourcoing
+3.1596057;50.7310935992984;node/4410220730;pharmacy;Pharmacie de la Malcense;;;;;590030433;;;;;;;59599;Tourcoing
+3.1581063;50.7321129992982;node/4410220731;pharmacy;Pharmacie des Phalempins;;;;;590030185;;;;;;;59599;Tourcoing
+3.1841293;50.7341258992978;node/4410220732;pharmacy;Pharmacie du Boulevard;;;;;590030482;;;;;;;59599;Tourcoing
+2.6539896;50.5237771993393;node/4411237499;pharmacy;Pharmacie Bailleul;;;;;620007096;;;;;;;62119;Béthune
+2.6808652;50.5182416993404;node/4411237502;pharmacy;Pharmacie Delalande;;;;;620007443;;;;;;;62126;Beuvry
+2.6341733;50.5279449993384;node/4411237503;pharmacy;Pharmacie Dias Layat;;;;;620007195;;;;;;;62119;Béthune
+2.6378748;50.5305648993379;node/4411237506;pharmacy;Pharmacie Fremault;;;;;620007294;;;;;;;62119;Béthune
+2.6678056;50.5213280993397;node/4411237512;pharmacy;Pharmacie Richet;;;;;620007427;;;;;;;62126;Beuvry
+2.6410815;50.5284850993383;node/4411237513;pharmacy;Pharmacie Thobois;;;;;620007245;;;;;;;62119;Béthune
+2.6816578;50.5221029993396;node/4411237516;pharmacy;Pharmacie de la Mairie;;;;;620007393;;;;;;;62126;Beuvry
+2.7997687;50.5080843993424;node/4411266656;pharmacy;Pharmacie Bacquart;;;;;620011676;;;;;;;62401;Haisnes
+2.7830664;50.5135960993413;node/4411266657;pharmacy;Pharmacie Boquet;;;;;620018192;;;;;;;62051;Auchy-les-Mines
+2.8285204;50.5083088993424;node/4411266658;pharmacy;Pharmacie Cockenpot;;;;;620010611;;;;;;;62276;Douvrin
+2.696725;50.500667099344;node/4411266659;pharmacy;Pharmacie Dumont;;;;;620015925;;;;;;;62735;Sailly-Labourse
+2.7284997;50.5095636993422;node/4411266660;pharmacy;Pharmacie Le Rouge;;;;;620005280;;;;;;;62034;Annequin
+2.7458842;50.5256410993389;node/4411266661;pharmacy;Pharmacie Leroux Eric;;;;"Mo-Fr 09:00-12:00,14:00-19:30; Sa 09:00-12:30";620010314;;;;;;+33 3 21 66 89 85;62262;Cuinchy
+2.7848319;50.5118281993417;node/4411266662;pharmacy;Pharmacie Osset;;;;;620006213;;;;;;;62051;Auchy-les-Mines
+2.8009951;50.5083555993424;node/4411266663;pharmacy;Pharmacie du Centre;;;;;620011692;;;;;;;62401;Haisnes
+2.8906856;50.4966032993448;node/4411649351;pharmacy;Pharmacie Billau;;;;;590026183;;;;;;;62573;Meurchin
+2.9468606;50.485727699347;node/4411649352;pharmacy;Pharmacie Brasseur;;;;;620009696;;;;;;;62215;Carvin
+2.899841;50.5125942993416;node/4411649353;pharmacy;Pharmacie Brunelle Hoin;;;;;590011037;;;;;;;59052;Bauvin
+2.8404642;50.5331340993374;node/4411649354;pharmacy;Pharmacie Carron;;;;;590029120;;;;;;;59550;Salomé
+2.8672403;50.5190600993402;node/4411649356;pharmacy;Pharmacie Cichowicz;;;;;620007575;;;;;;;62132;Billy-Berclau
+2.959297;50.4961907993449;node/4411649357;pharmacy;Pharmacie Colot;;;;;620018267;;;;;;;62215;Carvin
+2.9556299;50.4909982993459;node/4411649359;pharmacy;Pharmacie de la Poste;;;;"Mo-Fr 08:30-12:00,14:00-19:00; Sa 09:00-12:00";620009712;;;;;;+33 3 21 74 30 71;62215;Carvin
+2.8888295;50.4969973993447;node/4411649360;pharmacy;Pharmacie Lebrun;;;;;620014415;;;;;;;62573;Meurchin
+2.8956122;50.5156922993409;node/4411649361;pharmacy;Pharmacie Lenoir;;;;;590011003;;;;;;;59052;Bauvin
+2.9597342;50.4973398993446;node/4411649363;pharmacy;Pharmacie Rebout;;;;;620009761;;;;;;;62215;Carvin
+2.8026323;50.5317147993377;node/4411649364;pharmacy;Pharmacie Sistrier Vasseur;;;;;590010971;;;;;;;59051;La Bassée
+2.8043861;50.5310091993378;node/4411649365;pharmacy;Pharmacie Syssau Salingue;;;;;590010922;;;;;;;59051;La Bassée
+2.9778419;50.4918761993458;node/4411649366;pharmacy;Pharmacie Venet;;;;;620009746;;;;;;;62215;Carvin
+2.9567718;50.4924017993457;node/4411649367;pharmacy;Pharmacie Vincent Hottin;;;;;620009845;;;;;;;62215;Carvin
+2.953399;50.4876895993466;node/4411649368;pharmacy;Pharmacie d'Epinoy;;;;;620009811;;;;;;;62215;Carvin
+2.9579613;50.4929008993456;node/4411649369;pharmacy;Pharmacie de France;;;;;620009795;;;;;;;62215;Carvin
+2.8067692;50.5315483993377;node/4411649370;pharmacy;Pharmacie des Augustins;;;;;590010955;;;;;;;59051;La Bassée
+2.953848;50.4611578993521;node/4411649372;pharmacy;Pharmacie du Rotois;;;;;620010124;;;;;;;62250;Courrières
+2.9090486;50.4456055993553;node/4411671295;pharmacy;Pharmacie Frimat;;;;;620011874;;;;;;;62413;Harnes
+2.9066341;50.4447570993555;node/4411671296;pharmacy;Pharmacie Saint-ROCH;;;;;62 001 176 7;;;;;;;62413;Harnes
+2.6631349;50.5468701993346;node/4411945496;pharmacy;Pharmacie Desailly;;;;;620010793;;;;;;;62310;Essars
+2.6217436;50.5651968993309;node/4411945501;pharmacy;Pharmacie Pezin;;;;;620012377;;;;;;;62454;Hinges
+2.6663705;50.5709816993297;node/4411945504;pharmacy;Pharmacie de Locon;;;;;620013524;;;;;;;62520;Locon
+2.7465711;50.4855588993471;node/4414508660;pharmacy;Pharmacie Broutin;;;;;620017327;;;;;;;62846;Vermelles
+2.6235636;50.5393507993361;node/4414508661;pharmacy;Pharmacie Debarge;;;;;620005330;;;;;;;62035;Annezin
+2.7093435;50.466100199351;node/4414508662;pharmacy;Pharmacie de la CITE 2;;;;;620014241;;;;;;;62563;Mazingarbe
+2.7144603;50.4717006993499;node/4414508663;pharmacy;Pharmacie du Centre;;;;;620014225;;;;;;;62563;Mazingarbe
+2.7208295;50.4454090993553;node/4414691650;pharmacy;Pharmacie Angenault;;;;;620008664;;;;;;;62186;Bully-les-Mines
+2.743782;50.4883694993465;node/4414691651;pharmacy;Pharmacie Barre;;;;;620017343;;;;;;;62846;Vermelles
+2.7211216;50.461795499352;node/4414691652;pharmacy;Pharmacie Centrale;;;;;620014191;;;;;;;62563;Mazingarbe
+2.7962164;50.4579162993528;node/4414691653;pharmacy;Pharmacie Cousin;;;;;620013730;;;;;;;62528;Loos-en-Gohelle
+2.8430145;50.4496219993545;node/4414691654;pharmacy;Pharmacie Hanson;;;;;620013565;;;;;;;62523;Loison-sous-Lens
+2.7937897;50.4576797993528;node/4414691655;pharmacy;Pharmacie Legrand;;;;;620013714;;;;;;;62528;Loos-en-Gohelle
+2.7211632;50.4546558993534;node/4414691656;pharmacy;Pharmacie Mabille;;;;;620008680;;;;;;;62186;Bully-les-Mines
+2.7327794;50.4474019993549;node/4414691657;pharmacy;Pharmacie Nowak;;;;;620008714;;;;;;;62186;Bully-les-Mines
+2.748652;50.4477575993549;node/4414691659;pharmacy;Pharmacie Talarczyk;;;;;620011510;;;;;;;62386;Grenay
+2.789442;50.5436484993352;node/4414691660;pharmacy;Pharmacie Thery;;;;;620017475;;;;;;;62863;Violaines
+2.8304352;50.4433125993558;node/4414691661;pharmacy;Pharmacie des Hauts de Lens;;;;;620013060;;;;;;;62498;Lens
+2.8216917;50.4365668993572;node/4414709075;pharmacy;Pharmacie Carmi Nord Pas de Calais;;;;;620018341;;;;;;;62498;Lens
+2.7738028;50.4280702993589;node/4414789657;pharmacy;Pharmacie Becquet;;;;;620013326;;;;;;;62510;Liévin
+2.7715876;50.4186967993609;node/4414789658;pharmacy;Pharmacie Ben Hamadou;;;;;620013243;;;;;;;62510;Liévin
+2.7919342;50.4246575993597;node/4414789659;pharmacy;Pharmacie Boursier;;;;;620013227;;;;;;;62510;Liévin
+2.7814682;50.4336503993578;node/4414789660;pharmacy;Pharmacie Bronsard Cocheteux;;;;;620013391;;;;;;;62510;Liévin
+2.7797473;50.4177623993611;node/4414789661;pharmacy;Pharmacie Carmi Nord Pas de Calais;;;;;620116350;;;;;;;62510;Liévin
+2.782659;50.4224843993601;node/4414789662;pharmacy;Pharmacie Cornuel Paladini;;;;;620013292;;;;;;;62510;Liévin
+2.7746867;50.4187884993609;node/4414789663;pharmacy;Pharmacie Cuvelette;;;;;620013375;;;;;;;62510;Liévin
+2.7771631;50.4209138993604;node/4414789664;pharmacy;Pharmacie Demarquilly;;;;;620013193;;;;;;;62510;Liévin
+2.7758401;50.4202767993606;node/4414789665;pharmacy;Pharmacie Douay Chrétien;;;;;620013177;;;;;;;62510;Liévin
+2.808753;50.4273039993591;node/4414789666;pharmacy;Pharmacie Dubois;;;;;620012831;;;;;;;62498;Lens
+2.7577847;50.4307260993584;node/4414789667;pharmacy;Pharmacie Guelton;;;;;620013144;;;;;;;62510;Liévin
+2.7783948;50.4216447993603;node/4414789668;pharmacy;Pharmacie Nouvelle;;;;;620013276;;;;;;;62510;Liévin
+2.7703848;50.4208040993605;node/4414789669;pharmacy;Pharmacie Segard;;;;;620013425;;;;;;;62510;Liévin
+2.8097628;50.4232719993599;node/4414789670;pharmacy;Pharmacie du HAUT ELEU;;;;;620018077;;;;;;;62291;Éleu-dit-Leauwette
+2.7794365;50.4205859993605;node/4414789671;pharmacy;Pharmacie Sergent Rousseau;;;;;620013342;;;;;;+33 3 21 44 11 63;62510;Liévin
+2.7795732;50.4177363993611;node/4414789672;doctors;;;;;;;;;;;;;62510;Liévin
+2.7796711;50.4177517993611;node/4414789673;dentist;;;;;;;;;;;;;62510;Liévin
+2.8333627;50.4321646993581;node/4415014235;pharmacy;Pharmacie Blot Dumont;;;;;620012997;;;;;;;62498;Lens
+2.8295828;50.4096588993628;node/4415014236;pharmacy;Pharmacie Boucher;;;;;620006460;;;;;;;62065;Avion
+2.8330063;50.4314040993582;node/4415014237;pharmacy;Pharmacie Sainte-Barbe;Marc Bourgois;;;;620012963;;;;;;;62498;Lens
+2.830246;50.4102228993627;node/4415014238;pharmacy;Pharmacie Carmi;;;;;620116368;;;;;;;62065;Avion
+2.8342604;50.3992358993649;node/4415014239;pharmacy;Pharmacie Colson;;;;;620006577;;;;;;;62065;Avion
+2.8758205;50.4047894993638;node/4415014240;pharmacy;Pharmacie Dehay;;;;;620014274;;;;;;;62570;Méricourt
+2.8309688;50.4110267993625;node/4415014241;pharmacy;Pharmacie Delater;;;;;620006593;;;;;;;62065;Avion
+2.8180691;50.4099789993627;node/4415014243;pharmacy;Pharmacie Delrue Bouclet;;;;;620006510;;;;;;;62065;Avion
+2.8829077;50.4077118993632;node/4415014244;pharmacy;Pharmacie Fontaine;;;;;620014290;;;;;;;62570;Méricourt
+2.8233861;50.4302118993585;node/4415014246;pharmacy;Pharmacie Lagouche;;;;;620012815;;;;;;;62498;Lens
+2.8607095;50.4025908993642;node/4415014247;pharmacy;Pharmacie Lesay;;;;;620014365;;;;;;+33 3 21 67 04 43;62570;Méricourt
+2.9093047;50.3927084993663;node/4415014248;pharmacy;Pharmacie Tailliez;;;;;620015875;;;;;;;62724;Rouvroy
+2.8671017;50.4008822993646;node/4415014249;pharmacy;Pharmacie Villette;;;;;620014340;;;;;;;62570;Méricourt
+2.9713426;50.3877606993674;node/4415014251;pharmacy;Pharmacie de Beaumont;;;;;620012112;;;;;;;62427;Hénin-Beaumont
+2.8300521;50.4293618993587;node/4415014252;pharmacy;Pharmacie de France;;;;;620012880;;;;;;;62498;Lens
+2.8287879;50.4271786993591;node/4415014253;pharmacy;Pharmacie de la Gare;;;no;;620012864;;;;;;;62498;Lens
+2.8390136;50.4045546993638;node/4415014254;pharmacy;Pharmacie du 4;;;;;620019273;;;;;;;62065;Avion
+2.8172259;50.4161575993614;node/4415014256;pharmacy;Pharmacie du Centre;;;;;620010710;;;;;;;62291;Éleu-dit-Leauwette
+2.83277;50.4130991993621;node/4415014257;pharmacy;Pharmacie du Parc;;;;;620006494;;;;;;;62065;Avion
+2.9388753;50.42301829936;node/4415136674;pharmacy;A la Pharmacie;;;;;620011940;;;;;;;62427;Hénin-Beaumont
+2.9490707;50.4177430993611;node/4415136675;pharmacy;Pharmacie Becart;;;;;620018325;;;;;;;62427;Hénin-Beaumont
+2.933586;50.4226441993601;node/4415136676;pharmacy;Pharmacie Beghin;;;;;620014530;;;;;;;62587;Montigny-en-Gohelle
+2.9120727;50.4171118993612;node/4415136677;pharmacy;Pharmacie Brumain Prince;;;;;620007641;;;;;;;62133;Billy-Montigny
+2.9135318;50.4174274993611;node/4415136679;pharmacy;Pharmacie Carmi;;;;;620018226;;;;;;;62133;Billy-Montigny
+2.9079838;50.4045164993639;node/4415136681;pharmacy;Pharmacie Cheval;;;;;620015842;;;;;;;62724;Rouvroy
+2.9508449;50.4205191993605;node/4415136682;pharmacy;Pharmacie Couliou;;;;;620012047;;;;;;;62427;Hénin-Beaumont
+2.9529645;50.4211521993604;node/4415136683;pharmacy;Pharmacie Dumon;;;;;620012096;;;;;;;62427;Hénin-Beaumont
+2.9076404;50.4199675993606;node/4415136684;pharmacy;Pharmacie Duyck;;;;;620007591;;;;;;;62133;Billy-Montigny
+2.9310056;50.4286206993588;node/4415136685;pharmacy;Pharmacie Finet;;;;;620014464;;;;;;;62587;Montigny-en-Gohelle
+2.9463758;50.4208036993604;node/4415136686;pharmacy;Pharmacie Groux;;;;;620011981;;;;;;;62427;Hénin-Beaumont
+2.9404509;50.4059254993635;node/4415136687;pharmacy;Pharmacie Lacina Basilinos;;;;;620012013;;;;;;;62427;Hénin-Beaumont
+2.9470283;50.4169272993613;node/4415136688;pharmacy;Pharmacie Pasteur;;;;;620012062;;;;;;;62427;Hénin-Beaumont
+2.9469383;50.4200474993606;node/4415136789;pharmacy;Pharmacie Pollet;;;;;620011924;;;;;;;62427;Hénin-Beaumont
+2.9095052;50.4068416993634;node/4415136790;pharmacy;Pharmacie Roger;;;;;620015826;;;;;;;62724;Rouvroy
+2.9279193;50.4248506993596;node/4415136791;pharmacy;Pharmacie Van Isacker;;;;;620014480;;;;;;;62587;Montigny-en-Gohelle
+2.9464881;50.4220271993602;node/4415136792;pharmacy;Pharmacie Vertray Selle;;;;;620012146;;;;;;;62427;Hénin-Beaumont
+2.9121359;50.4140496993619;node/4415136793;pharmacy;Pharmacie Vittu;;;;;620007625;;;;;;;62133;Billy-Montigny
+2.9213793;50.3909420993667;node/4415136794;pharmacy;Pharmacie les Quatre Vents;;;;;620010660;;;;;;;62277;Drocourt
+2.8638146;50.4316704993582;node/4415163619;pharmacy;Pharmacie Castel;;;;;620015040;;;;;;;62628;Noyelles-sous-Lens
+2.8602229;50.4184272993609;node/4415163621;pharmacy;Pharmacie Couillez;;;;;620018390;;;;;;;62771;Sallaumines
+2.8730398;50.4198811993606;node/4415163622;pharmacy;Pharmacie Dolinar;;;;;620016865;;;;;;;62771;Sallaumines
+2.8789818;50.4198862993606;node/4415163623;pharmacy;Pharmacie Mokrim;;;;"Mo-Sa 08:30-12:00, Mo-Fr 14:00-19:30";620015024;;;;;;;62628;Noyelles-sous-Lens
+2.8507599;50.42306009936;node/4415163624;pharmacy;Pharmacie Pruvot;;;;;620016881;;;;;;;62771;Sallaumines
+2.8940971;50.4199242993606;node/4415163625;pharmacy;Pharmacie Salengro;;;;;620011213;;;;;;;62351;Fouquières-lès-Lens
+2.8736046;50.4298244993586;node/4415170387;pharmacy;Pharmacie Cadot;;;;;620014993;;;;;;;62628;Noyelles-sous-Lens
+2.9105484;50.4307405993584;node/4415170388;pharmacy;Pharmacie Jablonski;;;;;620011247;;;;;;;62351;Fouquières-lès-Lens
+2.911537;50.4270759993591;node/4415170389;pharmacy;Pharmacie Lecouf;;;;;620011197;;;;;;;62351;Fouquières-lès-Lens
+2.8668352;50.4303411993585;node/4415170390;pharmacy;Pharmacie Pignon;;;;;620014324;;;;;;;62628;Noyelles-sous-Lens
+2.9303635;50.4352499993575;node/4415170391;pharmacy;Pharmacie Sueur;;;;;620014514;;;;;;;62587;Montigny-en-Gohelle
+2.863736;50.4749513993492;node/4415190381;pharmacy;Pharmacie Beliart;;;;;620017277;;;;;;;62842;Vendin-le-Vieil
+2.8850775;50.4745217993493;node/4415190382;pharmacy;Pharmacie Bourdeauducq;;;;;620015461;;;;;;;62666;Pont-à-Vendin
+2.8860441;50.4588179993526;node/4415190383;pharmacy;Pharmacie Cannesson Note;;;;;620005231;;;;;;;62033;Annay
+2.8797178;50.4635660993516;node/4415190385;pharmacy;Pharmacie Canon;;;;;620005264;;;;;;;62033;Annay
+2.850917;50.4948648993452;node/4415190386;pharmacy;Pharmacie Carmi Nord Pas de Calais;;;;;620116343;;;;;;;62895;Wingles
+2.900606;50.4442817993556;node/4415190387;pharmacy;Pharmacie Carmi du Nord Pas de Calais;;;;;620018317;;;;;;;62413;Harnes
+2.8173868;50.4855106993471;node/4415190388;pharmacy;Pharmacie Desliers;;;;;620012492;;;;;;;62464;Hulluch
+2.8675619;50.4726621993497;node/4415191089;pharmacy;Pharmacie Fontaine;;;;;620017293;;;;;;;62842;Vendin-le-Vieil
+2.8368039;50.4281413993589;node/4415191090;pharmacy;Pharmacie Laudano;;;;;620012765;;;;;;;62498;Lens
+2.9055224;50.4444473993555;node/4415191091;pharmacy;Pharmacie Mallis Mallis;;;;;620011841;;;;;;;62413;Harnes
+2.9128398;50.4482717993547;node/4415191092;pharmacy;Pharmacie Mulier;;;;;620011791;;;;;;;62413;Harnes
+2.8840116;50.4406328993563;node/4415191093;pharmacy;Pharmacie du 21;;;;;620011825;;;;;;;62413;Harnes
+2.9455817;50.4456788993553;node/4415217463;pharmacy;Pharmacie de l'Europe;;;yes;Mo-Sa 09:00-21:00;620010181;;;;;;+33 3 21 49 67 57;62250;Courrières
+3.0879552;50.6321631993176;node/4415217464;pharmacy;Pharmacie Janquin Parcinski;;;yes;"Mo-Fr 08:30-12:30,14:00-19:30, Sa 09:00-12:30";590021671;;;;;;;59350;Lille
+2.9593247;50.5938944993252;node/4425576164;pharmacy;Pharmacie Leterme;;;;;590029153;;;;;;;59553;Santes
+3.0372695;50.6073435993225;node/4432364355;hospital;Maison de l'Appareil Auditif;;;yes;;;;;;;;+33 3 66 72 64 78;59350;Lille
+2.9647244;50.5892390993261;node/4437981648;doctors;Kinésithérapeute;;;;;;;;;;;;59553;Santes
+2.7897609;50.5435562993353;node/4438186494;pharmacy;Pharmacie;;;;;;;;;;;;62863;Violaines
+2.8067588;50.5315366993377;node/4438239191;pharmacy;Pharmacie des Augustins;;;;;;;;;;;;59051;La Bassée
+2.7708639;50.6307857993179;node/4438243489;doctors;;;;;;;;;;;;;62491;Laventie
+2.9694041;50.5850973993269;node/4438728165;doctors;Centre de Santé;;;;;;;;;;;;59553;Santes
+2.965724;50.5886251993262;node/4439382536;doctors;Centre de Santé;;;;;;;;;;;;59553;Santes
+2.7850011;50.5674657993304;node/4439597717;doctors;;;;;;;;;;;;;62529;Lorgies
+3.1707912;50.5835575993272;node/444655533;pharmacy;Pharmacie du Tilleul;;;;;590028270;;;;;;;59523;Sainghin-en-Mélantois
+3.1908097;50.6832534993076;node/4453656689;dentist;;;;;;;;;;;;;59512;Roubaix
+2.9562513;50.5959594993248;node/4460506747;doctors;Centre de Santé;;;;;;;;;;;;59553;Santes
+2.7424684;50.4869912993468;node/4490238066;doctors;Maison médicale;;;;;;;;;;;;62846;Vermelles
+3.1343593;50.645377899315;node/4502212020;pharmacy;Pharmacie des PRES;;;;;590009304;;;;;;;59009;Villeneuve-d'Ascq
+3.0467916;50.6322557993176;node/4506156540;clinic;Centre Polyvalent de la Santé Universitaire;;;;;;;;;;;;59350;Lille
+2.6827429;50.4998693993441;node/4575983406;pharmacy;Pharmacie Mairesse;;;;;620012575;;;;;;;62480;Labourse
+3.0422087;50.6501523993141;node/4713314645;pharmacy;Pharmacie du Canon d'Or;Pharmacie CHATELAIN OBERT;;yes;;590019782;;;;;;;59328;Lambersart
+3.1323414;50.6187091993202;node/4826845163;pharmacy;Pharmacie de l'Hôtel de Ville;;;yes;"Mo-Fr 09:00-19:30, Sa 09:00-17:00";590009221;620;4773Z;;;33828480500011;+33320055599;59009;Villeneuve-d'Ascq
+3.1262177;50.6190578993202;node/4829210934;pharmacy;Pharmacie de Valmy;;;yes;"Mo-Fr 09:30-13:00,14:15-19:45; Sa 09:30-12:30,14:30-18:00";590009437;620;4773Z;;;;+33 3 20 47 22 48;59009;Villeneuve-d'Ascq
+3.1654254;50.7184689993008;node/4887296021;doctors;Guillaume Clermont - Ostéopathe Tourcoing;;;;Mo-Sa 09:00-20:00;;;;;;;+33608609148;59599;Tourcoing
+2.8625955;50.4196341993607;node/489539767;pharmacy;Pharmacie Imbenotte;;;;"Mo-Sa 09:00-12:00, Mo-Sa 14:00-19:00";620016931;;;;;;;62771;Sallaumines
+3.2046865;50.6977178993048;node/4897508421;doctors;Sylvain Vanderristen - Ostéopathe Wattrelos;;;;"Mo-Fr 09:00-19:00; Sa 09:00-13:00";;;;;;;+33367230106;59650;Wattrelos
+2.8693134;50.4382438993568;node/491076807;pharmacy;Pharmacie Bot;;;;;620013540;;;;;;;62523;Loison-sous-Lens
+2.8324614;50.4284703993589;node/497368115;pharmacy;Pharmacie Saint-Léger;;;;;620012914;;;;;;;62498;Lens
+2.8317919;50.4293452993587;node/497368117;pharmacy;Pharmacie Mullie;;;;;620013011;;;;;;;62498;Lens
+2.82973;50.4320660993581;node/497371408;pharmacy;Pharmacie Fénelon;;;;;620013045;;;;;;;62498;Lens
+3.1893705;50.6520358993137;node/4983817721;pharmacy;Pharmacie Lheureux;;;;"Mo-Fr 08:30-19:30, Sa 08:30-17:30";590018735;;;;;;+33320832083;59299;Hem
+2.9279749;50.437320699357;node/5062878126;doctors;Docteur Raphaël Ledda;;;;;;;;;;;;62587;Montigny-en-Gohelle
+3.126702;50.6268987993186;node/5084692943;doctors;Centre de santé;;;;;;;;;;;;59009;Villeneuve-d'Ascq
+3.147959;50.6744145993093;node/514180341;pharmacy;Pharmacie Catherine Dumortier;;;;"Tu-Sa 14:00-19:30, Tu-Fr 08:30-12:30,14:00-19:30, Sa 08:30-12:30,14:00-19:00";590013835;;;;;;;59163;Croix
+3.1743074;50.6803841993082;node/5156995144;hospital;Maternité de Beaumont;Centre Hospitalier de Roubaix;;;;;;;;;;+33 3 20 99 31 31;59512;Roubaix
+3.1146324;50.635077199317;node/5225103899;pharmacy;Pharmacie d'Hellemes-Lille;;;;;590022232;;;;;;;59350;Lille
+3.1116146;50.6355366993169;node/5225103905;clinic;Cabinet infirmier;;;;;;;;;;;;59410;Mons-en-Barœul
+2.6870477;50.500713899344;node/5230434832;doctors;Cabinet médical;;;;;;;;;;;;62480;Labourse
+3.1613038;50.7004243993043;node/5335881000;pharmacy;Pharmacie Ngalesamy;;;;;590027801;;;;;;;59512;Roubaix
+3.1728483;50.6782489993086;node/5341046221;doctors;Arthur Ferdinand - Ostéopathe Roubaix;;;;"Mo-Tu 09:00-20:00; We 09:00-12:00; Th-Fr 09:00-20:00; Sa 09:00-12:00";;;;;;;+33 3 67230086;59512;Roubaix
+2.7600754;50.466192499351;node/5363999581;pharmacy;;;;;;;;;;;;;62563;Mazingarbe
+3.1039395;50.6295759993181;node/5405778562;clinic;Les Kinés de la Filature;;;yes;;;;;;;;+33 3 20 56 80 08;59350;Lille
+3.0592468;50.3863659993677;node/5445940707;pharmacy;Pharmacie de l'Avenue;;;;;590014007;;;;;;;59165;Cuincy
+3.0476974;50.6278198993185;node/5491760921;doctors;Marc Catteau;;;;;;;;;;;;59350;Lille
+3.0689981;50.6368556993167;node/553493556;pharmacy;Grande Pharmacie de Paris;;;;"Mo-Sa 08:00-20:00; Su 08:00-19:00";590021101;;;;;;;59350;Lille
+3.1073408;50.6269818993186;node/5554322934;doctors;;;;;;;;;;;;;59350;Lille
+3.0187884;50.6407911993159;node/5576231355;doctors;Docteur Marc Constant;;;;;;;;;;;+33 3 20 92 03 67;59328;Lambersart
+3.1120695;50.6422945993156;node/5584797812;pharmacy;Pharmacie Bensouda Koraichi;;;;;590024717;;;;;;;59410;Mons-en-Barœul
+3.1075127;50.5862281993267;node/5649402477;pharmacy;Pharmacie du Beffroi;;;;;590020186;;;;;;;59343;Lesquin
+3.0215173;50.6386690993163;node/5651627756;doctors;;;;;;;;;;;;;59350;Lille
+2.9717824;50.6113097993217;node/5652549410;doctors;Cabinet des Docteurs Corbin et Mahieu;;;yes;;;;;;;;+33 3 20 60 17 60;59286;Haubourdin
+3.0236045;50.6446661993151;node/5744219221;dentist;Docteur Delbarre-Martin;;;no;"""Sur rendez-vous""";;;;;;;;59328;Lambersart
+3.0035981;50.6473019993146;node/5788114755;dentist;Cabinet dentaire;;;;;;;;;;;;59350;Lille
+3.0044388;50.6472066993146;node/5788114792;doctors;Docteur Claude Jablonski;;;;;;;;;;;;59350;Lille
+3.0640765;50.384827099368;node/5792383083;doctors;Groupe Médical Laennec;;;;;;;;;;;;59178;Douai
+2.9772935;50.4119325993623;node/5812015132;pharmacy;Plus Pharmacie;;;;;;;;;;;;62624;Noyelles-Godault
+3.0260965;50.6527200993136;node/5842446161;dentist;Docteur Lecat Julie;;;;"""Sur rendez-vous""";;;;;;;+33 3 20 92 41 74;59328;Lambersart
+3.0261107;50.6527101993136;node/5842446162;dentist;Docteur d'Hulster Pauline;;;;"""Sur rendez-vous""";;;;;;;;59328;Lambersart
+3.1542043;50.6408580993159;node/5862922838;pharmacy;Pharmacie du Héron;;;;;590009270;;;;;;;59009;Villeneuve-d'Ascq
+3.1398857;50.6379774993164;node/5863591139;pharmacy;Pharmacie du Château;;;;;590009403;;;;;;;59009;Villeneuve-d'Ascq
+3.0506603;50.6279111993184;node/5942418305;dentist;Clinique dentaire Dentasmile Wazemmes;;;;;590060380;;;;;;;59350;Lille
+2.7316188;50.7320188992982;node/5943984985;pharmacy;Pharmacie Luttun;;;;;590010823;;;;;;;59043;Bailleul
+3.0272816;50.5513034993337;node/597629790;pharmacy;Pharmacie Lardeur Campion;;;;;590029385;;;;;;;59560;Seclin
+3.0294075;50.5502186993339;node/597629895;pharmacy;Pharmacie de la République;;;;;590029351;;;;;;;59560;Seclin
+3.032412;50.5493954993341;node/597630185;pharmacy;Pharmacie Suissa Faidherbe;;;;;590029302;;;;;;;59560;Seclin
+3.0246143;50.5451512993349;node/600671188;pharmacy;Pharmacie Renault;;;;;590029336;;;;;;;59560;Seclin
+3.0393326;50.5476812993344;node/600675110;pharmacy;Pharmacie de Burgault;;;;;590029401;;;;;;;59560;Seclin
+3.0900142;50.6325453993175;node/6049341549;pharmacy;Grande pharmacie de Fives;;;yes;;590021572;;;;;;;59350;Lille
+3.0285899;50.645163799315;node/6066123996;doctors;Centre de Radiologie;;;;;;;;;;;;59328;Lambersart
+3.0485045;50.614927599321;node/6079341966;dentist;Nord Ortho;;;;;;;;;;;;59350;Lille
+3.1670453;50.5260559993388;node/6144567299;nursing_home;Résidence le Logis de la Pévèle;;;;;590783593;;;;senior;;;59586;Templeuve-en-Pévèle
+3.0321137;50.6017511993236;node/6170822432;pharmacy;Santélys respiration perfusion nutrition diabète;;;;;590789764;;;;;;;59360;Loos
+3.0643195;50.6399089993161;node/617240505;pharmacy;Pharmacie Regnault;;;;"Mo-Fr 09:00-19:30; Sa 09:00-19:00";590022034;;;;;;;59350;Lille
+3.0851919;50.3720813993707;node/619005669;pharmacy;Pharmacie Carnot;;;;;590014585;;;;;;;59178;Douai
+3.1044132;50.4187783993609;node/619008697;pharmacy;Pharmacie Franck;;;;;590027157;;;;;;;59509;Roost-Warendin
+2.9712754;50.6698052993102;node/6207287746;doctors;Espace Santé;;;;;;;;;;;;59457;Pérenchies
+2.7925049;50.4563525993531;node/6208197554;doctors;Cabinet Médicale Dr BRUNELLE Emmanuel;;;;;;;;;;;;62528;Loos-en-Gohelle
+2.792462;50.4563559993531;node/6208197555;doctors;Diététicienne Nutritionniste DELATTRE Lucie;;;;;;;;;;;;62528;Loos-en-Gohelle
+3.0317369;50.6540282993133;node/6229360210;doctors;Maison médicale du parc;;;;;;;;;;;;59328;Lambersart
+3.0371393;50.6073312993225;node/6269679410;hospital;centre ressources autismes Nord-Pas de Calais;;no;;;590032439;461;;;;;;59350;Lille
+3.1496397;50.6757368993091;node/6282872286;pharmacy;Pharmacie Mylle-Barieux;;;;;590013934;;;;;;;59163;Croix
+3.153826;50.6776892993087;node/6282879385;pharmacy;Pharmacie Delarue Olivier;;;;"Mo-Fr 09:00-12:00,14:00-19:00; Sa 09:00-12:00";590013900;;;;;;+33 3 20 72 19 58;59163;Croix
+3.1671498;50.6770637993088;node/6282883888;pharmacy;Pharmacie de Barbieux;;;;;590027405;;;;;;;59512;Roubaix
+3.1462511;50.6738014993095;node/6282916785;pharmacy;Pharmacie Centre Croix;;;;;590013967;;;;;;;59163;Croix
+3.1242196;50.6816042993079;node/6301175663;pharmacy;Pharmacie Liévens;Pharmacie Liévens;;yes;Mo-Su 09:00-21:00;;;;;;;+33 3 20 98 90 01;59646;Wasquehal
+3.1872145;50.6695705993103;node/6306198483;pharmacy;Pharmacie du Rond Point;;;;;590018933;;;;;;;59299;Hem
+2.9824603;50.645178799315;node/6335433750;doctors;Mary Jean-Pierre;;;;"""Dépend de la personne à voir""";;;;;;;;59350;Lille
+3.0478789;50.3812132993687;node/6430399802;pharmacy;Pharmacie Beyaert;;;;;590014023;;;;;;;59165;Cuincy
+2.9990139;50.6467717993147;node/6512125023;doctors;Jean-François De Ruyter;;;no;;;;;;;;;59350;Lille
+3.0006928;50.6469588993147;node/6512125031;doctors;Centre Imagerie Médicale Lomme;;;yes;;;;;;;;;59350;Lille
+3.1139;50.5209966993398;node/6583910286;pharmacy;;;;;;590025987;;;;;;;59466;Pont-à-Marcq
+3.0163121;50.6430079993154;node/6593483314;doctors;Docteur Michael Trinh;;;no;"Mo-Fr 08:00-10:30 ""sur rendez-vous""; Tu,Fr 16:00-18:00 ""sur rendez-vous""; Sa 08:30-10:30 ""sur rendez-vous""; Mo-Fr 13:00-15:30 open ""sans rendez-vous""; Tu,Fr 18:00-19:00 open ""sans rendez-vous""; Sa 10:30-12:00 open ""sans rendez-vous""; PH closed";;;;;;;+33 3 20 92 47 06;59328;Lambersart
+3.1412757;50.6169222993206;node/6641789835;doctors;Centre Médical Triolo SCM;;;yes;;;;;;;;+33 3 20 67 12 22;59009;Villeneuve-d'Ascq
+3.0420849;50.625046399319;node/6749150786;doctors;Cabinet Médical Montebello;;;;;;;;;;;;59350;Lille
+3.1495708;50.6268585993186;node/6770873109;doctors;Cabinet de Masseur-kinésithérapeute;;;limited;;;;;;;;+33 3 20 91 32 33;59009;Villeneuve-d'Ascq
+3.1495731;50.6268732993186;node/6770873110;doctors;Cabinet d'infirmières;;;limited;;;;;;;;+33 3 20 91 44 62;59009;Villeneuve-d'Ascq
+3.1379698;50.727735899299;node/6783086045;pharmacy;;;;;;590030417;;;;;;;59599;Tourcoing
+3.1277157;50.7266475992993;node/6783086047;pharmacy;;;;;;590030805;;;;;;;59599;Tourcoing
+3.145147;50.7251276992995;node/6783108164;pharmacy;;;;;;590030722;;;;;;;59599;Tourcoing
+3.1366083;50.7323881992982;node/6783157342;pharmacy;;;;;;590030300;;;;;;;59599;Tourcoing
+3.1721432;50.7236841992998;node/6783161924;pharmacy;;;;;;590030466;;;;;;;59599;Tourcoing
+3.1859855;50.7227100993;node/6783325396;pharmacy;;;;;;590032736;;;;;;;59650;Wattrelos
+3.247582;50.6802024993082;node/6862718840;pharmacy;Pharmacie Dolicque;;;;;590020103;;;;;;;59339;Leers
+3.0797506;50.6221331993196;node/6904970879;doctors;Alexandre Durak;;;yes;"Mo,Th 13:30-16:00; Tu-We,Fr 08:30-11:00; PH closed";;;;;;;;59350;Lille
+3.0797487;50.6221684993196;node/6904970882;doctors;Hervé Bounoua;;;yes;"Mo,We 16:30-19:00; Tu,Th 08:30-11:00; Fr 13:30-16:00; PH closed";;;;;;;;59350;Lille
+3.1392975;50.7189104993007;node/6957789511;pharmacy;;;;;;590030821;;;;;;;59599;Tourcoing
+3.1520816;50.701946399304;node/7001831306;pharmacy;Pharmacie Des 2 Villes;;;;"Mo-Fr 08:30-12:15, 14:00-19:15; Sa 08:30-12:15, 14:00-17:00";590025102;;;;;;+33 3 20 70 58 57;59421;Mouvaux
+2.7758712;50.701996699304;node/7006541551;doctors;;;;;;;;;;;;;59581;Steenwerck
+2.7757325;50.7005001993043;node/7006541552;pharmacy;;;;;;;;;;;;;59581;Steenwerck
+3.2178164;50.5310799993378;node/7007868085;pharmacy;Pharmacie Du Verger;;;;"Mo-Fr 09:00-12:30, 14:00-19:30; Sa 09:00-12:30";;;;;;;+33 3 20 84 56 63;59258;Genech
+3.3982746;50.4706421993501;node/7046964530;dentist;Cabinet Dentaire Dr Godts Dr Kateb;;;;;;;;;;;;59335;Lecelles
+3.3050082;50.4741923993494;node/7048728355;doctors;;;;;;;;;;;;;59330;Landas
+3.1764938;50.6854378993072;node/7066537913;doctors;Michel Bossu;;;;;;;;;;;+33 3 20 73 99 33;59512;Roubaix
+3.1854546;50.7347289992977;node/7082149994;doctors;Lamiaux Virginie;;;;;;;;;;;;59599;Tourcoing
+3.178066;50.6909834993061;node/7087876093;pharmacy;Pharmacie de l'Eurotéléport;;;;;590028023;;;;;;;59512;Roubaix
+2.986561;50.6126186993215;node/710466776;hospital;Centre Hospitalier Jean de Luxembourg;;;;;590000089;355;;;;;+33320101515;59286;Haubourdin
+2.7459215;50.4801421993482;node/7172709159;nursing_home;Les Coccinelles;;;;;;;;;child;;;62846;Vermelles
+3.079815;50.3648075993722;node/7193428985;pharmacy;Pharmacie Wartel&Associes;;;;"Mo-Sa 09:00-12:30, 14:00-19:00";590014403;;;;;;+33 3 27 99 14 00;59178;Douai
+3.0803219;50.7190024993007;node/7207820587;nursing_home;;;;;;;;;;senior;;;59090;Bondues
+2.9892458;50.6057208993228;node/724124470;pharmacy;Pharmacie P'tit Belgique;;;;;590018156;;;;;;+33320073869;59286;Haubourdin
+3.08532;50.3978999993652;node/7247346415;doctors;Docteur Ruytoor David;;;;;;;;;;;+33 3 27 88 90 12;59234;Flers-en-Escrebieux
+2.986498;50.6115881993217;node/725036383;dentist;Waguet Philippe;;;;;;;;;;;+33320071127;59286;Haubourdin
+2.9797224;50.6111739993217;node/725553586;pharmacy;Pharmacie de l'Heurtebise;;;;;590018107;;;;;;;59286;Haubourdin
+3.1252458;50.780740499289;node/7284303158;pharmacy;pharmacie du manège;;;;;;;;;;;;59279;Halluin
+3.0678331;50.6513710993138;node/729547862;pharmacy;Pharmacie de la Nouvelle Madeleine;;;;;590023222;;;;;;;59368;La Madeleine
+3.1090684;50.6418902993157;node/7335512718;pharmacy;Pharmacie de l'Europe;;;;;590024832;;;;;;;59410;Mons-en-Barœul
+2.9918298;50.6086318993222;node/7340220585;hospital;;;;;;590006060;;;;;;;59286;Haubourdin
+2.9732349;50.6525602993136;node/7340220586;clinic;;;;;;590049565;;;;;;;59350;Lille
+3.0742189;50.6213322993197;node/7340229485;hospital;;;;;;590045977;;;;;;;59350;Lille
+3.1570854;50.7164069993012;node/7350184514;clinic;;;;;;590817458;;;;;;;59599;Tourcoing
+2.6892015;50.7982946992857;node/7412164185;nursing_home;Le Clôs du Moulin;;;;;;;;;;;;59086;Boeschepe
+3.0694378;50.635223899317;node/7416672418;dentist;Santéa espace dentaire;;;;;;;;;;;+33 3 20 04 16 16;59350;Lille
+3.2468609;50.47119979935;node/7418096476;doctors;;;;;;;;;;;;;59449;Orchies
+3.2407013;50.4774167993487;node/7418100065;doctors;;;;;;;;;;;;;59449;Orchies
+2.8532986;50.4951506993451;node/7419077624;pharmacy;Pharmacie de la Mairie;;;;;620017780;;;;;;+33 3 21 69 51 30;62895;Wingles
+2.8449896;50.6775186993087;node/7465010303;pharmacy;Pharmacie du Bac;;;;"Mo-Fr 8:30-12:30,13:30-19:30; Su 8:30-14:00; Sa off";590015855;620;;;;42951144700014;+33320356819;59202;Erquinghem-Lys
+3.0590327;50.6387590993163;node/7467753443;pharmacy;Pharmacie Esquermoise;;;;;;;;;;;+33 3 20 54 77 95;59350;Lille
+3.1621751;50.7197333993006;node/747100584;clinic;Centre Optique Accoustique;;;;;;;;;;;;59599;Tourcoing
+3.1623517;50.7196501993006;node/747100585;pharmacy;Pharmacie des Arcades;;;;;590030854;;;;;;;59599;Tourcoing
+2.7364848;50.7372656992972;node/7479153233;nursing_home;Ehpad du CH;;;;;590804316;500;;;senior;26590676800030;+33328437000;59043;Bailleul
+2.7455134;50.7433228992961;node/7479153234;nursing_home;Ehpad de l'EPSM;;;;;590047072;500;;;senior;26590707100673;+33328434576;59043;Bailleul
+2.6893725;50.7391430992969;node/7479153236;nursing_home;Résidence L'Aubépine;;;;;590782819;500;;;senior;;+33328490054;59401;Méteren
+2.634948;50.5390757993362;node/7479887162;nursing_home;Le Clos des Deux Rivières;;;;;620118273;500;;;senior;39144225800011;+33321569696;62119;Béthune
+2.6305151;50.5312194993377;node/7479887163;nursing_home;Ehpad F. Degeorge;;;;;620018044;500;;;senior;24620063800061;+33321014747;62119;Béthune
+2.6463665;50.6468883993147;node/7479915604;nursing_home;Ehpad Léon Duhamel;;;;;590782801;500;;;senior;26590739400018;+33328428133;59400;Merville
+2.9853361;50.4355078993574;node/7526226886;pharmacy;;;;;;620010561;620;;;;80072981600010;;62274;Dourges
+3.0586939;50.6355217993169;node/7538439205;dentist;Centre dentaire Dentego Lille;;;;Mo-Fr 09:00-19:00;;;;;;;+33 3 65 61 06 41;59350;Lille
+3.246384;50.4337199993578;node/7559960001;doctors;;;;;;;;;;;;;59105;Bouvignies
+3.0025741;50.7603218992929;node/7587986085;nursing_home;;;;;;;;;;;;;59152;Comines
+3.0848479;50.3708407993709;node/7600105975;nursing_home;Ehpad Sainte Marie;;;;;590790077;500;;;senior;78358340400018;+33327886661;59178;Douai
+3.1744606;50.3913907993666;node/7600164516;nursing_home;Ehpad Maison de Santé;;;;;590048120;500;;;senior;77568531601601;+33327936060;59327;Lallaing
+3.1070639;50.4404327993564;node/7600164541;nursing_home;Ehpad Les Myosotis;;;;;590812848;500;;;senior;38372777300012;+33327992500;59489;Raimbeaucourt
+3.1123174;50.5233554993393;node/7600816103;nursing_home;Résidence Saint Camille;;;;;590011458;500;;;senior;39434217400312;+33320441427;59466;Pont-à-Marcq
+3.2185979;50.5660585993307;node/7600816104;nursing_home;Les Résidences de la Pévèle;;;;;590783379;500;;;senior;20001765500016;+33320794019;59168;Cysoing
+3.0642007;50.6464979993148;node/7600867277;nursing_home;Ehpad du CHRU;;;;;590048021;500;;;senior;26590671900439;+33320444582;59350;Lille
+3.0671656;50.6440313993153;node/7600867278;nursing_home;Ehpad Natalie Doignies;;;;;590806592;500;;;senior;31998292200027;+33320122727;59350;Lille
+3.059918;50.640165899316;node/7600867279;nursing_home;Les Jardins de la Treille;;;;;590814315;500;;;senior;39434217400114;+33320781909;59350;Lille
+3.0878566;50.6308814993179;node/7600867280;nursing_home;Résidence Les Camanettes;;;;;590006862;500;;;senior;26590350000204;+33320566747;59350;Lille
+3.0524864;50.6247495993191;node/7600867281;nursing_home;Ehpad Gambetta;Korian;;;;590790127;500;;;senior;34117411801204;+33320215040;59350;Lille
+3.0521489;50.6237842993192;node/7600867282;nursing_home;Résidence Marie Laurencin;;;;;590038097;500;;;senior;26590350000220;+33328361339;59350;Lille
+3.0643694;50.6228864993194;node/7600867283;nursing_home;Ehpad La Sabotière;;;;;590806576;500;;;senior;20001739000028;+33320561415;59350;Lille
+3.0588234;50.6202487993199;node/7600867284;nursing_home;Résidence Alphonse Daudet;;;;;590814851;500;;;senior;26590350000188;+33328380197;59350;Lille
+3.052694;50.6187127993202;node/7600898585;nursing_home;Ehpad Saint-Antoine de Padoue;;;;;590788683;500;;;senior;78370259000028;+33320785959;59350;Lille
+3.0566878;50.6055982993228;node/7600898586;nursing_home;La Maisonnée;;;;;590807616;500;;;senior;39434217400056;+33320851539;59350;Lille
+3.1545954;50.6179155993204;node/7600898587;nursing_home;Résidence du Moulin d'Ascq;;;;;590783965;500;;;senior;26590009200031;+33320910510;59009;Villeneuve-d'Ascq
+2.9867499;50.6131952993213;node/7606000069;nursing_home;Ehpad Jean de Luxembourg;;;;;590804381;500;;;senior;20003523600021;+33362210400;59286;Haubourdin
+3.0059852;50.6085498993223;node/7606000070;nursing_home;Résidence Henri Salengro;;;;;590789871;500;;;senior;26590360900054;+33320077191;59360;Loos
+3.0850622;50.6488788993143;node/7606383342;nursing_home;Résidence L'Arche;;;;;590816286;500;;;senior;78370261600013;+33320124800;59350;Lille
+3.1813451;50.6982006993047;node/7608518440;nursing_home;Résidence du Nouveau Monde;;;;;590783882;500;;;senior;26590512500042;+33328091600;59512;Roubaix
+3.1749789;50.6974353993049;node/7608518441;nursing_home;Ehpad Isabeau de Roubaix;;;;;590048039;500;;;senior;26590672700259;+33320993089;59512;Roubaix
+3.1960057;50.6919685993059;node/7608518442;nursing_home;Ehpad Les Maisons Bleues;;;;;590788691;500;;;senior;77562456200317;+33320754140;59512;Roubaix
+3.1754864;50.6923292993059;node/7608518443;nursing_home;Ehpad L'Âge Bleu;Korian;;;;590810966;500;;;senior;42121627600202;+33320450606;59512;Roubaix
+3.1988816;50.6827351993077;node/7608518456;nursing_home;Ehpad de la Fraternité;;;;;590048104;500;;;senior;26590672700267;+33320993106;59512;Roubaix
+2.8790668;50.6878816993067;node/7609617755;nursing_home;Résidence Françoise Luxembourg;;;;;590791315;500;;;senior;26590674300165;+33320481030;59017;Armentières
+2.8471763;50.6783273993086;node/7609617756;nursing_home;;;;;;590782702;500;;;senior;26590723800017;+33320103050;59202;Erquinghem-Lys
+3.142578;50.7736317992903;node/7609635419;nursing_home;Unité de Vie Hippocampe;;;;;590057527;500;;;senior;26590727900037;;59279;Halluin
+2.7264265;50.4879975993465;node/7610337485;nursing_home;Ehpad les Héliantines;;;;;620119305;500;;;senior;38473987600041;+33321643411;62626;Noyelles-lès-Vermelles
+2.8110962;50.4863913993469;node/7610337486;nursing_home;Ehpad Les Héliantines;;;;;620015859;500;;;senior;38473987600108;+33321643411;62464;Hulluch
+2.7837757;50.4158663993615;node/7611712807;nursing_home;Ehpad Les Glycines;;;;;620025809;500;;;senior;31245483800359;+33321448080;62510;Liévin
+2.9009318;50.5632279993313;node/7612089606;nursing_home;Résidence de la Vigne;;;;;590783551;500;;;senior;26590749300018;+33320584364;59524;Sainghin-en-Weppes
+2.9598948;50.4964753993448;node/7612089607;nursing_home;Ehpad Les Orchidées;;;;;620111013;500;;;senior;26590698200151;+33321774741;62215;Carvin
+2.7710274;50.630102099318;node/7612733916;nursing_home;Résidence Saint Benoît;;;;;620105296;500;;;senior;39434217400189;+33321276409;62491;Laventie
+2.8080667;50.5327217993374;node/7612733917;nursing_home;Ehpad Les Érables;;;;;590804431;500;;;senior;26590691700066;+33320295300;59051;La Bassée
+3.2232099;50.6995205993045;node/7635657767;nursing_home;Résidence Saphir l'Ehpad;;;;;590804266;500;;;senior;26590701400020;+33320664000;59650;Wattrelos
+3.0286476;50.6360502993168;node/7636066308;doctors;Salima Domrane;;;;;;;;;;;+33 3 20 93 92 12;59328;Lambersart
+3.0286343;50.6360584993168;node/7636066309;doctors;Philippe Spanneur;;;;"Mo-Fr 14:00-15:30,18:00-19:00; We 09:00-10:00,14:00-15:30; Th 15:00-16:00,18:00-19:00; Sa 09:00-10:00";;;;;;;+33 3 20 93 92 12;59328;Lambersart
+3.1981261;50.6809114993081;node/7645840257;hospital;Centres d’Education et de Prévention en Santé;;;;;;636;;;;;;59512;Roubaix
+3.1906041;50.6113619993217;node/766467488;pharmacy;Pharmacie Libersa;;;;;590009650;;;;;;;59013;Anstaing
+3.063497;50.6888015993065;node/7674117392;dentist;Cabinet Dentaire Docteurs Sébastien Prebois et Caroline Charbonnier;SCM Prebois Charbonnier;;yes;;;;;;;;+33328530980;59636;Wambrechies
+3.1059902;50.384775099368;node/768096091;pharmacy;Pharmacie Pasteur;;;;;590032884;;;;;;;59654;Waziers
+3.1583678;50.7275346992991;node/775871859;pharmacy;Pharmacie de la Rue de Gand;;;;;590030672;;;;;;;59599;Tourcoing
+3.0130317;50.4824405993477;node/7764385960;doctors;;;;;;;;;;;;;62907;Libercourt
+3.0130422;50.4822143993477;node/7764404335;doctors;;;;;;;;;;;;;62907;Libercourt
+3.0131838;50.4825151993477;node/7764424611;dentist;;;;;;;;;;;;;62907;Libercourt
+3.0123545;50.4818546993478;node/7764446046;pharmacy;Pharmacie Principale;;;;;620017897;620;;;;43213540800016;+33321371342;62907;Libercourt
+3.0430898;50.6236813993193;node/7788042551;pharmacy;Pharmacie Montebello;;;;"Mo-Fr 08:30-20:00; Sa 08:30-12:30,14:00-20:00";590020772;;;;;;;59350;Lille
+3.2455762;50.4770514993488;node/7823744279;dentist;Cabinet Dentaire;;;;;;;;;;;;59449;Orchies
+3.2444188;50.4779944993486;node/7823744280;dentist;Cabinet Dentaire;;;;;;;;;;;;59449;Orchies
+2.6391371;50.5276465993385;node/7826285756;pharmacy;;;;;;;;;;;;;62119;Béthune
+3.0530247;50.6435647993154;node/7856698163;nursing_home;EHPAD Notre-Dame des Anges;;;;;590790010;500;;;senior;48200808300016;+33320552933;59350;Lille
+2.9230286;50.3908002993667;node/7884897466;nursing_home;Ehpad André Pouly;;;;;620027128;500;;;senior;41986768400195;+33321201550;62277;Drocourt
+3.1292973;50.6179413993204;node/7915312321;pharmacy;Aprium Pharmacie V2;;;yes;Mo-Sa 09:00-19:00;590009015;620;4773Z;;;;+33 3 20 91 43 00;59009;Villeneuve-d'Ascq
+2.9066631;50.5113415993418;node/7973962689;pharmacy;Pharmacie de la source;;;;;;;;;;;;59477;Provin
+3.1153204;50.3624067993727;node/7995112009;dentist;;;;;;;;;;;;;59569;Sin-le-Noble
+3.1131007;50.3640739993724;node/7995112014;pharmacy;;;;;;590029534;620;;;;78869709200013;;59569;Sin-le-Noble
+3.1114161;50.3645051993722;node/7995112019;pharmacy;Pharmacie du Centre Ville;;;;;590029583;620;;;;79022802700013;+33327980208;59569;Sin-le-Noble
+3.0042351;50.4817781993478;node/7995112023;pharmacy;;;;;;620017913;620;;;;50790598200017;+33321746373;62907;Libercourt
+3.1858212;50.3701386993711;node/7995153511;pharmacy;;;;;;590024956;620;;;;83377590100014;+33327917727;59414;Montigny-en-Ostrevent
+2.910136;50.5120862993416;node/8015860695;dentist;;;;;;;;;;;;;59477;Provin
+3.1923108;50.6682333993105;node/8047076154;pharmacy;Pharmacie Vercamer;;;;;590018800;620;;;;34927526300011;;59299;Hem
+2.6895438;50.7991548992856;node/8081754056;pharmacy;Pharmacie des Monts;;;;;590011482;620;;;;78937923700017;;59086;Boeschepe
+2.9327283;50.529744499338;node/8093368938;dentist;;;;;;;;;;;;;59011;Annœullin
+3.1013009;50.6639603993113;node/893538129;pharmacy;Pharmacie Frys et Mangin;;;;;590023735;;;;;;;59378;Marcq-en-Barœul
+3.1006272;50.6723276993097;node/893538356;pharmacy;Pharmacie Delahouttre;;;;;590023586;;;;;;;59378;Marcq-en-Barœul
+3.2351574;50.6162563993207;node/901224781;pharmacy;Pharmacie Coen;;;yes;;590010872;;;;;;;59044;Baisieux
+3.1586697;50.6821394993078;node/956034586;pharmacy;Pharmacie de la Croix Blanche;;;no;"Mo-Fr 09:00-12:30,14:00-19:30, Sa 09:00-12:30";590013785;;;;;;;59163;Croix
+3.0709871;50.6327551993175;node/976916485;pharmacy;Pharmacie de l'Hôtel de Ville;;;;08:00-19:30;590021556;;;;;;+33 3 20 52 74 80;59350;Lille
+3.076801;50.6308960993179;node/977784356;pharmacy;Pharmacie du Grand Palais;;;no;;590021820;;;;;;;59350;Lille
+3.11953921170445;50.6637187096138;relation/11187846;nursing_home;Résidence Le Golf;;;;;590783635;500;;;senior;26590705500031;+33328337240;59646;Wasquehal
+3.17856209019418;50.6860374190587;relation/11189688;nursing_home;Le Clos Saint-Jean;;;;;590804613;500;;;senior;;+33826203400;59512;Roubaix
+3.00218504429189;50.7593164351313;relation/11190854;nursing_home;Ehpad Fleur de Lys;;;;;590804233;500;;;senior;26590680000023;+33320142828;59152;Comines
+3.00172585774026;50.471836112551;relation/11193308;nursing_home;EHPAD Stéphane Kubiak;;;;;620027110;500;;;senior;77562993401360;+33321182110;62637;Oignies
+3.06723378395188;50.6227215621241;relation/11372458;pharmacy;Pharmacie Dufour;;;;;590020707;;;;;;;59350;Lille
+3.1553631915299;50.6528072002332;relation/1168817;hospital;Clinique privée de Villeneuve d'Asq;;;;;590782546;365;;;;;;59009;Villeneuve-d'Ascq
+3.03290718933689;50.6056453055797;relation/1227710;hospital;Hôpital Jeanne de Flandre;;;;;590006607;101;;;;;;59360;Loos
+3.03268087914356;50.6074851735553;relation/1250218;hospital;Hôpital Roger Salengro;;yes;;;590796975;101;;;;;;59350;Lille
+2.79445948677587;50.4375386493992;relation/1514717;doctors;;CA.R.MI;;;;;;;;;;;62498;Lens
+2.82727968452629;50.4395506747494;relation/1520400;nursing_home;Ehpad Désiré Delattre;;;;;620118133;500;;;senior;38520820200015;+33321698100;62498;Lens
+3.03638481404147;50.6061746937089;relation/1543568;hospital;Hôpital Albert Calmette;;;;;590784864;101;;;;;;59350;Lille
+3.01827202290828;50.5465261160518;relation/1707335;hospital;;;yes;;;590000121;355;;;;;;59560;Seclin
+3.04644191963995;50.664278732354;relation/1709023;nursing_home;Ehpad Le Clos Fleuri;;;;;590788352;500;;;senior;39434217400122;+33320218080;59527;Saint-André-lez-Lille
+2.89236573926625;50.6766842302543;relation/1709695;nursing_home;Résidence Pont Bertin;;;;;"590060927;590782777";500;;;senior;48841184400050;+33611630339;59143;La Chapelle-d'Armentières
+2.91507880981196;50.6953157573258;relation/1722262;nursing_home;Ehpad Fondation Henri Delerue;;;;;590782793;500;;;senior;26590730300019;+33320771219;59317;Houplines
+2.86680185853645;50.5202698101163;relation/1907543;nursing_home;Ehpad les Héliantines;;;;;620119271;500;;;senior;38473987600066;+33321746470;62132;Billy-Berclau
+3.03113562812661;50.6345764885006;relation/214949;hospital;Hôpital privé Le Bois;Ramsay Santé;;;;590780268;365;;;;;+33 3 59 75 75 75;59350;Lille
+3.18335454619962;50.6828799857596;relation/2406363;nursing_home;Ehpad La Potennerie;;;;;590788774;500;;;senior;26590512500067;+33320815734;59512;Roubaix
+3.17382425672512;50.6819825995141;relation/2406365;nursing_home;Les Orchidées;;;;;590815882;500;;;senior;;+33320667979;59512;Roubaix
+2.9117977362848;50.5144327057715;relation/2463433;nursing_home;EHPAD Sainte-Camille;Privée;;yes;;590011508;;;;senior;;;59477;Provin
+3.14239671381335;50.7734248573281;relation/2634243;nursing_home;Ehpad L'Orée du Mont;;;;;590783411;500;;;senior;26590727900011;+33320943213;59279;Halluin
+2.77091720759386;50.6609475733337;relation/3259027;nursing_home;EHPAD La Vie Active;La Vie Active;;yes;;620117762;;;;senior;;;62736;Sailly-sur-la-Lys
+2.80348679513061;50.505780421562;relation/3263467;nursing_home;Ehpad Les Héliantines;;;;;620119297;500;;;senior;38473987600082;+33321643411;62401;Haisnes
+2.74215696760601;50.5104993515399;relation/3290735;nursing_home;Les Héliantines;;;;;620119289;500;;;senior;38473987600058;+33321643411;62200;Cambrin
+2.74756175479529;50.5162431686871;relation/3290924;nursing_home;Ehpad du Château de Cuinchy;;;;;620106104;500;;;senior;32758189800027;+33321638686;62262;Cuinchy
+2.78547008607598;50.5392227550305;relation/3304948;nursing_home;Ehpad les Héliantines;;;;;620119321;500;;;senior;38473987600074;+33321643411;62863;Violaines
+3.16146226489803;50.7167877325375;relation/3496367;nursing_home;Résidence Les Acacias;;;;;590036513;500;;;senior;26590599200227;+33320010909;59599;Tourcoing
+3.03013432627726;50.6112241690095;relation/3608636;hospital;Hôpital Fontan 2;;;;;590791653;101;;;;;;59350;Lille
+3.01864643214665;50.549286753303;relation/5339784;nursing_home;Ehpad Les Augustines;;;;;590804530;500;;;senior;26590698200045;+33320627039;59560;Seclin
+2.96992214839813;50.6504351705124;relation/6260864;nursing_home;EHPAD Saint-François de Sales;;;;;590046991;500;;;senior;;+33320225780;59128;Capinghem
+3.27372945590413;50.4119215734112;relation/7593277;nursing_home;Ehpad Émile Dubois;;;;;590783478;500;;;senior;26590737800011;+33327992600;59375;Marchiennes
+3.03433261516725;50.6084397471439;relation/7824077;hospital;Institut Coeur Poumon;;;;;590787586;101;;;;;;59350;Lille
+3.04071852943841;50.5858077277884;relation/8023272;nursing_home;EPHAD L'arbre de vie;;;;;590034989;;;;senior;;;59648;Wattignies
+3.15227345471953;50.6529357986987;relation/8630867;hospital;Hôpital Privé de Villeneuve d'Ascq;Ramsay Santé;yes;;;590782553;365;;;;;+33 3 20 99 41 41;59009;Villeneuve-d'Ascq
+3.03090178117432;50.6101631899149;relation/930040;hospital;Hôpital Pierre Swynghedauw;;;;;590784898;;;;;;;59350;Lille
+2.64050417363881;50.6947004252311;way/100136041;nursing_home;Résidence du Plessy;;;;;590782868;500;;;senior;20002288700018;+33328427084;59615;Vieux-Berquin
+3.06810287956616;50.3815556084928;way/100589617;pharmacy;Pharmacie des 5 chemins;;;yes;"Mo-Fr 08:30-12:30,13:30-20:00; Sa 08:30-12:30,14:00-17:00";590014635;;;;;;;59178;Douai
+3.074769727708;50.3670754201802;way/100713575;nursing_home;Le Jardin des Augustins;Floralies;;;;590039822;500;;;senior;38883660300059;+33327869780;59178;Douai
+3.08444138306092;50.3785938875931;way/100714930;doctors;;;;;;;;;;;;;59178;Douai
+3.07766586330925;50.3755026144026;way/100717634;pharmacy;Pharmacie Godon;;;;;59 001 819 8;;;;;;;59178;Douai
+2.69223939106391;50.8008536636721;way/100779662;nursing_home;Résidence Les Trois Monts;;;;;590783270;500;;;senior;20001996600015;+33328425046;59086;Boeschepe
+3.07384399099156;50.364950517853;way/100897653;nursing_home;Résidence Jean Menu;;;;;590809554;500;;;senior;39051955100035;+33327930505;59178;Douai
+3.07496015090412;50.3609951080176;way/101421296;pharmacy;Pharmacie Berlemont;;;;;590014486;;;;;;;59178;Douai
+3.082292578185;50.390141248101;way/101635833;nursing_home;Ehpad La Renaissance;;;;;590797031;500;;;senior;43997564000525;+33327964447;59178;Douai
+3.06450156468257;50.352918892947;way/102667328;pharmacy;Pharmacie Courtecuisse Delaleau;;;;;590019832;;;;;;;59329;Lambres-lez-Douai
+3.07883491712204;50.3502066301124;way/102670323;pharmacy;Pharmacie Guerle;;;;;590019816;;;;;;;59329;Lambres-lez-Douai
+3.08642891025672;50.4001985173872;way/102837613;pharmacy;Pharmacie de l'Escarpelle;;;;;62 002 085 9;;;;;;;59234;Flers-en-Escrebieux
+3.10345727026588;50.3625831878057;way/102942199;nursing_home;Ehpad La Renaissance;;;;;590809901;500;;;senior;43997564001507;+33327713271;59569;Sin-le-Noble
+2.85280708486894;50.5792217069992;way/104972483;pharmacy;Pharmacie Desbuisson;;;;;590037347;;;;;;;59303;Herlies
+3.17481731560106;50.3910216334676;way/105239857;hospital;Maison de Santé et de Cure Médicale La Plaine de la Scarpe;;;;;590790473;109;;;;;;59327;Lallaing
+3.01854071888106;50.412389385711;way/105476650;nursing_home;Ehpad La Chaumière;;;;;620016139;500;;;senior;;+33391832600;62249;Courcelles-lès-Lens
+3.18491697110787;50.3731981324886;way/105791245;nursing_home;Château Lambrecht;;;;;590815023;;;;senior;;;59414;Montigny-en-Ostrevent
+3.19090139635976;50.3674601326852;way/105793299;pharmacy;Pharmacie Hette;;;;;590024972;;;;;;;59414;Montigny-en-Ostrevent
+3.19446729242553;50.3655925437313;way/105797109;nursing_home;Résidence L'Ostrevent;;;;;590787388;500;;;senior;;+33327805519;59414;Montigny-en-Ostrevent
+2.82021322086369;50.4257833957547;way/106133511;pharmacy;Pharmacie Dehay;;;;;620012930;;;;;;;62498;Lens
+2.81108288750563;50.4433383954684;way/106139767;doctors;Centre de Santé - Médical;CA.R.MI;;;;;;;;;;;62498;Lens
+2.79692692579009;50.4395245938004;way/106145173;pharmacy;Pharmacie des Provinces;;;;;620012740;;;;;;;62498;Lens
+2.98522074206733;50.645400045979;way/108106646;doctors;Gommeaux Philippe;;;;;;;;;;;;59350;Lille
+2.97539899983241;50.6446384976069;way/108112146;pharmacy;La Pharmacie Par Nature;;;yes;"Mo-Fr 08:30-12:30,14:00-19:30;Sa 08:30-13:00";590022406;;;;;;;59350;Lille
+2.9616269999882;50.4215239993817;way/108173200;doctors;Centre de Santé Médical;CA.R.MI;;;;;;;;;;;62427;Hénin-Beaumont
+2.94873302135459;50.4203171515841;way/108173254;pharmacy;Pharmacie Centrale;;;;;620011965;;;;;;+33 3 21 20 00 24;62427;Hénin-Beaumont
+2.99467653758355;50.6421704991283;way/108183492;pharmacy;Pharmacie Honorez;;;;;590022356;;;;;;;59350;Lille
+2.97287851577509;50.651200694355;way/108184616;hospital;Hôpital Saint-Philibert;;yes;;;590780284;365;;;;;+33 3 20 22 50 50;59350;Lille
+2.9874380896458;50.6458849521986;way/108184723;pharmacy;Pharmacie Lesage;;;yes;"Mo-Fr 08:30-12:30,14:00-19:30; Sa 08:30-12:30,14:00-19:00";590022505;;;;;;;59350;Lille
+2.9920360048565;50.6448801607987;way/108186124;nursing_home;Village des Aînés Les Roses;;;;;590039889;500;;;senior;26590355900036;+33320873330;59350;Lille
+2.99221106527891;50.6543952086555;way/108186423;clinic;Clinique de la Mitterie;;no;yes;;;;;;;;;59350;Lille
+2.99186093347583;50.6464168813865;way/108192039;nursing_home;Ehpad Gilbert Forestier;;;;;590783460;500;;;senior;26590355900077;+33328540910;59350;Lille
+3.04560168519943;50.6103907431414;way/108765475;pharmacy;Pharmacie Barbry;;;;;590020673;;;;;;;59350;Lille
+3.03166877389318;50.6092634036058;way/108765946;hospital;Centre de Biologie-Pathologie;;no;;;590048468;;;;;;;59350;Lille
+3.07912768515156;50.6503639278143;way/108793110;pharmacy;Pharmacie Ulrich Bernard;;;;;590023172;;;;;;;59368;La Madeleine
+3.0639900702166;50.6577320438467;way/108794077;pharmacy;Pharmacie Saint-Vital;;;;;590023354;;;;;;;59368;La Madeleine
+3.07412083133418;50.6578077682586;way/108795275;pharmacy;Pharmacie de la Madeleine;;;;;590023206;;;;;;;59368;La Madeleine
+3.06581269122101;50.6580219672189;way/108796173;nursing_home;EPHAD Ma Maison;;;;;590791042;;;;senior;;;59368;La Madeleine
+3.06931054275981;50.6527097715527;way/108796572;pharmacy;Pharmacie Avez;;;;;590023271;;;;;;;59368;La Madeleine
+2.94784958301208;50.4210731070064;way/108827256;doctors;Lemire;;;;;;;;;;;;62427;Hénin-Beaumont
+2.8383506509917;50.7042950415566;way/110668958;dentist;Romain MELARD;;;;;;;;;;;;59431;Nieppe
+3.07659347954521;50.6083906407806;way/110756302;doctors;;;;;;;;;;;;;59507;Ronchin
+3.05571015668787;50.4778122273856;way/110769444;pharmacy;Pharmacie Wallet;;;;;590030136;;;;;;;59592;Thumeries
+2.84696501504511;50.6787038903179;way/110922689;nursing_home;Résidence Deliot;;;;;590782702;500;;;senior;26590723800017;+33320103050;59202;Erquinghem-Lys
+3.11958228981456;50.7542089850418;way/123023630;nursing_home;Ehpad La Colombe;;;;;590783544;500;;;senior;26590748500022;+33320944573;59508;Roncq
+3.11500414495655;50.7323773547679;way/123031434;hospital;Clinique St Roch;;no;;;590810784;109;;;;;;59508;Roncq
+3.07938126496278;50.7701770403941;way/123411627;nursing_home;Ehpad La Cerisaie;;;;;590039467;500;;;senior;26590871500021;+33320032987;59098;Bousbecque
+3.10414040324931;50.5852424565795;way/123467473;nursing_home;Résidence Sainte-Camille;;;;;590792024;500;;;senior;;+33320576665;59343;Lesquin
+2.72122018572974;50.4425542718596;way/123708996;pharmacy;Pharmacie Zanetti;;;;;620008730;;;;;;;62186;Bully-les-Mines
+3.02842056001289;50.6501118226993;way/125888820;dentist;;;;;;;;;;;;;59328;Lambersart
+2.90541003908318;50.6703185596365;way/125898389;pharmacy;Pharmacie Cousin-Catteau;;;;;;;;;;;;59143;La Chapelle-d'Armentières
+2.90638575294574;50.6717641936103;way/125906089;nursing_home;Résidence Henry Bouchery;;;;;590782769;500;;;senior;26590731100012;+33320103737;59143;La Chapelle-d'Armentières
+2.86746290555127;50.5575103527599;way/126519750;nursing_home;Ehpad Sainte-Geneviève;;;;;590789897;500;;;senior;78374162200014;+33320290762;59388;Marquillies
+2.97914864246766;50.6655519717331;way/126801161;nursing_home;Domaine des Tuileries;;;;;590815049;500;;;senior;44410663700010;+33320224438;59457;Pérenchies
+2.73698617421472;50.7369665671951;way/131403525;hospital;Centre Hospitalier de Bailleul;;;;;590000766;355;;;;;;59043;Bailleul
+2.63866610148744;50.5315471282589;way/136658556;pharmacy;Pharmacie du Beffroi;;;;;620007260;;;;;;;62119;Béthune
+3.23459854993569;50.6270995495513;way/139931826;doctors;Centre Médical;;;yes;;;;;;;;;59660;Willems
+2.87381688013515;50.5229816518436;way/140999556;pharmacy;Pharmacie du Jeu de Paume;;;;;620007542;;;;;;;62132;Billy-Berclau
+2.89169101771359;50.4208029472259;way/141258678;doctors;CEP-ADAIR;;;;;;;;;;;;62351;Fouquières-lès-Lens
+2.83293373318201;50.5046590228296;way/141707436;nursing_home;Ehpad les Héliantines;;;;;620119313;500;;;senior;38473987600090;+33321643411;62276;Douvrin
+3.13640421676244;50.4145003541168;way/146532587;doctors;;;;;;;;;;;;;59486;Râches
+3.03380702404163;50.6097447484031;way/148740893;hospital;Hôpital André Fourrier;;;;;;;;;;;;59350;Lille
+3.04102847634831;50.6687991159553;way/152039605;nursing_home;Ehpad Georges Delfosse;;;;;590813523;500;;;senior;24590045100023;+33320631717;59386;Marquette-lez-Lille
+3.04370763964171;50.6666755582956;way/152040420;pharmacy;Pharmacie Boukhoubza Camus;;;;;590024105;;;;;;;59386;Marquette-lez-Lille
+3.12847686455176;50.670060237759;way/156521249;pharmacy;Pharmacie du Centre;;;yes;"Mo-Fr 09:00-12:00, 14:00-19:00; Sa 09:00-12:00";590032116;620;4773Z;;;;+33320721325;59646;Wasquehal
+3.08564703104999;50.6490931645761;way/160089857;hospital;Clinique Ambroise Paré;Groupe HPM;;;;590780342;365;;;;;+33826204700;59350;Lille
+2.95398169533608;50.5370370008568;way/183688894;clinic;Maison Médicale Patrick Halluin;;;;;;;;;;;;59005;Allennes-les-Marais
+3.01641499848653;50.5168405144856;way/186873203;doctors;;;;yes;;;;;;;;;59462;Phalempin
+3.02537951490064;50.5102841947591;way/187903616;nursing_home;Ehpad Saint-Joseph;;;;;590790036;500;;;senior;;+33320902526;59462;Phalempin
+2.92500112780254;50.5213731041342;way/188765053;nursing_home;Maison de Retraite Les Jardins Argentés;;;yes;;590783247;500;;;senior;26590709700033;+33 3 20 60 60 60;59011;Annœullin
+3.13628664692674;50.7750767298916;way/194173050;pharmacy;Pharmacie Villette;;;;;590018032;;;;;;;59279;Halluin
+2.78377461156231;50.4164119668451;way/194310730;hospital;Polyclinique de Riaumont;AHNAC;yes;;;620003350;365;;;;;+33 3 21 44 80 80;62510;Liévin
+3.028222488787;50.6105549333138;way/203620175;hospital;Hôpital Michel Fontan;;;;;590791653;101;;;;;;59350;Lille
+2.86787527496192;50.684611302383;way/204203361;hospital;Centre hospitalier d'Armentières;;yes;yes;;590000758;355;;;;;+33 3 20 48 33 33;59017;Armentières
+2.66927060237005;50.5149603981884;way/209289975;hospital;Centre hospitalier de Béthune;;yes;;;620000224;355;;;;;+33 3 21 64 44 44;62126;Beuvry
+2.88337586123346;50.5818109818891;way/229292215;nursing_home;Ehpad Weppes;;;;;590815122;500;;;senior;77567227214158;+33320440850;59250;Fournes-en-Weppes
+2.99604509596734;50.46965287876;way/240782313;doctors;Cabinet d'Imagerie Médicale de l'Abbaye;;;;;;;;;;;;62637;Oignies
+3.00097644806785;50.4694520724988;way/240788774;doctors;Centre de Santé Médical Pluridisciplinaire;;;;;;;;;;;;62637;Oignies
+2.94394090254412;50.4559981217747;way/240848169;pharmacy;Pharmacie du Boulevard;;;;"Mo-Fr 08:45-12:30,14:00-20:00; Sa 08:45-12:30,14:00-19:00";620010090;;;;;;;62250;Courrières
+2.94606557265512;50.462936803591;way/240855446;nursing_home;Résidence Les Violettes;;;;;620024661;500;;;senior;77562993400875;+33321086920;62250;Courrières
+2.94415947883257;50.4574733379138;way/240856372;pharmacy;Pharmacie des Quatre Saisons;;;;"Mo-Fr 08:45-12:30,14:00-20:00; Sa 08:45-12:30";620010140;;;;;;;62250;Courrières
+2.94691974110325;50.4577407244204;way/240856432;pharmacy;Pharmacie Centrale;;;;"Mo-Fr 08:45-12:30,14:00-20:00; Sa 08:45-12:30";620010165;;;;;;+33 3 21 20 28 69;62250;Courrières
+2.95261967523911;50.4620575426708;way/240856840;dentist;Cabinet de dentistes;;;yes;;;;;;;;+33 3 21 49 44 62;62250;Courrières
+2.87941377457881;50.4282877788287;way/240937325;nursing_home;Ehpad Fernand Cuvelier;;;;;620114868;500;;;senior;31245483800300;+33321439050;62628;Noyelles-sous-Lens
+2.89024115125136;50.4758198707749;way/241237182;doctors;"Cabinet des docteurs Fauquembergue, Lefebvre et Bréfort-Martin";;;;;;;;;;;+33 3 20 88 57 69;62666;Pont-à-Vendin
+2.71670048786988;50.4731414428112;way/241254175;nursing_home;Les Jardins d'Iroise;;;;;620117598;500;;;senior;47950381500025;+33321453500;62563;Mazingarbe
+2.79702835748631;50.6612932974704;way/241668928;pharmacy;Pharmacie Queval;;;;;620015974;;;;;;;62736;Sailly-sur-la-Lys
+2.78556106227752;50.6616141208646;way/241669650;doctors;Cabinet médical;;;;;;;;;;;;62736;Sailly-sur-la-Lys
+2.77048628745077;50.6581011011034;way/241671917;pharmacy;Pharmacie Leroy;;;;;620015941;;;;;;;62736;Sailly-sur-la-Lys
+2.80530525000025;50.4949444993899;way/241804439;doctors;Dispensaire de Société de Secours Minière;CA.R.MI;;;;;;;;;;;62401;Haisnes
+2.71596600898058;50.5812760937772;way/243234271;nursing_home;Ehpad Les Héliantines;;;;;620015818;500;;;senior;38473987600124;+33321643411;62252;La Couture
+2.68715877209127;50.5007183228674;way/243271156;doctors;;;;;;;;;;;;;62480;Labourse
+2.68053305615127;50.4979872508782;way/243272303;nursing_home;Ehpad les Héliantines;;;;;620015768;500;;;senior;38473987600116;+33321649009;62480;Labourse
+2.69619206096334;50.5024467258008;way/243301992;nursing_home;Ehpad Les Héliantines;;;;;620119339;500;;;senior;38473987600033;+33321643411;62735;Sailly-Labourse
+2.69403817623431;50.515154293015;way/243331954;nursing_home;Résidence de France;;;;;620018150;500;;;senior;40922233800017;+33321618787;62126;Beuvry
+2.68321600315214;50.5205648473835;way/243341695;nursing_home;Ehpad Marie Curie;;;;;620003285;500;;;senior;24620063800053;+33321652444;62126;Beuvry
+2.73832932506769;50.5786190478596;way/243389120;pharmacy;Pharmacie de Richebourg;;;;;620015727;;;;;;;62706;Richebourg
+2.71974844139145;50.5058696974642;way/243414713;doctors;Centre de soins - Médical;CA.R.MI;;;;;;;;;;;62034;Annequin
+3.18102667514723;50.7456775883177;way/252936951;hospital;Centre hospitalier de Tourcoing;;yes;;;590804696;355;;;;;+33 3 20 69 49 49;59599;Tourcoing
+3.17280202556429;50.6798018907375;way/253501019;hospital;Centre hospitalier de Roubaix;;yes;;;590801106;355;;;;;+33 3 20 99 31 31;59512;Roubaix
+3.1856023167887;50.6916728157708;way/256163917;pharmacy;Grande Pharmacie de Roubaix;;;;;590027371;;;;;;;59512;Roubaix
+3.18571335764221;50.691619167796;way/256163918;doctors;Centre de Soin et Kinésithérapie;;;;;;;;;;;;59512;Roubaix
+3.08875972117101;50.5887959563027;way/262837696;clinic;Clinique Lille-Sud SOS Mains;;;;;590780250;365;;;;88608028200058;+33359755755;59343;Lesquin
+3.03474225353499;50.6105287298258;way/271663841;hospital;Hôpital Claude Huriez;;;;;590811279;101;;;;;;59350;Lille
+3.02313565878099;50.6175862125354;way/272706390;hospital;Clinique Lautréamont;Orpea-Clinea;no;;;590016408;161;;;;;+33826109990;59360;Loos
+3.08620701676863;50.6422701246353;way/273625654;pharmacy;Pharmacie Saint-Maurice;;;;;590020954;;;;;;;59350;Lille
+3.08444022765599;50.6450779674674;way/273744645;doctors;Centre d'Urologie;Urologie Lilloise;;;;;;;;;;+33320121290;59350;Lille
+3.08399620055175;50.6466507552333;way/273878074;hospital;Hôpital Privé La Louvière;Générale de Santé;no;;;590780383;;;;;;+33826307000;59350;Lille
+3.02376495196188;50.6291667605762;way/274400380;nursing_home;Résidence La Goëlette;;;;;590035945;500;;;senior;26590350000212;+33320170782;59350;Lille
+3.07311349975501;50.6535722812332;way/277742274;pharmacy;Pharmacie Van Triempont;;;;"Mo-Fr 08:30-12:30,14:00-19:30; Sa 08:30-13:30";590023321;;;;;;;59368;La Madeleine
+2.9962624000022;50.6795585993519;way/285884579;dentist;;;;;;;;;;;;+33 3 20 22 42 04;59611;Verlinghem
+3.00113696020532;50.3748088850311;way/304065962;hospital;Clinique de l'Escrebieux;;;;;590813069;161;;;;;;59211;Esquerchin
+3.08549991372577;50.3980629854352;way/317037711;pharmacy;Pharmacie Pochart;;;;;590016606;;;;;;;59234;Flers-en-Escrebieux
+3.05138220930435;50.6202247638356;way/318138557;pharmacy;Pharmacie Bodart;;;;;590021507;;;;;;;59350;Lille
+2.89213815781394;50.4218228333765;way/320262469;hospital;Centre Sainte-Barbe;Hopale;;;;620003822;109;;;;;;62351;Fouquières-lès-Lens
+2.71732340693607;50.4599371566112;way/326118528;hospital;Centre de Psychothérapie Les Marronniers;ANHAC;;;;620004838;161;;;;;;62186;Bully-les-Mines
+3.1567089289396;50.7157385611982;way/345079199;hospital;Hôpital de Jour;;;;;590809133;292;;;;;;59599;Tourcoing
+3.15125170346706;50.6550612062617;way/345790948;nursing_home;La Ritournelle;;;;;590057006;500;;;senior;;;59009;Villeneuve-d'Ascq
+3.01416189397521;50.5472008612201;way/358602565;hospital;;;;;;590045886;292;;;;;;59560;Seclin
+3.01866651430835;50.54709845409;way/358627517;hospital;Centre Hospitalier de Seclin;;yes;;;590000121;355;;;;;;59560;Seclin
+3.16771963562319;50.5678282359426;way/35897641;doctors;Orthophoniste;;;;;;;;;;;;59458;Péronne-en-Mélantois
+3.19993012808894;50.61146915961;way/365844741;pharmacy;Pharmacie du Château;;;;;590013116;;;;;;;59146;Chéreng
+3.13811414176636;50.7011068571231;way/370755119;nursing_home;Résidence La Belle Époque;;;;;590783502;500;;;senior;26590743600017;+33320765859;59421;Mouvaux
+3.02374228043939;50.6375336835095;way/39320633;pharmacy;Pharmacie Serrure;;;;"Mo-Fr 08:30-19:30, Sa 09:00-13:00,14:00-18:00";590021622;;;;;;;59350;Lille
+3.02876515869176;50.6322455836042;way/39437332;doctors;Maison médicale;;;;;;;;;;;;59350;Lille
+3.03072286008104;50.6344697561955;way/39437638;pharmacy;Pharmacie Payelleville;;;;"Mo-Sa 09:00-12:30, Mo-Fr 14:00-19:15, Sa 14:00-17:30";590021283;;;;;;;59350;Lille
+3.01384085713405;50.6352578159073;way/39628255;pharmacy;Pharmacie Segard-Willem;;;limited;;590022471;;;;;;;59350;Lille
+3.0353297626452;50.6211635819677;way/40615729;pharmacy;Pharmacie de l'Horloge;;;;;590022133;;;;;;;59350;Lille
+3.04523743787227;50.6192756222705;way/40686020;hospital;Centre de Soins et d'Accompagnement et de Prévention en Addictologie;;;;;590815098;;;;;;;59350;Lille
+3.03955955258002;50.6252737431924;way/41065964;pharmacy;Pharmacie Cormontaigne;;;yes;"Mo-Fr 08:30-19:30; Sa 08:30-12:30";590020921;;;;;;;59350;Lille
+3.04820750581899;50.6269520104024;way/41426458;pharmacy;Pharmacie du Marché;;;yes;"Mo-Fr 10:00-18:00; Sa 10:00-13:00";590021853;;;;;;;59350;Lille
+3.04242779915537;50.6329890715174;way/41435625;pharmacy;Pharmacie Béatrice Benoit;;;;"Mo-Fr 08:30-12:30,13:30-19:30; Sa 09:00-12:30";590021135;;;;;;;59350;Lille
+2.90920566096955;50.3762953211825;way/41807241;hospital;Hôpital privé Bois-Bernard;Ramsay Santé;;;;620101501;365;;;;;+33 3 74 82 00 00;62148;Bois-Bernard
+2.74401936902798;50.7460905858962;way/42016051;hospital;Établissement Public de Santé Mentale des Flandres;;no;;;590000790;292;;;;;;59043;Bailleul
+3.03362690872419;50.6081266598977;way/42017877;hospital;Centre Hospitalier Régional Universitaire de Lille;;yes;yes;;590000105;;;;;;;59350;Lille
+3.05503577918513;50.6313434638771;way/42751137;pharmacy;Grande Pharmacie des Halles;;;yes;24/7;590020723;;;;;;+33 3 20 54 02 74;59350;Lille
+2.70352986547483;50.6372718029455;way/44955041;nursing_home;Résidence de Beaupré;;;;;590782785;500;;;senior;26590732900014;+33328437500;59268;La Gorgue
+3.06278819639775;50.6360989769287;way/45895560;pharmacy;Pharmacie Muller;;;yes;;590021382;;;;;;;59350;Lille
+3.14470232786291;50.6267644796029;way/492162198;nursing_home;Centre Marc Sautelet;;;yes;;;;;;senior;;;59009;Villeneuve-d'Ascq
+3.06394108825978;50.6466762966746;way/50291843;hospital;Clinique gérontologique Les Bateliers;;;;;590791091;101;;;;;;59350;Lille
+3.00015976071863;50.4695680535485;way/509408178;dentist;Docteur Reichardt & Docteur Bloquet;;;;;;;;;;;;62637;Oignies
+3.23936543435038;50.6309989739284;way/51105449;nursing_home;Béguinage de la Ferme Rouze;;;;;590041596;500;;;senior;;+33320840150;59660;Willems
+3.2370001997563;50.6335182459142;way/51139557;doctors;Dr Terazzoni;;;;;;;;;;;;59660;Willems
+3.23602003877523;50.6313530545067;way/51154911;pharmacy;Pharmacie Sory;;;;;590033023;;;;;;;59660;Willems
+3.06045479673774;50.6434160781245;way/51498989;doctors;Cabinet du Docteur Dauzat;Dr Dauzat;;;;;;;;;;+33 3 28 33 15 15;59350;Lille
+3.14939633745703;50.6412743509911;way/51504306;doctors;;;;;;;;;;;;;59009;Villeneuve-d'Ascq
+3.10176886144399;50.6663987103433;way/51769903;hospital;Clinique du Croisé Laroche;;;;;590781951;365;;;;;;59378;Marcq-en-Barœul
+3.07278585766087;50.6515070508509;way/53745531;pharmacy;Pharmacie Macquart;;;;;590023255;;;;;;;59368;La Madeleine
+3.07740045296294;50.6542890952231;way/53748633;pharmacy;Pharmacie Dubois-Maincent;;;;;590023156;;;;;;;59368;La Madeleine
+2.68278089544715;50.4998068818425;way/540701850;pharmacy;;;;;;;;;;;;;62480;Labourse
+3.16342325163397;50.7167953511143;way/56471760;pharmacy;Pharmacie Vitale;;;;;590030573;;;;;;;59599;Tourcoing
+3.0814125697635;50.6522183754933;way/57016908;pharmacy;Pharmacie Chevalier;;;;;590023370;;;;;;;59368;La Madeleine
+3.09646955968424;50.5934557804135;way/572346780;nursing_home;EPHAD Geneviève et Roger BAILLEUL;;;;;590037768;500;;;senior;26590507500072;+33362144600;59507;Ronchin
+3.06784798598638;50.6540155208471;way/58873761;pharmacy;Pharmacie Hennevin;;;;;590023305;;;;;;;59368;La Madeleine
+3.15668210197133;50.7165135155372;way/59210320;hospital;Clinique de la Victoire;;;;;590817458;365;;;;;;59599;Tourcoing
+3.05398163625307;50.6234396072876;way/59468932;pharmacy;Pharmacie Gaillet;;;;"Mo-Fr 09:00-12:30,14:00-19:30, Sa 09:00-12:30";590021804;;;;;;;59350;Lille
+3.03213360114386;50.612488306149;way/59696353;hospital;Centre Oscar Lambret;;;;;590000188;131;;;;;;59350;Lille
+3.04413376788946;50.6837542781028;way/59735019;pharmacy;Pharmacie Cambier;;;;;590031951;;;;;;;59636;Wambrechies
+3.15889074936652;50.7161064853827;way/59985729;pharmacy;Pharmacie Miot;;;;;590030284;;;;;;;59599;Tourcoing
+3.15829949486727;50.7155459806054;way/60122097;doctors;;;;;;;;;;;;;59599;Tourcoing
+3.08683482038023;50.6495776278608;way/61270105;pharmacy;Pharmacie du Buisson;Benault Associés;;;"Mo-Fr 08:30-12:30,14:00-19:30; Sa 09:00-12:30";590021184;;;;;;;59350;Lille
+2.63003016358156;50.5398011982223;way/622014733;hospital;Clinique Anne d'Artois;;yes;;;620100735;365;;;;;+33 826 200 110;62119;Béthune
+2.98891954301481;50.6106728985656;way/63560775;nursing_home;Ehpad Les Maisons Bleues;;;;;590787966;500;;;senior;77562456200200;+33320072469;59286;Haubourdin
+2.99025248732463;50.6127322567713;way/63561181;nursing_home;Résidence Le Bosquet;;;;;590790002;500;;;senior;45111438300024;+33320076333;59286;Haubourdin
+3.25392902201125;50.6072547019421;way/64864035;pharmacy;Pharmacie Nigault;;;;;590010906;;;;;;;59044;Baisieux
+3.22855438824985;50.6609200554307;way/64895937;pharmacy;Pharmacie de Toufflers;;;;"Mo-Fr 08:30-12:15,14:00-20:00; Sa 09:00-13:00";590030151;;;;;;;59598;Toufflers
+3.23674015466785;50.6608521092934;way/64896642;doctors;Cabinet médical;;;;;;;;;;;;59598;Toufflers
+3.05974135193365;50.6227554545193;way/65209026;pharmacy;Pharmacie Teirlinck;;;;;590020616;;;;;;;59350;Lille
+3.06142615533569;50.6203403052074;way/65463371;pharmacy;Pharmacie d'Artois;;;;;590021705;;;;;;;59350;Lille
+3.0722947599211;50.6310748382762;way/65484173;nursing_home;Les Dintellières;;;;;;;;;;;;59350;Lille
+3.02267101006194;50.6184915607678;way/656533025;nursing_home;Ehpad Les Cotonnières;Orpéa;;;;590055406;500;;;senior;40125156602010;+33328091300;59360;Loos
+2.94370324594827;50.4305341120974;way/662047371;hospital;Centre Hospitalier d'Hénin-Beaumont;;no;;;620000240;355;;;;;+33 3 21 08 15 15;62427;Hénin-Beaumont
+3.20834124538664;50.667545375697;way/672977658;clinic;;;;;;;;;;;;;59367;Lys-lez-Lannoy
+2.99871314123903;50.4317284472289;way/677034234;doctors;Maison Médicale Santé Gak;;;yes;;;;;;;;;62624;Noyelles-Godault
+3.18864745880332;50.6301608545835;way/687340155;nursing_home;Ehpad Bords de la Marque;;;;;590047833;500;;;senior;34117411801279;+33328765800;59247;Forest-sur-Marque
+2.85971152636005;50.4788396719953;way/69676176;nursing_home;Les Jardins d'Iroise;;;;;620016238;500;;;senior;79911299000012;+33321080506;62842;Vendin-le-Vieil
+3.18496623664196;50.6533734012293;way/69977977;pharmacy;Pharmacie de l'Hôtel de Ville;;;;"Mo-Fr 08:30-12:30,14:00-19:30; Sa 8:30-12:30,14:00-17:00";590018917;;;;;;;59299;Hem
+3.19085631253908;50.6685310663283;way/69983732;clinic;;;;;;;;;;;;;59299;Hem
+3.18894459895385;50.650955661916;way/69988015;doctors;;;;;;;;;;;;;59299;Hem
+3.18774124060775;50.6529828725032;way/69989208;dentist;Docteur Laurent Lefevre;;;;;;;;;;;;59299;Hem
+3.20573460644184;50.6107467642042;way/70257959;dentist;;;;;;;;;;;;;59146;Chéreng
+3.05817251776491;50.3586984869007;way/718032771;hospital;Clinique Saint-Amé;Ramsay Santé;yes;;;590816310;365;;;;;+33 3 74 82 17 17;59329;Lambres-lez-Douai
+3.11486227530251;50.7319974307267;way/722926903;clinic;;;;;;590810784;;;;;;;59508;Roncq
+3.19912601937603;50.7047470499829;way/73661808;pharmacy;Pharmacie Saint-Charles;;;;;590032504;;;;;;;59650;Wattrelos
+3.29022038949687;50.404619586532;way/737593286;clinic;Clinique Saint-Roch;;;;;;;;;;;;59375;Marchiennes
+2.83725741181572;50.4236240587359;way/738243929;nursing_home;Centre Montgré;;;;;620022228;500;;;senior;;;62498;Lens
+2.91348254952552;50.4168596315396;way/739527753;doctors;Centre de Santé Polyvalent;;;;;;;;;;;;62133;Billy-Montigny
+2.71132746513277;50.4457349972879;way/739824079;nursing_home;Résidence Joseph Porebski;;;;;620109876;500;;;senior;77568531602062;+33321449393;62186;Bully-les-Mines
+2.83048318336829;50.4077972474183;way/739949328;nursing_home;Didier Lampin;;;;;620100065;500;;;senior;;;62065;Avion
+2.89642107768087;50.4400710666694;way/740383021;nursing_home;Résidence Pierre Moroy;;;;;620022848;500;;;senior;;;62413;Harnes
+2.90212169034116;50.424508787543;way/745618314;nursing_home;Ehpad Coquelicots et Bleuets;;;;;620017749;500;;;senior;41986768400138;+33327191870;62351;Fouquières-lès-Lens
+3.09417163448506;50.6782612291852;way/74636620;nursing_home;Résidence Paul Cordonnier;;;;;590805412;;;;senior;;+33 3 20 98 44 05;59378;Marcq-en-Barœul
+3.08824731445932;50.6568339076329;way/74637249;pharmacy;Pharmacie du Grand Boulevard;;;;;590023750;;;;;;;59378;Marcq-en-Barœul
+3.08829203342574;50.6778896309625;way/74639601;nursing_home;Ehpad Les Provinces du Nord;;;;;590783486;500;;;senior;26590738600014;+33320893469;59378;Marcq-en-Barœul
+3.09003453386365;50.6516711612708;way/74643509;pharmacy;Pharmacie Régnault;;;;"Mo-Fr 14:00-19:00, Mo-Sa 09:00-12:00";590023685;;;;;;;59378;Marcq-en-Barœul
+3.09319787399539;50.6725148841412;way/74645426;dentist;Docteur Emmanuelle Pottie;;;;;;;;;;;;59378;Marcq-en-Barœul
+3.0767290085769;50.6661644140186;way/74645920;pharmacy;Bonjour Pharma;;;;"Mo-Fr 08:30-20:00; Sa 08:30-19:00";590023636;;;;;;;59378;Marcq-en-Barœul
+3.09439571573738;50.6507809738664;way/74646164;nursing_home;Ehpad La Rose-May;;;;;590782926;500;;;senior;77562456200176;+33320550699;59378;Marcq-en-Barœul
+2.89205846771012;50.419562934236;way/746586940;clinic;Cabinet Paramédical;;;;;;;;;;;;62351;Fouquières-lès-Lens
+3.10049555995386;50.6400686322457;way/74894652;pharmacy;Pharmacie des Sarts;;;;Tu-Fr 09:00-19:00;590024683;;;;;;;59410;Mons-en-Barœul
+3.10142608983077;50.641956810313;way/74895964;doctors;Cabinet Médical des Acacias;;;;;;;;;;;;59410;Mons-en-Barœul
+3.1015933804196;50.6419603507437;way/74898307;doctors;Cabinet Médical des Acacias;;;;;;;;;;;;59410;Mons-en-Barœul
+3.1100416331042;50.6445553307572;way/74918413;pharmacy;Pharmacie Debusy;;;;;590024766;;;;;;;59410;Mons-en-Barœul
+2.93036881598689;50.4309303647814;way/754958378;nursing_home;Résidence Les Lys;;;;;620015909;500;;;senior;49351919300111;+33391840800;62587;Montigny-en-Gohelle
+3.14787583703233;50.6192931112138;way/756338687;pharmacy;Pharmacie du Bizet;;;yes;Mo-Sa 08:30-20:00;590009536;;;;;;+33 3 20 91 13 92;59009;Villeneuve-d'Ascq
+3.15221239801594;50.6273677868403;way/759632295;nursing_home;;;;;;;;;;senior;;;59009;Villeneuve-d'Ascq
+3.15258735160612;50.6273813180845;way/759632296;nursing_home;;;;;;;;;;senior;;;59009;Villeneuve-d'Ascq
+3.15237710839159;50.6271949043566;way/759632297;nursing_home;;;;;;;;;;senior;;;59009;Villeneuve-d'Ascq
+2.91972642483321;50.5485033922608;way/76532811;pharmacy;Pharmacie de Don;;;;;590033122;;;;;;;59670;Don
+3.1402877393139;50.6576851042875;way/76659675;dentist;;;;;;;;;;;;;59009;Villeneuve-d'Ascq
+3.14156754493588;50.6592578462779;way/76661068;pharmacy;Pharmacie Babylone;;;;;590009106;;;;;;;59009;Villeneuve-d'Ascq
+3.1633998873935;50.6437120671359;way/76734802;pharmacy;Pharmacie de la Cousinerie;;;yes;"Mo-Fr 08:30-12:30,14:30-19:30; Sa 08:30-12:30";590009254;;;;;;+33 3 20 91 34 67;59009;Villeneuve-d'Ascq
+3.1273237733404;50.6385749855065;way/77463557;pharmacy;Pharmacie Randoux;Giphar;;yes;"Mo-Fr 09:00-13:00, 14:00-20:00; Sa 09:00-13:00, 14:00-19:00";590009486;620;4773Z;;;;+33 3 20 56 73 84;59009;Villeneuve-d'Ascq
+3.07263017269074;50.6177565484319;way/77494377;doctors;SOS Médecins Lille Métropole;;;;24/7;;;;;;;+33320299191;59350;Lille
+3.06877845073855;50.6199919606811;way/77496096;pharmacy;Pharmacie de Moulins;;;;;590021234;;;;;;+33 3 20 52 52 05;59350;Lille
+3.12750207639069;50.7259565418282;way/77536965;nursing_home;Résidence Les Flandres;;;;;590797171;500;;;senior;26590599200078;+33320691515;59599;Tourcoing
+3.15983628881391;50.7099453693228;way/77583877;pharmacy;Pharmacie Gambetta;;;;;590030920;;;;;;;59599;Tourcoing
+3.19083478580608;50.7370834692931;way/77586448;pharmacy;Pharmacie de la Marlière;;;;;590030656;;;;;;;59599;Tourcoing
+3.14315734037544;50.6240571565846;way/77891423;pharmacy;Pharmacie de la poste;;;;;590009452;;;;;;;59009;Villeneuve-d'Ascq
+3.14949601002261;50.6268778139355;way/77891549;doctors;David elbaum;;;;;;;;;;;;59009;Villeneuve-d'Ascq
+3.14967171373493;50.6261418095296;way/77891570;pharmacy;Pharmacie d'Annappes;;;yes;"Mo-Fr 08:30-12:30,14:00-19:30; Sa 08:30-12:30; Su off";590009320;;;;;;+33 3 20 91 09 30;59009;Villeneuve-d'Ascq
+3.14952713207421;50.6269431857157;way/77891695;doctors;Docteur Olivier Delcroix;;;yes;;;;;;;;+33 3 20 61 86 84;59009;Villeneuve-d'Ascq
+3.14440697827664;50.6252909519374;way/77892927;nursing_home;Ehpad Les Orchidées;;;yes;;590007266;500;;;senior;;+33320196262;59009;Villeneuve-d'Ascq
+3.14883174756543;50.7502149279607;way/78587537;nursing_home;Ehpad La Fleur de l'Âge;;;;;590783510;500;;;senior;26590744400011;+33320940928;59426;Neuville-en-Ferrain
+3.01635612719779;50.5497208239607;way/786204695;hospital;Clinique Psychiatrique du Secteur de Seclin;;;;;590060893;292;;;;;;59560;Seclin
+3.16428925245224;50.7236866975557;way/78653324;nursing_home;Ehpad Les Orchidées;;;;;590033957;500;;;senior;;+33320285454;59599;Tourcoing
+3.17445445;50.6882552493077;way/78706229;doctors;SOS Médecins;SOS Médecins France;;;"Mo-Su,PH 08:00-19:30 open ""Sur rendez-vous"", Mo-Su,PH 19:30-06:00 open ""Consultation libre""";;;;;;;;59512;Roubaix
+3.17000939685976;50.5270389392954;way/78833408;pharmacy;Pharmacie Perche Bernard;;;;;590030037;;;;;;;59586;Templeuve-en-Pévèle
+3.14129173755461;50.6160199330305;way/79050200;pharmacy;Pharmacie du Triolo;;;yes;"Mo-Fr 09:00-12:30,14:00-19:30; Sa 09:00-12:30,14:00-18:00; Su off";590009171;620;4773Z;;;;+33 3 20 91 34 84;59009;Villeneuve-d'Ascq
+3.1624891895441;50.6207647412225;way/79064355;dentist;;;;;;;;;;;;;59009;Villeneuve-d'Ascq
+3.19995457529446;50.661744700095;way/792657379;pharmacy;Pharmacie Blanckaert;;;;;590018750;;;;;;;59299;Hem
+3.20482494911102;50.6649920633642;way/793518601;nursing_home;Les Aulnes;;;;;590783429;500;;;senior;;;59299;Hem
+3.16396640832881;50.6086472838226;way/79508084;dentist;Drs DELCOURT Eric et TELLIEZ Pierre;;;yes;;;;;;;;+33 3 20 19 01 01;59009;Villeneuve-d'Ascq
+3.14078893492602;50.6048664413586;way/79508092;clinic;Clinique Médico-Psychologique des 4 Cantons;;;;24/7;;;;;;;+33 3 20 43 88 10;59009;Villeneuve-d'Ascq
+3.13869711404652;50.6084394809723;way/79508216;doctors;A10 SIUMPPS;;;;;;;;;;;;59009;Villeneuve-d'Ascq
+3.18712295233128;50.6961189658983;way/79515329;hospital;Hôpital de Jour Isabeau;;no;;;590802781;292;;;;;;59512;Roubaix
+3.18414676388246;50.6935616493428;way/79515573;pharmacy;Pharmacie du Progrès;;;;;590027637;;;;;;;59512;Roubaix
+3.1584374591459;50.6134752138842;way/79524676;pharmacy;Pharmacie de la Croix;;;;;590009502;;;;;;+33 3 20 84 31 13;59009;Villeneuve-d'Ascq
+3.16578237255329;50.6848632840562;way/79529492;pharmacy;Pharmacie Saint Exupéry;;;;;590027900;;;;;;;59512;Roubaix
+3.114496475426;50.6149787761606;way/79712143;pharmacy;Pharmacie du Grand Stade;;;yes;"Mo-Fr 09:00-12:30, 14:00-19:30; Sa 09:00-12:30";590020285;;;;;;+33 3 20 91 28 27;59346;Lezennes
+3.11720003769437;50.6167815028205;way/79713189;doctors;;;;;;;;;;;;;59346;Lezennes
+2.6373966089307;50.642630606648;way/79836770;pharmacy;Pharmacie Miquet;;;yes;;590024550;;;;;;;59400;Merville
+2.6398647853904;50.6427379663222;way/79837174;pharmacy;Pharmacie du Beffroi;;;;;590024535;;;;;;;59400;Merville
+2.67870674617834;50.6183716364835;way/799781073;nursing_home;Ehpad Antoine de Saint Éxupéry;;;;;620101923;500;;;senior;26620954300013;+33321616810;62502;Lestrem
+3.19344226828239;50.6822699834825;way/80147404;pharmacy;Pharmacie Ferries;;;;;590027751;;;;;;;59512;Roubaix
+2.79261502636674;50.458560915135;way/80269327;doctors;"Cabinet Médicale des Drs MACKOWIAK, DUBOIS et LIONE";;;;;;;;;;;;62528;Loos-en-Gohelle
+2.89287339245117;50.6821188578723;way/80608013;hospital;Établissement Public de Santé Mentale;;no;;;590000782;292;;;;;;59017;Armentières
+3.04705999831344;50.6690541363259;way/80908574;hospital;EPSM de l'Agglomération Lilloise Lommelet;;no;;;590001418;292;;;;;;59386;Marquette-lez-Lille
+2.73732131797853;50.7411295419317;way/81168079;doctors;;;;;;;;;;;;;59043;Bailleul
+3.09572764803763;50.3799599657606;way/813630155;nursing_home;Ehpad La Clochette;;;;;590787313;500;;;senior;39051955100027;+33327080900;59178;Douai
+3.07465748267956;50.3482901078071;way/813630163;nursing_home;Less Jardins de Théodore;;;;;590789863;500;;;senior;;+33327887905;59329;Lambres-lez-Douai
+3.09228050803514;50.4006378894739;way/813633797;nursing_home;Le Parc Fleuri;;;;;590814810;500;;;senior;38883660300042;+33327994560;59234;Flers-en-Escrebieux
+2.99200153058239;50.4181082143507;way/813637204;nursing_home;Ehpad La Rive d'Or;;;;;620117754;500;;;senior;77562993400636;+33321794950;62624;Noyelles-Godault
+3.05652184978874;50.4371027538139;way/813637209;nursing_home;Ehpad L'Orée du Bois;;;;;620027136;500;;;senior;;+33321184100;62497;Leforest
+3.08021711297952;50.5942333365967;way/813721392;nursing_home;Ehpad Arthur François;;;;;590043048;500;;;senior;26590220500045;+33320298045;59220;Faches-Thumesnil
+3.00772789410255;50.6105163560052;way/814241420;nursing_home;Ehpad Les Magnolias;;;;;590804456;500;;;senior;20003523600039;+33362210400;59360;Loos
+2.99549944386329;50.6021179474414;way/814241426;nursing_home;Résidence Vandevannet;;;;;590789848;500;;;senior;26590286600044;+33320072091;59286;Haubourdin
+3.08015856014721;50.6542629024092;way/814287001;nursing_home;Résidence Saint-Maur;;;;;590794384;500;;;senior;37871853000025;+33320156868;59378;Marcq-en-Barœul
+3.10653571878467;50.6492258582565;way/814287002;nursing_home;Ehpad Les Bruyères;;;;;590788030;500;;;senior;26590410200034;+33320798871;59410;Mons-en-Barœul
+3.08794704542166;50.6470247112702;way/814287003;nursing_home;Résidence Les Buissonnets;;;;;590790069;500;;;senior;31998292200035;+33320747488;59350;Lille
+3.15182722179296;50.6758090919928;way/814330813;nursing_home;Ehpad Les Orchidées;;;;;590811329;500;;;senior;38392936100038;+33320814141;59163;Croix
+3.10307625799529;50.6696767586359;way/814330814;nursing_home;Résidence Les Marronniers;;;;;590789962;500;;;senior;45111438300040;+33320726575;59378;Marcq-en-Barœul
+3.06659962179614;50.676628474108;way/814473528;nursing_home;Domaine de la Rivière;;;;;590797072;500;;;senior;50862856700010;+33320741842;59386;Marquette-lez-Lille
+3.24691459579358;50.6773350589572;way/814489816;nursing_home;Résidence des Cygnes;;;;;590045605;500;;;senior;26590339300030;+33320653900;59339;Leers
+3.20975009202956;50.6643878572548;way/814489835;nursing_home;Ehpad Les Orchidées;;;;;590817375;500;;;senior;;+33320206060;59332;Lannoy
+3.19773914196067;50.6822421035703;way/814528864;hospital;Hôpital de la Fraternité;;;;;590812186;355;;;;;;59512;Roubaix
+3.2118944521245;50.6809339742015;way/814528866;nursing_home;Résidence du Vert Pré;;;;;590048112;500;;;senior;26590672700242;+33320993106;59512;Roubaix
+3.09424622676989;50.7053384923967;way/814599224;nursing_home;Résidence Albert du Bosquiel;;;;;590783296;500;;;senior;26590714700028;+33320259460;59090;Bondues
+3.13015933796188;50.713886163227;way/814599231;nursing_home;Résidence Les Fougères;;;;;590812244;500;;;senior;26590700600117;+33320289700;59090;Bondues
+3.15329638921917;50.7237131422002;way/814599234;nursing_home;Ehpad Isabeau du Bosquel;;;;;590010468;500;;;senior;26590700600216;+33320234300;59599;Tourcoing
+3.14758079207668;50.7132921619082;way/814599270;nursing_home;Ehpad Henri Matisse;;;;;590022638;500;;;senior;39170486300045;+33320680440;59599;Tourcoing
+3.00380171783208;50.7141335666713;way/814638444;nursing_home;Ehpad Les Lys Blancs;;;;;590783536;500;;;senior;26590747700011;+33320789247;59482;Quesnoy-sur-Deûle
+2.83442650275174;50.7023890013271;way/814638445;nursing_home;Résidence Maguerite de Flandre;;;;;590782835;500;;;senior;26590745100016;+33320486885;59431;Nieppe
+2.77980517839345;50.699197480921;way/814638446;nursing_home;Résidence Abbé Lefrançois;;;;;590782850;500;;;senior;26590754300010;+33328499659;59581;Steenwerck
+3.06977953989452;50.7384263475264;way/814640016;nursing_home;Ehpad Le Jardin des Sens;;;;;590047023;500;;;senior;51851141500029;+33320032323;59352;Linselles
+2.87614255473583;50.4070056948577;way/814883812;nursing_home;Ehpad L'Orange Bleue;;;;;620022798;500;;;senior;41986768400120;+33361196061;62570;Méricourt
+2.85407623095013;50.4175636677221;way/814883819;nursing_home;Résidence Le Pain d'Alouette;;;;;620026112;500;;;senior;;+33321794000;62771;Sallaumines
+2.78598680686327;50.4056053485982;way/814883820;nursing_home;Résidence Gisèle Hernu;;;;;620016808;500;;;senior;48197889800031;+33321459900;62510;Liévin
+3.1919078124789;50.6675747293304;way/815407907;clinic;;;;;;;;;;;;;59299;Hem
+3.33355914600772;50.4788586937292;way/815517882;nursing_home;Résidence Le Pévelé;;;;;590787404;500;;;senior;;+33320615255;59551;Saméon
+3.28586504973428;50.4612328785483;way/815517887;nursing_home;Résidence Les Tilleuls;;;;;590797049;500;;;senior;;+33320618919;59080;Beuvry-la-Forêt
+3.24543771633396;50.4741234665902;way/815517888;nursing_home;Ehpad Marguerite de Flandre;;;;;590804969;500;;;senior;26590696600014;+33 3 20 61 81 51;59449;Orchies
+3.01696770821284;50.6149604825767;way/81726329;pharmacy;Pharmacie Adam;;;;;590022851;;;;;;;59360;Loos
+3.01453411035113;50.614982372392;way/81728718;pharmacy;Pharmacie de la Mairie;;;;;590022935;;;;;;;59360;Loos
+3.14395474853207;50.6870855378729;way/82266655;pharmacy;Pharmacie du Capreau;;;;"Mo-Sa 08:00-13:00, Mo-Fr 14:00-18:30, Sa 14:00-18:00";590032207;;;;;;;59646;Wasquehal
+3.13925885543506;50.6817570687227;way/82271608;pharmacy;Pharmacie Barrois;;;;;590032173;;;;;;;59646;Wasquehal
+3.13592541271278;50.678926548337;way/82276812;pharmacy;Pharmacie les Serres;;;;;590032132;;;;;;;59646;Wasquehal
+3.13396572520783;50.6680655217927;way/82276920;pharmacy;Pharmacie du Sart;Giphar;;yes;"Mo-Fr 09:00-12:30, 14:00-19:30;Sa 09:00-12:30";590032066;;;;;;+33320722569;59646;Wasquehal
+3.11702009448844;50.6877951065155;way/82277518;nursing_home;Résidence Le Molinel;;;;;590048070;500;;;senior;26590705500049;+33320896560;59646;Wasquehal
+2.71855698127719;50.644703790394;way/833016442;nursing_home;Les Charmilles;;;;;590782751;500;;;senior;;;59212;Estaires
+2.82944383950723;50.5970388742293;way/83532400;dentist;;;;;;;;;;;;;59025;Aubers
+2.82595814590576;50.5953209839376;way/83532747;pharmacy;Pharmacie Delahaye;;;;"Mo-Fr 08:45-12:15,14:15-19:30; Sa 08:45-12:15";590010237;;;;;;;59025;Aubers
+3.05453651160592;50.6236407852257;way/84402003;doctors;Docteur Philippe Cornu Médecine Generale;;;;"Mo,Tu,Th 07:00-08:30,13:15-18:30; We 07:00-11:45; Fr 07:00-08:30,13:15-16:00";;;;;;;;59350;Lille
+3.08777956090023;50.6499405134121;way/84930062;doctors;;Docteurs Debieuvre Delplanque;;;;;;;;;;+33320550972;59350;Lille
+3.09197757550908;50.6369866867072;way/84931916;doctors;Cabinet médical des docteurs Clery et Monaca;;;;;;;;;;;;59350;Lille
+3.09186886730017;50.6369916431783;way/84935962;pharmacy;Pharmacie de la Renaissance;;;yes;"Tu-Fr 09:00-12:15, Mo-Fr 14:00-19:15, Sa 09:00-12:00";590021986;;;;;;;59350;Lille
+3.09962233190204;50.6248183392152;way/85083945;doctors;Cabinet Médical Chanzy;;;;;;;;;;;;59350;Lille
+3.08921175803653;50.6331611215941;way/85084385;dentist;Cabinet dentaire 36 rue Bernos;;;;;;;;;;;;59350;Lille
+3.11083122138809;50.6265298344705;way/85087543;dentist;;;;;;;;;;;;;59350;Lille
+3.09601216869103;50.6311524578849;way/85087656;pharmacy;Pharmacie du Berger;;;yes;"Mo-Fr 09:00-12:15,14:00-19:30, Sa 09:00-12:15,14:00-18:00";590021150;;;;;;;59350;Lille
+3.09194977304306;50.6327032204031;way/85089899;pharmacy;Pharmacie du Soleil;;;yes;;590022000;;;;;;;59350;Lille
+3.11174870769174;50.6259516048629;way/85090070;pharmacy;Pharmacie de la Métropole;;;;"Mo-Fr 08:30-12:30,14:00-19:30, Sa 09:00-13:00";590020822;;;;;;;59350;Lille
+3.11079423788401;50.6265639034836;way/85090552;doctors;Cabinet de Kinésithérapie;;;;;;;;;;;;59350;Lille
+3.09418208379287;50.6234860619449;way/85090795;doctors;Docteur Frédéric Roels;;;yes;"7h30-9h ; 17h-19h ; jeudi/samedi 13h30-16h30";;;;;;;;59350;Lille
+3.09833809614861;50.6247816300983;way/85093061;pharmacy;Pharmacie Chanzy;;;;"Mo-Fr 08:45-12:30,14:00-19:30, Sa 08:45-13:00";590020970;;;;;;;59350;Lille
+3.09949850387067;50.6293843011092;way/85093659;pharmacy;Pharmacie de l'Octroi;;;;;590020566;;;;;;;59350;Lille
+3.11172370483658;50.6280728161555;way/85096566;clinic;Centre de soins infirmier Paul Clermont;;;;Mo-Fr 08:00-19:00;;;;;;;;59350;Lille
+3.09171869580476;50.6342438708096;way/85096865;doctors;;;;;;;;;;;;;59350;Lille
+3.08944256273869;50.6249153940706;way/85096939;doctors;Kinésithérapeuthe;;;limited;;;;;;;;;59350;Lille
+3.12280658972184;50.6216971827956;way/85097223;hospital;Centre de l'Espoir;;;;;;;;;;;;59350;Lille
+3.09670261568197;50.6340035558643;way/85097343;pharmacy;Pharmacie Reydet Gruson;;;limited;;590021366;;;;;;;59350;Lille
+3.094293745065;50.6235370418952;way/85098985;dentist;Docteur François Biard;;;;;;;;;;;;59350;Lille
+3.08831383439563;50.6263704511845;way/85099194;pharmacy;Pharmacie Freyburger;;;limited;;590020384;;;;;;;59350;Lille
+3.10727116299701;50.6276107498787;way/85099508;pharmacy;Pharmacie Gros Petrocchi;;;;;590020657;;;;;;;59350;Lille
+3.10552497061325;50.6284931235727;way/85101389;doctors;;;;;;;;;;;;;59350;Lille
+3.11060798148507;50.6266467158191;way/85101977;pharmacy;;;;;;590021002;;;;;;;59350;Lille
+3.14525246197526;50.6800091932475;way/85290633;nursing_home;Résidence les Ogiers;;;;;590783361;500;;;senior;26590721200012;+33328334110;59163;Croix
+3.0807065721145;50.7398633137615;way/85348952;nursing_home;Ehpad Rose d'Automne;;;;;590036505;500;;;senior;26590871500013;+33320032987;59352;Linselles
+3.13495699189865;50.4122110474649;way/85968787;pharmacy;;;;;;590026423;;;;;;;59486;Râches
+2.81815025304969;50.4391273019419;way/87454300;hospital;Centre hospitalier de Lens;;yes;;;620000257;355;;;;;+33 3 21 69 12 34;62498;Lens
+2.85488879215541;50.4955786661163;way/92150113;doctors;Cabinet de radiologie;;;;;;;;;;;;62895;Wingles
+2.85554585682597;50.4951773659103;way/92155751;pharmacy;Pharmacie Montaigne;;;;;620017764;;;;;;;62895;Wingles
+2.85008558395115;50.4905624233475;way/92156968;hospital;Centre de Santé Médical;;;;;620116111;124;;;;;;62895;Wingles
+2.84354136467248;50.4907230301371;way/92157015;pharmacy;Pharmacie des Provinces;;;;;620017731;;;;;;;62895;Wingles
+3.07719868842107;50.6200877265786;way/94957598;hospital;Hôpital Saint-Vincent de Paul;;yes;yes;;590797353;697;;;;;+33 3 20 87 48 48;59350;Lille
+2.98458948003953;50.6250884359667;way/95269552;pharmacy;Pharmacie du Vert Touquet;;;;;590029450;;;;;;;59566;Sequedin
