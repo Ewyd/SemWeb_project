@@ -27,7 +27,6 @@
         	
         			for( int i = 0; i < rs.size(); i++ ){
         				out.println("<tr>");
-                		//out.println("<li><a href=/SemWebApp/sect?secteur=dept&id=" + cd.get(i) + ">" + cd.get(i) + " - " + rs.get(i) + "</a></li>");
             			out.println("<td> " + cd.get(i) + "</td>");
             			out.println("<td><a href=/SemWebApp/sect?secteur=dept&id=" + cd.get(i) + ">" + rs.get(i) + "</a></td>"); 
             			out.println("</tr>");

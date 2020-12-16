@@ -23,10 +23,12 @@
 			String url_reg = url + "/regions";
 			String url_dept = url + "/departements";
 			String url_all = url + "/all-stations";
+			String url_search = url + "/search";
 			
 			out.println("<li><a href=" + url_reg + ">Sort by regions</a></li>");
 			out.println("<li><a href=" + url_dept + ">Sort by department</a></li>");
 			out.println("<li><a href=" + url_all + ">All stations</a></li>");
+			out.println("<li><a href=" + url_search + ">Search the nearest stations</a></li>");
 			%>
 		</ul>
     </body>

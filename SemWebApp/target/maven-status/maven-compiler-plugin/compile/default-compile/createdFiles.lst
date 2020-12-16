@@ -1,7 +1,14 @@
-com\emse\semweb\beans\WebAppUrl.class
+com\emse\semweb\servlets\Search.class
+com\emse\semweb\beans\Coordinates.class
 com\emse\semweb\servlets\Home.class
-com\emse\semweb\servlets\ByRegions.class
+com\emse\semweb\beans\AllTheStations.class
 com\emse\semweb\beans\Departements.class
+com\emse\semweb\servlets\ByCoordinates.class
+com\emse\semweb\beans\WebAppUrl.class
+com\emse\semweb\beans\StationsSecteur.class
+com\emse\semweb\servlets\AllStations.class
+com\emse\semweb\servlets\ByRegions.class
 com\emse\semweb\servlets\ByDepartements.class
 com\emse\semweb\beans\Ontology.class
+com\emse\semweb\servlets\Secteur.class
 com\emse\semweb\beans\Regions.class

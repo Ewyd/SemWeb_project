@@ -14,6 +14,7 @@ public class Ontology{
 	private String geoWithin;
 	private String hasId;
 	private String TrainStationsDB;
+	private String distance;
 	
 	
 	
@@ -44,6 +45,8 @@ public class Ontology{
 		this.geoWithin = geoWithin;
 		String hasId = Schemas + "identifier";
 		this.hasId = hasId;
+		String distance = Schemas + "distance";
+		this.distance = distance;
 		
 		this.TrainStationsDB = "http://localhost:3030/n_test_dataset";
 	}
@@ -57,7 +60,6 @@ public class Ontology{
 	public String getRegions() {
 		return regions;
 	}
-
 
 
 	public String getDepts() {
@@ -116,6 +118,10 @@ public class Ontology{
 
 	public String getTrainStationsDB() {
 		return TrainStationsDB;
+	}
+
+	public String getDistance() {
+		return distance;
 	}
 	
 	

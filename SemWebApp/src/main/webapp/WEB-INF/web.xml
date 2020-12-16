@@ -27,6 +27,14 @@
   	<servlet-name>Secteur</servlet-name>
   	<servlet-class>com.emse.semweb.servlets.Secteur</servlet-class>
   </servlet>
+  <servlet>
+  	<servlet-name>Search</servlet-name>
+  	<servlet-class>com.emse.semweb.servlets.Search</servlet-class>
+  </servlet>
+  <servlet>
+  	<servlet-name>ByCoordinates</servlet-name>
+  	<servlet-class>com.emse.semweb.servlets.ByCoordinates</servlet-class>
+  </servlet>
   
   <servlet-mapping>
   	<servlet-name>Home</servlet-name>
@@ -47,6 +55,14 @@
   <servlet-mapping>
   	<servlet-name>Secteur</servlet-name>
   	<url-pattern>/sect</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+  	<servlet-name>Search</servlet-name>
+  	<url-pattern>/search</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+  	<servlet-name>ByCoordinates</servlet-name>
+  	<url-pattern>/coordinates</url-pattern>
   </servlet-mapping>
   
   
