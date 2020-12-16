@@ -4,7 +4,7 @@
 <!DOCTYPE html>
 
 
-<html>
+<html prefix = "ex: <http://example.org/>.">
     <head>
         <meta charset="utf-8" />
         <title>Sort by regions</title>
@@ -12,7 +12,7 @@
 
     <body>
         <h1>Sort by region </h1>
-        <h2>Choose the region to access the stations</h2>
+        <h2 ex:regions>Choose the region to access the stations</h2>
 
         <table style="width:20%">
             <tr>
