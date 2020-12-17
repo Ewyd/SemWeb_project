@@ -14,7 +14,7 @@
         <h1>Sort by department</h1>
         <h2>Choose the department to access the stations</h2>
 
-        <table>
+        <table style="width:90%">
         	<tr>
         		<th>Department_id</th>
         		<th>Department_name</th>
