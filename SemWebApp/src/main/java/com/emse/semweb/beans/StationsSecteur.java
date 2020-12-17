@@ -34,9 +34,9 @@ public class StationsSecteur {
 		String graphStore = datasetURL + "/data";
 		RDFConnection conneg = RDFConnectionFactory.connect(sparqlEndpoint,sparqlUpdate,graphStore);
 		
-		Query query; 
 		
-		if (this.secteur.equals("reg")) {
+		
+		/*if (this.secteur.equals("reg")) {
 			String uri_reg = o.getRegions() + this.id;
 			query = QueryFactory.create("SELECT ?st ?station ?id ?lat ?lon ?dept ?name_reg\r\n"
 					+ "WHERE {\r\n"
@@ -67,7 +67,25 @@ public class StationsSecteur {
 					+ "}\r\n"
 					+ "ORDER BY ASC(?station) \r\n"
 					+ "LIMIT 1000");
-		}
+		}*/
+		Query query; 
+		
+		String uri_dept = o.getDepts() + this.id;
+		query = QueryFactory.create("SELECT ?st ?station ?id ?lat ?lon ?dept ?city\r\n"
+				+ "WHERE {\r\n"
+				+ "  ?st <" + o.getHasName() + "> ?station.\r\n"
+				+ "  ?st <" + o.getHasId() + "> ?id.\r\n"
+				+ "  ?st <" + o.getHasLatitude() + "> ?lat.\r\n"
+				+ "  ?st <" + o.getHasLongitude() + "> ?lon.\r\n"
+				+ "  ?st <" + o.getAddressLocality() + "> <" + uri_dept + ">.\r\n"
+				+ "  ?st <" + o.getAddressLocality() + "> ?id_dept.\r\n"
+				+ "  ?id_dept <" + o.getHasName() + "> ?dept. \r\n"
+				+ "  ?st <" + o.getAddress() + "> ?id_city. \r\n"
+				+ "  ?id_city <" + o.getHasName() + "> ?city. \r\n"
+				+ "}\r\n"
+				+ "ORDER BY ASC(?station) \r\n"
+				+ "LIMIT 1000");			
+
 
 		QueryExecution qExec = conneg.query(query) ;
 		ResultSet rs = qExec.execSelect() ; 
@@ -79,13 +97,12 @@ public class StationsSecteur {
 		List<String> latitudes = new ArrayList<String>();
 		List <String> longitudes = new ArrayList<String>();
 		List <String> depts = new ArrayList<String>();
-		List<String> region = new ArrayList<String>();
+		//List<String> region = new ArrayList<String>();
+		List<String> cities = new ArrayList<String>();
 		Map<String, List<String>> all = new HashMap<String, List<String>>();
 		
 
-		Integer i = 0;
     	while(rs.hasNext()) {
-    		i = i + 1;
     		
 		    QuerySolution qs = rs.next() ;
 		    
@@ -95,6 +112,7 @@ public class StationsSecteur {
 		    String lat = (String) qs.getLiteral("lat").getString();
 		    String lon = (String) qs.getLiteral("lon").getString();
 		    String dept = (String) qs.getLiteral("dept").getString();
+		    String city = (String) qs.getLiteral("city").getString();
 
 
 		    stations_uri.add(station_uri);
@@ -103,11 +121,7 @@ public class StationsSecteur {
 		    latitudes.add(lat);
 		    longitudes.add(lon);
 		    depts.add(dept);
-		    
-			if (this.secteur.equals("reg")) {
-		    	String reg = (String) qs.getLiteral("name_reg").getString();
-		    	region.add(reg);
-		    }
+		    cities.add(city);
 		    
 		    
 		}
@@ -122,9 +136,10 @@ public class StationsSecteur {
 		all.put("lat", latitudes);
 		all.put("lon", longitudes);
 		all.put("depts", depts);
-		if (this.secteur.equals("reg")) {
+		all.put("cities", cities);
+		/*if (this.secteur.equals("reg")) {
 			all.put("region", region);
-		}
+		}*/
 		
 		return all;
 	}

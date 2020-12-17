@@ -1,4 +1,4 @@
-package com.emse.semweb.beans;
+package database;
 
 public class Ontology{
 	
@@ -16,7 +16,6 @@ public class Ontology{
 	private String geoWithin;
 	private String hasId;
 	private String openingHours;
-	private String distance;
 	
 	private String TrainStationsDB;
 	
@@ -55,8 +54,6 @@ public class Ontology{
 		this.hasId = hasId;
 		String openingHours = Schemas + "openingHours";
 		this.openingHours = openingHours;
-		String distance = Schemas + "distance";
-		this.distance = distance;
 		
 		this.TrainStationsDB = "http://localhost:3030/DB_TrSt";
 	}
@@ -141,10 +138,6 @@ public class Ontology{
 
 	public String getOpeningHours() {
 		return openingHours;
-	}
-
-	public String getDistance() {
-		return distance;
 	}
 	
 	

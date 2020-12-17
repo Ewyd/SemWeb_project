@@ -38,7 +38,8 @@
     		List<String> latitudes = (List<String>) request.getAttribute("lat");
     		List<String> longitudes = (List<String>) request.getAttribute("lon");
     		List<String> depts = (List<String>) request.getAttribute("depts");
-    		List<String> regions = (List<String>) request.getAttribute("regions");
+    		//List<String> regions = (List<String>) request.getAttribute("regions");
+    		List<String> cities = (List<String>) request.getAttribute("cities");
     		List<String> distances = (List<String>) request.getAttribute("distances");
         	
     		Ontology o = new Ontology();    		
@@ -49,18 +50,21 @@
         		out.println("</p>");
         	}
     		else{
-    			out.println("<tr> <th>Station number </th> <th>Station name </th> <th>Department name </th> <th>Latitude </th> <th>Longitude </th> <th>Approximate distance </th></tr> ");
+    			out.println("<tr> <th>Station id </th> <th>Station name </th> <th>City </th> <th>Department name </th> <th>Latitude </th> <th>Longitude </th> <th>Approximate distance </th></tr> ");
     		}
     		for( int i = 0; i < stations.size(); i++ ){
         		out.println("<tr about=\"" + stations_uri.get(i) +  "\">");
         		
                	out.println("<td rel=\"" + o.getHasId() + "\" datatype=\"xsd:integer\">"+ stations_id.get(i) + "</td>");
-               	out.println("<td property=\"" + o.getHasName() +  "\">" + stations.get(i) + "</td>");
-               	out.println("<td property=\"" + o.getAddressRegion() +  "\">" +  depts.get(i) + "</td>");
+               	out.println("<td property=\"" + o.getHasName() +  "\"> <a href=\"/SemWebApp/station?id=" + stations_id.get(i) + "\">" + stations.get(i) + "</a></td>");
+               	out.println("<td property=\"" + o.getAddress() +  "\">" + cities.get(i) + "</td>");
+               	out.println("<td property=\"" + o.getAddressLocality() +  "\">" +  depts.get(i) + "</td>");
                	out.println("<td property=\"" + o.getHasLatitude() + "\" datatype=\"xsd:float\">" + latitudes.get(i) + "</td>");
                	out.println("<td property=\"" + o.getHasLongitude() + "\" datatype=\"xsd:float\">" + longitudes.get(i) + "</td>");
                	out.println("<td property=\"" + o.getDistance() + "\" datatype=\"xsd:float\">" + distances.get(i).substring(0, 6) + "kms</td>");
                 	
+               	
+               	
                	out.println("</tr>");
         	}
         	

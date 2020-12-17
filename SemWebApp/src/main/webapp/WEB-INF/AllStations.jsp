@@ -46,21 +46,22 @@
     		List<String> latitudes = (List<String>) request.getAttribute("lat");
     		List<String> longitudes = (List<String>) request.getAttribute("lon");
     		List<String> depts = (List<String>) request.getAttribute("depts");
-    		List<String> regions = (List<String>) request.getAttribute("regions");
-        	
+        	List<String> cities = (List<String>) request.getAttribute("cities");
+    		
     		Ontology o = new Ontology();    		
     		
     		
     		
     		
-    		if ((secteur == null)||(secteur.equals("reg"))){
-    			out.println("<tr> <th> Station number </th> <th> Station name </th> <th> Department name </th> <th> Latitude </th> <th> Longitude </th> </tr> ");
+    		if (secteur == null){
+    			out.println("<tr> <th> Station number </th> <th> Station name </th><th>City </th> <th> Department name </th> <th> Latitude </th> <th> Longitude </th> </tr> ");
         		for( int i = 0; i < stations.size(); i++ ){
         			out.println("<tr about=\"" + stations_uri.get(i) +  "\">");
         			
                 	out.println("<td rel=\"" + o.getHasId() + "\" datatype=\"xsd:integer\">"+ stations_id.get(i) + "</td>");
-                	out.println("<td property=\"" + o.getHasName() +  "\">" + stations.get(i) + "</td>");
-                	out.println("<td property=\"" + o.getAddressRegion() +  "\">" +  depts.get(i) + "</td>");
+                	out.println("<td property=\"" + o.getHasName() +  "\"> <a href=\"/SemWebApp/station?id=" + stations_id.get(i) + "\">" + stations.get(i) + "</a></td>");
+                	out.println("<td property=\"" + o.getAddress() +  "\">" + cities.get(i) + "</td>");
+                	out.println("<td property=\"" + o.getAddressLocality() +  "\">" +  depts.get(i) + "</td>");
                 	out.println("<td property=\"" + o.getHasLatitude() + "\" datatype=\"xsd:float\">" + latitudes.get(i) + "</td>");
                 	out.println("<td property=\"" + o.getHasLongitude() + "\" datatype=\"xsd:float\">" + longitudes.get(i) + "</td>");
                 	
@@ -69,12 +70,14 @@
         		
     		}
     		else if (secteur.equals("dept")){
-    			out.println("<tr> <th> Station number </th> <th> Station name </th> <th> Latitude </th> <th> Longitude </th> </tr>");
+    			out.println("<tr> <th> Station ID </th> <th> Station name </th> <th>City </th> <th> Latitude </th> <th> Longitude </th> </tr>");
     			for( int i = 0; i < stations.size(); i++ ){
-    				out.println("<tr>");
+    				out.println("<tr about=\"" + stations_uri.get(i) +  "\">");
 
     				out.println("<td rel=\"" + o.getHasId() + "\" datatype=\"xsd:integer\">"+ stations_id.get(i) + "</td>");
-    				out.println("<td property=\"" + o.getHasName() +  "\">" + stations.get(i) + "</td>");	
+    				out.println("<td property=\"" + o.getHasName() +  "\"> <a href=\"/SemWebApp/station?id=" + stations_id.get(i) + "\">" + stations.get(i) + "</a></td>");
+
+                	out.println("<td property=\"" + o.getAddress() +  "\">" + cities.get(i) + "</td>");
     				out.println("<td property=\"" + o.getHasLatitude() + "\" datatype=\"xsd:float\">" + latitudes.get(i) + "</td>");
                 	out.println("<td property=\"" + o.getHasLongitude() + "\" datatype=\"xsd:float\">" + longitudes.get(i) + "</td>");
     				

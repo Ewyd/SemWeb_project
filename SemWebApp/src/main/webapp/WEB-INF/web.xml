@@ -12,10 +12,6 @@
   	<servlet-class>com.emse.semweb.servlets.Home</servlet-class>
   </servlet>	  
   <servlet>
-  	<servlet-name>ByRegions</servlet-name>
-  	<servlet-class>com.emse.semweb.servlets.ByRegions</servlet-class>
-  </servlet>
-  <servlet>
   	<servlet-name>ByDepts</servlet-name>
   	<servlet-class>com.emse.semweb.servlets.ByDepartements</servlet-class>
   </servlet>
@@ -35,14 +31,14 @@
   	<servlet-name>ByCoordinates</servlet-name>
   	<servlet-class>com.emse.semweb.servlets.ByCoordinates</servlet-class>
   </servlet>
+  <servlet>
+  	<servlet-name>Station</servlet-name>
+  	<servlet-class>com.emse.semweb.servlets.Station</servlet-class>
+  </servlet>
   
   <servlet-mapping>
   	<servlet-name>Home</servlet-name>
   	<url-pattern>/home</url-pattern>
-  </servlet-mapping>
-  <servlet-mapping>
-  	<servlet-name>ByRegions</servlet-name>
-  	<url-pattern>/regions</url-pattern>
   </servlet-mapping>
   <servlet-mapping>
   	<servlet-name>ByDepts</servlet-name>
@@ -63,6 +59,10 @@
   <servlet-mapping>
   	<servlet-name>ByCoordinates</servlet-name>
   	<url-pattern>/coordinates</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+  	<servlet-name>Station</servlet-name>
+  	<url-pattern>/station</url-pattern>
   </servlet-mapping>
   
   

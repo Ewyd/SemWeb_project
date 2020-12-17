@@ -48,7 +48,7 @@ public class Coordinates {
 		String graphStore = datasetURL + "/data";
 		RDFConnection conneg = RDFConnectionFactory.connect(sparqlEndpoint,sparqlUpdate,graphStore);
 		
-		Query query = QueryFactory.create(" PREFIX math: <http://www.w3.org/2005/xpath-functions/math#>\r\n"
+		/*Query query = QueryFactory.create(" PREFIX math: <http://www.w3.org/2005/xpath-functions/math#>\r\n"
 				+ "SELECT ?st ?station ?id ?lat ?lon ?region ?dept ?dist_c\r\n"
 				+ "WHERE {\r\n"
 				+ "  ?st <" + o.getHasName() + "> ?station.\r\n"
@@ -65,8 +65,27 @@ public class Coordinates {
 				+ "  FILTER (?dist_c < " + this.max_dist + ")\r\n"
 				+ "}\r\n"
 				+ "ORDER BY ASC(?dist_c)\r\n"
-				+ "LIMIT " + this.num_results);
+				+ "LIMIT " + this.num_results);*/
 
+		Query query = QueryFactory.create(" PREFIX math: <http://www.w3.org/2005/xpath-functions/math#>\r\n"
+				+ "SELECT ?st ?station ?id ?lat ?lon ?city ?dept ?dist_c\r\n"
+				+ "WHERE {\r\n"
+				+ "  ?st <" + o.getHasName() + "> ?station.\r\n"
+				+ "  ?st <" + o.getHasId() + "> ?id.\r\n"
+				+ "  ?st <" + o.getHasLatitude() + "> ?lat.\r\n"
+				+ "  ?st <" + o.getHasLongitude() + "> ?lon.\r\n"
+				+ "  ?st <" + o.getAddressLocality() + "> ?dept_id.\r\n"
+				+ "  ?st <" + o.getAddress() + "> ?city_id.\r\n"
+				+ "  ?city_id <" + o.getHasName() + "> ?city.\r\n"
+				+ "  ?dept_id <" + o.getHasName() + "> ?dept.\r\n"
+				+ "  BIND ((?lon - " + this.lon + ") as ?dlon)\r\n"
+				+ "  BIND ((6371 * math:acos(math:sin(?lat*math:pi()/180)*math:sin(" + this.lat +  "*math:pi()/180)" 
+				+ "+ math:cos(?lat*math:pi()/180)*math:cos(" + this.lat + "*math:pi()/180)*math:cos(?dlon*math:pi()/180))) AS ?dist_c)\r\n"
+				+ "  FILTER (?dist_c < " + this.max_dist + ")\r\n"
+				+ "}\r\n"
+				+ "ORDER BY ASC(?dist_c)\r\n"
+				+ "LIMIT " + this.num_results);
+		
 		QueryExecution qExec = conneg.query(query) ;
 		ResultSet rs = qExec.execSelect() ; 
 
@@ -77,7 +96,9 @@ public class Coordinates {
 		List<String> latitudes = new ArrayList<String>();
 		List <String> longitudes = new ArrayList<String>();
 		List <String> depts = new ArrayList<String>();
-		List<String> regions = new ArrayList<String>();
+		//List<String> regions = new ArrayList<String>();
+		List<String> cities = new ArrayList<String>();
+		
 		List<String> distances = new ArrayList<String>();
 		Map<String, List<String>> all = new HashMap<String, List<String>>();
 		
@@ -94,7 +115,8 @@ public class Coordinates {
 		    String lat = (String) qs.getLiteral("lat").getString();
 		    String lon = (String) qs.getLiteral("lon").getString();
 		    String dept = (String) qs.getLiteral("dept").getString();
-		    String region = (String) qs.getLiteral("region").getString();
+		    //String region = (String) qs.getLiteral("region").getString();
+		    String city = (String) qs.getLiteral("city").getString();
 		    String dist = (String) qs.getLiteral("dist_c").getString();
 
 
@@ -104,7 +126,8 @@ public class Coordinates {
 		    latitudes.add(lat);
 		    longitudes.add(lon);
 		    depts.add(dept);
-		    regions.add(region);
+		    //regions.add(region);
+		    cities.add(city);
 		    distances.add(dist);
 		    
 		    
@@ -119,7 +142,8 @@ public class Coordinates {
 		all.put("lat", latitudes);
 		all.put("lon", longitudes);
 		all.put("depts", depts);
-		all.put("regions", regions);
+		//all.put("regions", regions);
+		all.put("cities", cities);
 		all.put("distances", distances);
 		
 		return all;
