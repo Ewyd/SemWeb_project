@@ -34,40 +34,6 @@ public class StationsSecteur {
 		String graphStore = datasetURL + "/data";
 		RDFConnection conneg = RDFConnectionFactory.connect(sparqlEndpoint,sparqlUpdate,graphStore);
 		
-		
-		
-		/*if (this.secteur.equals("reg")) {
-			String uri_reg = o.getRegions() + this.id;
-			query = QueryFactory.create("SELECT ?st ?station ?id ?lat ?lon ?dept ?name_reg\r\n"
-					+ "WHERE {\r\n"
-					+ "  ?st <" + o.getHasName() + "> ?station.\r\n"
-					+ "  ?st <" + o.getHasId() + "> ?id.\r\n"
-					+ "  ?st <" + o.getHasLatitude() + "> ?lat.\r\n"
-					+ "  ?st <" + o.getHasLongitude() + "> ?lon.\r\n"
-					+ "  ?st <" + o.getAddressLocality() + "> ?dept_id.\r\n"
-					+ "  ?st <" + o.getAddressRegion() + "> <" + uri_reg + ">.\r\n"
-					+ "  ?st <" + o.getAddressRegion() + "> ?id_reg.\r\n"
-					+ "  ?id_reg <" + o.getHasName() + "> ?name_reg. \r\n"
-					+ "  ?dept_id <" + o.getHasName() + "> ?dept.\r\n"
-					+ "}\r\n"
-					+ "ORDER BY ASC(?station) \r\n"
-					+ "LIMIT 1000");
-		}
-		else{
-			String uri_dept = o.getDepts() + this.id;
-			query = QueryFactory.create("SELECT ?st ?station ?id ?lat ?lon ?dept\r\n"
-					+ "WHERE {\r\n"
-					+ "  ?st <" + o.getHasName() + "> ?station.\r\n"
-					+ "  ?st <" + o.getHasId() + "> ?id.\r\n"
-					+ "  ?st <" + o.getHasLatitude() + "> ?lat.\r\n"
-					+ "  ?st <" + o.getHasLongitude() + "> ?lon.\r\n"
-					+ "  ?st <" + o.getAddressLocality() + "> <" + uri_dept + ">.\r\n"
-					+ "  ?st <" + o.getAddressLocality() + "> ?id_dept.\r\n"
-					+ "  ?id_dept <" + o.getHasName() + "> ?dept. \r\n"
-					+ "}\r\n"
-					+ "ORDER BY ASC(?station) \r\n"
-					+ "LIMIT 1000");
-		}*/
 		Query query; 
 		
 		String uri_dept = o.getDepts() + this.id;
@@ -97,7 +63,6 @@ public class StationsSecteur {
 		List<String> latitudes = new ArrayList<String>();
 		List <String> longitudes = new ArrayList<String>();
 		List <String> depts = new ArrayList<String>();
-		//List<String> region = new ArrayList<String>();
 		List<String> cities = new ArrayList<String>();
 		Map<String, List<String>> all = new HashMap<String, List<String>>();
 		
@@ -137,10 +102,7 @@ public class StationsSecteur {
 		all.put("lon", longitudes);
 		all.put("depts", depts);
 		all.put("cities", cities);
-		/*if (this.secteur.equals("reg")) {
-			all.put("region", region);
-		}*/
-		
+
 		return all;
 	}
 

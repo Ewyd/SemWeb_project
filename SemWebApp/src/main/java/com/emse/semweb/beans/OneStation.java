@@ -47,7 +47,6 @@ public class OneStation {
 				+ "ORDER BY ASC(?station) \r\n"
 				+ "LIMIT 1000");
 		
-		System.out.print(query);
 		
 		QueryExecution qExec = conneg.query(query) ;
 		ResultSet rs = qExec.execSelect() ; 

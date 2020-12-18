@@ -31,20 +31,6 @@ public class AllTheStations {
 		String graphStore = datasetURL + "/data";
 		RDFConnection conneg = RDFConnectionFactory.connect(sparqlEndpoint,sparqlUpdate,graphStore);
 		
-		/*Query query = QueryFactory.create("SELECT ?st ?station ?id ?lat ?lon ?region ?dept \r\n"
-				+ "WHERE {\r\n"
-				+ "  ?st <" + o.getHasName() + "> ?station.\r\n"
-				+ "  ?st <" + o.getHasId() + "> ?id.\r\n"
-				+ "  ?st <" + o.getHasLatitude() + "> ?lat.\r\n"
-				+ "  ?st <" + o.getHasLongitude() + "> ?lon.\r\n"
-				+ "  ?st <" + o.getAddressLocality() + "> ?dept_id.\r\n"
-				+ "  ?st <" + o.getAddressRegion() + "> ?reg_id.\r\n"
-				+ "  ?reg_id <" + o.getHasName() + "> ?region.\r\n"
-				+ "  ?dept_id <" + o.getHasName() + "> ?dept.\r\n"
-				+ "}\r\n"
-				+ "ORDER BY ASC(?station)\r\n"
-				+ "LIMIT 1000");*/
-		
 		Query query = QueryFactory.create("SELECT ?st ?station ?id ?lat ?lon ?city ?dept \r\n"
 				+ "WHERE {\r\n"
 				+ "  ?st <" + o.getHasName() + "> ?station.\r\n"
@@ -59,7 +45,6 @@ public class AllTheStations {
 				+ "ORDER BY ASC(?station)\r\n"
 				+ "LIMIT 1000");
 		
-		System.out.print(query);
 		
 		QueryExecution qExec = conneg.query(query) ;
 		ResultSet rs = qExec.execSelect() ; 
@@ -71,7 +56,6 @@ public class AllTheStations {
 		List<String> latitudes = new ArrayList<String>();
 		List <String> longitudes = new ArrayList<String>();
 		List <String> depts = new ArrayList<String>();
-		//List<String> regions = new ArrayList<String>();
 		
 		List<String> cities = new ArrayList<String>();
 		
@@ -90,7 +74,6 @@ public class AllTheStations {
 		    String lat = (String) qs.getLiteral("lat").getString();
 		    String lon = (String) qs.getLiteral("lon").getString();
 		    String dept = (String) qs.getLiteral("dept").getString();
-		    //String region = (String) qs.getLiteral("region").getString();
 
 		    String city = (String) qs.getLiteral("city").getString();
 		    
@@ -100,7 +83,6 @@ public class AllTheStations {
 		    latitudes.add(lat);
 		    longitudes.add(lon);
 		    depts.add(dept);
-		    //regions.add(region);
 		    cities.add(city);
 		    
 		}
@@ -114,7 +96,6 @@ public class AllTheStations {
 		all.put("lat", latitudes);
 		all.put("lon", longitudes);
 		all.put("depts", depts);
-		//all.put("regions", regions);
 		all.put("cities", cities);
 		
 		return all;

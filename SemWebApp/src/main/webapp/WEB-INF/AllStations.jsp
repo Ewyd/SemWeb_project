@@ -18,17 +18,10 @@
         	if (id == null){
         		out.println("All stations sort by alphabetic order");
         	}
-        	else{
-        		if (secteur.equals("reg")) {
-        			List<String> regs = (List<String>) request.getAttribute("region");
-        			String name_reg = (String) (regs.get(0));
-        			out.println("Stations located in region : " + name_reg);
-        		}
-        		else{
+        	else if (secteur.equals("dept")) {
         			List<String> dpts = (List<String>) request.getAttribute("depts");
         			String name_dept = (String) (dpts.get(0));
         			out.println("Stations located in department : " + name_dept);
-        		}
         	}
         
         
@@ -37,7 +30,7 @@
         <% 
         	out.println("<h2> Every station comes with its geographic coordinates </h2>");
         %>
-        <table style="width:60%">
+        <table style="width:50%">
         <%     		
     		
     		List<String> stations_uri = (List<String>) request.getAttribute("stations_uri");

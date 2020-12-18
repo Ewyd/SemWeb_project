@@ -38,7 +38,6 @@
     		List<String> latitudes = (List<String>) request.getAttribute("lat");
     		List<String> longitudes = (List<String>) request.getAttribute("lon");
     		List<String> depts = (List<String>) request.getAttribute("depts");
-    		//List<String> regions = (List<String>) request.getAttribute("regions");
     		List<String> cities = (List<String>) request.getAttribute("cities");
     		List<String> distances = (List<String>) request.getAttribute("distances");
         	
