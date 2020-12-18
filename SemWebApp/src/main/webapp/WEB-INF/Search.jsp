@@ -17,7 +17,7 @@
 				out.println("Error while processing your request. <br/>");
 				out.println("Please make sure that all the fields are correctly fulfilled. <br/>");
 				out.println("Latitude and longitude should be floating numbers (with \".\", not \",\") or integers. <br/>");
-				out.println("The distance and the number of results should be integers. <br/>");
+				out.println("The distance and the number of results should be integers. <br/><br/>");
 				out.println("</p>");
 				out.println("<br/>");
 			}
@@ -32,12 +32,12 @@
 				<p>Please enter your coordinates</p>
 				
 				<label for="latitude">Latitude*</label>
-				<input type="text" id="latitude" name="latitude" value="" size="20"/>
+				<input type="text" id="latitude" name="latitude" value="45" size="20"/>
 				<br/>
 				<br/>
 				
 				<label for="longitude">Longitude*</label>
-				<input type="text" id="longitude" name="longitude" value="" size="20"/>
+				<input type="text" id="longitude" name="longitude" value="5" size="20"/>
 				<br/>
 				<br/>
 				
