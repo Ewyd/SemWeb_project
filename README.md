@@ -43,7 +43,7 @@ To test the project and search for train stations, you must follow the next step
 - Launch Jena Fuseki, create a database "DB_TrSt".
 - Launch database.main from your Java IDE.
 - Execute the Web application: here is a [tutorial](https://o7planning.org/fr/10133/executez-l-application-web-java-maven-dans-tomcat-maven-plugin) if don't know how to use Tomcat.
-- Go the following webpage: localhost:8080/SemWebApp.
+- Go the following webpage: **localhost:8080/SemWebApp**.
 
 If everything worked well, you should now be on the "Train stations localisation web app" webpage
 
