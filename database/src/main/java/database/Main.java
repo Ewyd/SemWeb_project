@@ -1,12 +1,6 @@
 package database;
 
 import org.apache.jena.datatypes.xsd.XSDDatatype;
-import org.apache.jena.query.Query;
-import org.apache.jena.query.QueryExecution;
-import org.apache.jena.query.QueryFactory;
-import org.apache.jena.query.QuerySolution;
-import org.apache.jena.query.ResultSet;
-import org.apache.jena.query.ResultSetFormatter;
 import org.apache.jena.rdf.model.Literal;
 import org.apache.jena.rdf.model.Model;
 import org.apache.jena.rdf.model.ModelFactory;
@@ -21,13 +15,10 @@ import com.opencsv.CSVParserBuilder;
 import com.opencsv.CSVReader;
 import com.opencsv.CSVReaderBuilder;
 
-import java.io.FileReader;
 import java.io.IOException;
 import java.io.Reader;
-import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
 import java.nio.file.Paths;
-import java.util.function.Consumer;
 
 public class Main {
 	
@@ -41,7 +32,6 @@ public class Main {
 		Ontology o = new Ontology();
 				
 		Resource stations = model.createResource(o.getStations());
-		//Resource regions = model.createResource(o.getRegions());
 		Resource depts = model.createResource(o.getDepts());
 		Resource cities = model.createResource(o.getCities());
 
@@ -50,7 +40,6 @@ public class Main {
 		Property hasName = model.createProperty(o.getHasName());
 		Property hasLatitude = model.createProperty(o.getHasLatitude());
 		Property hasLongitude = model.createProperty(o.getHasLongitude());
-		//Property addressRegion = model.createProperty(o.getAddressRegion());
 		Property address = model.createProperty(o.getAddress());
 		Property addressLocality = model.createProperty(o.getAddressLocality());
 		Property geoWithin = model.createProperty(o.getGeoWithin());
@@ -59,9 +48,6 @@ public class Main {
 		CSVParser parser = new CSVParserBuilder().withSeparator(';').build();
 		Reader stations_reader = Files.newBufferedReader(Paths.get(FILE_STATIONS));
 		CSVReader stations_csvreader = new CSVReaderBuilder(stations_reader).withCSVParser(parser).build();
-		
-		//Reader stations_reader = new FileReader(FILE_STATIONS, StandardCharsets.UTF_8);
-		//CSVReader stations_csvreader = new CSVReader(stations_reader);
 	    
 		String[] next_line;
 		next_line = stations_csvreader.readNext();
@@ -71,13 +57,11 @@ public class Main {
 			
 			
 			Resource station = model.createResource(stations + next_line[1]);
-			//Resource region = model.createResource(regions + next_line[2]);
 			Resource city = model.createResource(cities + next_line[4] + "_" + next_line[5]);
 			Resource dept = model.createResource(depts + next_line[7]);
 			
 			Literal name_station = model.createLiteral(next_line[17], "fr");
 			Literal name_city = model.createLiteral(next_line[6], "fr");
-			//Literal name_region = model.createLiteral(next_line[3]);
 			Literal name_dept = model.createLiteral(next_line[8]);
 			
 			Literal id = model.createLiteral(next_line[1]);
@@ -88,10 +72,8 @@ public class Main {
 			model.add(station, hasName, name_station);
 			model.add(station, hasLatitude, lat);
 			model.add(station, hasLongitude, lon);
-			//model.add(region, hasName, name_region);
 			model.add(city, hasName, name_city);
 			model.add(dept, hasName, name_dept);			
-			//model.add(station, addressRegion, region);
 			model.add(station, address, city);
 			model.add(station, addressLocality, dept);
 			model.add(city, geoWithin, dept);
