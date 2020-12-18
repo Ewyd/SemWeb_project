@@ -136,7 +136,6 @@ public class Main {
 		
 		model.write(System.out, "Turtle");
 		
-		
 		String datasetURL = o.getTrainStationsDB();
 		String sparqlEndpoint = datasetURL + "/sparql";
 		String sparqlUpdate = datasetURL + "/update";
@@ -147,7 +146,7 @@ public class Main {
 		System.out.print("Done !");
 		stations_csvreader.close(); 
 		
-		conneg.close(); 
+		conneg.close();
 		
 		
 		
